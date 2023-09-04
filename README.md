@@ -1392,13 +1392,11 @@ Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y C
 
 ### 5.1.2. Source Code Management.
 
-Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-pre-202302-GreatMinds-SW51) 
+Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-2023-GreatMinds-SW51-Web) 
 
 Repositorio del landing page: [Repositorio Landing Page]() 
 
-Repositorio Frontend: (Aún no implementado)
-
-Repositorio Backend: (Aún no implementado)
+Repositorio pruebas de aceptación: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/acceptance-test-web)
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
