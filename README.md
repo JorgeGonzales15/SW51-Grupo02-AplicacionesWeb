@@ -6,11 +6,11 @@ Ingeniería de Software
 
 Ciclo 2023-02
 
-# DESARROLLO DE APLICACIONES OPEN SOURCE
+# APLICACIONES WEB
 
 Sección SW51
 
-Profesor: Velasquez Nuñez, Angel Augusto
+Profesor: Tinoco Licas, Juan Carlos
 
 ***INFORME DE TRABAJO FINAL - TB1***
 
