@@ -713,10 +713,6 @@ Duración: 04:50
 Resumen de entrevista: 
 La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asistente en un pequeño comercio de venta de productos agrícolas. Juli nos dice que vende sus productos al por mayor. Además, que gestiona sus ventas de manera tradicional pero conservando la preferencia por la calidad de los productos que compra para posteriormente vender. Lamentablemente, tuvo que optar por decisiones tales como vender a bajo precio lo que le sobraba de productos, eso refleja una mala manera de gestionar los productos. Relacionado a ello, tuvo experiencias malas de que los proveedores de productos a veces no cumplen con su parte del trato incluso poniendo precios muy altos en la negociación. Sin embargo, ella piensa que una aplicación web que le ayude a comprar productos y hacerles un seguimiento, arreglaría sus problemas para sus ventas. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome.
 
-
-
-
-
 ### 2.2.3. Análisis de entrevistas.
 
 **Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
