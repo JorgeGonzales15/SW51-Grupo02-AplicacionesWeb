@@ -899,8 +899,6 @@ La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asis
   
   - El 100% de los encuestados usan Google Chrome como navegador habitual en sus dispositivos.
 
-
-
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
