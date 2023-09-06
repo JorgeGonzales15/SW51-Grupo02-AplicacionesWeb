@@ -163,7 +163,7 @@ Mi nombre es Miguel Ángel Huamán Cataño, tengo 19 años y actualmente estoy e
 
 Mi nombre es Paolo Andre Espejo Macuri, tengo 20 años de edad, estoy cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. Soy hábil con las TICs y soy una persona creativa para proporcionar ideas innovadoras. Aprendo de forma rápida nuevos temas al practicarlos y se me da bien la programación y la solución de errores.
 
-
+![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/db493790-9513-4fc1-b5de-e335d63043fe)
 
 ## 1.2. Solution Profile
 
@@ -556,7 +556,9 @@ de comercio.</th>
 ### 2.2.1. Diseño de entrevistas.
 
 **Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+
 - **Preguntas principales**
+  
   - En términos de cantidad, ¿considera que su producción es al por mayor o al por menor?
   - ¿Qué es lo que normalmente siembra en sus terrenos?
   - ¿Cómo es que vende lo que produce?
@@ -584,7 +586,9 @@ de comercio.</th>
   - ¿Cuál es el navegador que utiliza para acceder a internet?
 
 **Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+
 - **Preguntas principales**
+  
   - En términos de cantidad, ¿considera que sus ventas son al por mayor o al por menor?
   - ¿Qué es lo que normalmente busca de los productos agrícolas?
   - ¿Cómo es que compra lo que desea comerciar?
@@ -594,7 +598,9 @@ de comercio.</th>
   - ¿Le resulta difícil comprar lo que se ofrece en el mercado actual?
   - ¿Cuáles son sus objetivos a futuro con respecto a la exportación de productos agrícolas?
   - ¿Cuáles son las principales frustraciones que ha enfrentado en su trabajo como exportador?
+    
 - **Preguntas de ámbito de gestión**
+  
   - ¿Para usted es complicado encontrar a productores para comprar sus productos? ¿Qué dificultades tiene?
   - ¿Se olvida de los pedidos que tiene pendiente a menudo?
   - ¿Cómo gestiona normalmente sus exportaciones?
