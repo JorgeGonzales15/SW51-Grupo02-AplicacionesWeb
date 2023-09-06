@@ -1,3 +1,4 @@
+
 ![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
@@ -538,6 +539,7 @@ de comercio.</th>
 ### 2.1.2. Estrategias y tácticas frente a competidores.
 
 
+
 | Estrategia/ Táctica                          | Medidas a tomar                                         |
 |----------------------------------------------|---------------------------------------------------------|
 | Diferenciación en Dinámica de Compra y Venta | \- Destacar la ventaja de la compra y venta directa.    |
@@ -899,12 +901,11 @@ La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asis
 ## 2.3. Needfinding.
 ### 2.3.1. User Personas.
 
-
-Pequeños y medianos agricultores
+Pequeños y medianos agricultores.
 
 ![UserPersona1](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751299-3402707f-97d9-4385-8d61-a5d0d7955ce3.png)
 
-Comerciantes o exportadores
+Comerciantes o exportadores.
 
 ![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
 
@@ -913,7 +914,7 @@ Link para visualización de los user persona:
 [<u>https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</u>](https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
-### 2.3.2. User Task Matrix.
+### 2.3.2. User Task Matrix
 
 
 | COMERCIALIZADORES             | FRECUENCIA | IMPORTANCIA |
@@ -941,22 +942,22 @@ Link para la visualización de los User Task Matrix:
 
 - Frecuencia:
 
-> Respecto al segmento objetivo de agricultores las tareas con mayor
-> frecuencia son planear actividades agrícolas, gestionar insumos
-> agrícolas y el monitoreo de plagas. Respecto a los comercializadores
-> las tareas que se realizan el mayor número de veces son explorar
-> productos agrícolas, gestionar pedidos y entregas, y evaluar la
-> calidad de los productos.
+Respecto al segmento objetivo de agricultores las tareas con mayor
+frecuencia son planear actividades agrícolas, gestionar insumos
+agrícolas y el monitoreo de plagas. Respecto a los comercializadores
+las tareas que se realizan el mayor número de veces son explorar
+productos agrícolas, gestionar pedidos y entregas, y evaluar la
+calidad de los productos.
 
 - Importancia:
 
-> Respecto al segmento objetivo de comercializadores las tareas con
-> mayor importancias son explorar productos agrícolas, realizar pedidos
-> de productos, evaluar la calidad de productos y evaluar la demanda y
-> tendencias de los productos. Por otro lado, con respecto al segmento
-> de agricultores las tareas más relevantes son planificar actividades
-> agrícolas, control de costos y ganancias, gestionar insumos agrícolas
-> y realizar las ventas de estos mismo.
+Respecto al segmento objetivo de comercializadores las tareas con
+mayor importancias son explorar productos agrícolas, realizar pedidos
+de productos, evaluar la calidad de productos y evaluar la demanda y
+tendencias de los productos. Por otro lado, con respecto al segmento
+de agricultores las tareas más relevantes son planificar actividades
+agrícolas, control de costos y ganancias, gestionar insumos agrícolas
+y realizar las ventas de estos mismo.
 
 **Principales diferencias y coincidencias:**
 
@@ -986,16 +987,16 @@ largo del proceso. Esto permite comprender mejor cómo los usuarios
 interactúan con la aplicación, identificar oportunidades de mejora y
 alinear el diseño con sus necesidades reales.
 
-Segmento 1: Agricultores
+Segmento 1: Agricultores.
 
 ![UserJourneyMap1](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/265284905-9e9d15f3-d00d-4309-80ea-8552a89dac0d.jpeg)
 
-Segmento 2: Comercializadores
+Segmento 2: Comercializadores.
 
 ![UserJourneyMap2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/265284902-b2b8a006-08fd-448d-92f4-aa8f01c87844.jpeg)
 
 
-### 2.3.4. Empathy Mapping.
+### 2.3.4. Empathy Mapping
 
 Segmento objetivo: Productores que desean mejorar la calidad de sus productos
 ![EmpathyMap1](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751285-bcb85957-8bd7-47fa-93aa-d5dcb7f0abee.png)
@@ -1004,7 +1005,7 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 ![EmpathyMap2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751281-ba5274bf-8a83-42c1-8aaa-8e03434dfbdb.png)
 
 
-### 2.3.5. As-is Scenario Mapping.
+### 2.3.5. As-is Scenario Mapping
 
 
 Se utilizó un "AS-IS Scenario Mapping" para comprender y documentar la
