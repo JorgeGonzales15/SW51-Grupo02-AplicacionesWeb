@@ -131,13 +131,9 @@ Link de repositorio Github:
 
 El curso contribuye al cumplimiento del Student Outcome ABET:
 
-ABET – EAC - Student Outcome 3
-
-Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
-
-En el siguiente cuadro se describe las acciones realizadas y enunciados de 
-conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro 
-del ABET – EAC - Student Outcome 3.
+ABET – EAC - Student Outcome 5: La capacidad de funcionar efectivamente en un 
+equipo cuyos miembros juntos proporcionan liderazgo, crean un entorno de 
+colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen objetivos.
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
@@ -1313,20 +1309,326 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 
 ## 4.4. Web Applications UX/UI Design.
 ### 4.4.1. Web Applications Wireframes.
+
+**Pantallas relacionadas a la busqueda de productos:**
+![wireframe buscar productos](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/123ce308-a69e-4cc8-9588-3745ed3ae42b)
+
+---
+**Pantalla relacionada a la calificación de productos:**
+![wireframe calificación](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/2c46b597-fe3e-4e69-aa34-cc8a40b91ad7)
+
+---
+
+**Pantallas relacionadas a costos y ganancias:**
+![wireframe costos ganancias](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/30f14e2e-8adc-417c-a406-7fb943026a12)
+
+---
+
+**Pantallas relacionadas a la planfiicación de cultivos:**
+![wireframe cultivo](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/26aff367-713e-47af-ac40-941afd604609)
+
+---
+
+**Pantallas relacionas a la gestión de insumos:**
+![wireframe insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ed379d33-7bc0-45dc-8499-875fbf9802a4)
+
+---
+
+**Pantallas relacionadas a la atención de pedidos:**
+![WIREFRAME PEDIDOS](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/f0a91929-f0a9-4196-81c4-055d4293b751)
+
+---
+
+**Pantallas relacionadas a la compra de productos:**
+![wireframecompra compra](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/f4edf678-ee02-4bac-b573-69511dfbf2c4)
+
+---
+
+**Pantallas relacionadas al inicio de sesión:**
+![wireframes login](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/47b3b986-960f-4112-ae75-eeda1826e6cb)
+
+---
+
+**Pantallas relacionadas al seguimiendo de compras:**
+![wireframes seguimiento](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/24b5315d-764a-4adb-ac7d-4a5c024de5a2)
+
+---
 ### 4.4.2. Web Applications Wireflow Diagrams.
+
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario
+
+**Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
+
+**Task Flow:**
+- Primero se observará la pantalla de inicio de sesión, en esta se puede o iniciar o registrarse
+- Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
+- Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
+
+![Wireflow 1](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/69d3a980-ed25-4bec-8c8c-74fda207a54c)
+
+---
+
+**User Goal:** Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas. 
+
+**Task Flow:**
+- Primero se está en la pantalla de “Mis productos”
+- Si presiona el botón de “Añadir nuevo producto”, se mostrará la pantalla para rellenar los datos del cultivo 
+- Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
+- Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
+
+![Wireflow 2](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/2359dd6a-fd0e-430f-bcc1-ed1deeaa0002)
+
+---
+
+**User Goal:** Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero.
+
+**Task Flow:**
+- Primero se está en la pantalla de “Gestión Financiera”
+- Se mostrarán los costos en un label y las ganancias en otro label
+- Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
+- Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
+
+![wireflow3](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1d79971f-c505-424f-a5f8-40bda7b30f3f)
+
+---
+
+**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
+
+**Task Flow:**
+- Primero se tiene que seleccionar un producto
+- Luego el usuario da click al botón de “Insumos”
+- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
+
+![wireflow 4](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/93fc2e8f-2b7c-4173-bc4c-42d1731ee347)
+
+---
+
+**User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
+
+**Task Flow:**
+- Primero el usuario tiene que estar en la sección del header “Mis pedidos”
+- Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
+- Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
+
+![WIREFLOW 5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/59d72b29-dabd-4ac3-80f6-a563e07aa88e)
+
+---
+
+**Sector: Comerciantes**
+
+**User Goal:** Como comercializador quiero observar los productos disponibles para poder realizar los pedidos
+
+**Task Flow:**
+
+- Primero el usuario tiene que estar en la sección “Buscar Productos” 
+- Luego se mostrará la pantalla con los productos disponibles y una descripción
+
+![wireflow 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ecc5275a-0845-40dc-943a-c064bb27dede)
+
+---
+
+**Usar Goal:** Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas
+
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de buscar productos
+- Luego debe seleccionar el producto que desee comprar
+- Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
+
+![wireflow7](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/e12dacfd-6766-498f-976b-62bfb2a7271c)
+
+---
+
+**User Goal:** Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo
+
+**Task Flow:**
+
+- Primero el usuario debe estar en la pestaña de “Mis compras”
+- Seleccionar un producto y luego se le mostrará el estado de su compra e información
+- Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
+
+![wireflow 9](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/903e2d87-a0fc-4586-813c-bb6bf76109f8)
+
+---
+
+**User Goal:** Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios
+
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Calificaciones” 
+- En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
+
+![wireflow8](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/6b8f6c3a-b029-49ae-8815-8bcc50cff9ce)
+
+---
 ### 4.4.2. Web Applications Mock-ups.
+
+En esta sección, se presenta el diseño viusal y de interacción en formato de mockups del producto solución.
+
+**Pantallas relacionadas a la busqueda de productos:**
+![mockup inicio comerciante](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/57020957-243a-4b93-a669-f2a254027288)
+
+---
+
+**Pantalla relacionada a la calificación de productos:**
+![mockup clasificacion](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ee35a030-148b-4951-855d-7272ab087b8d)
+
+---
+
+**Pantallas relacionadas a costos y ganancias:**
+![mockups gastos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b1463919-d119-4202-b408-21d03562b09e)
+
+---
+
+**Pantallas relacionadas a la planfiicación de cultivos:**
+![registro de cultivo mockup](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9c893aa4-2ad9-4b0d-93aa-18f4c04fc23a)
+
+---
+
+**Pantallas relacionas a la gestión de insumos:**
+![mockup insumos y detalle de producto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/275a6282-c9df-451a-ba40-29be05ea4545)
+
+---
+
+**Pantallas relacionadas a la atención de pedidos:**
+![mockup atencios de pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f19367a9-de9f-447a-9fce-55cd1fac4b12)
+
+---
+
+**Pantallas relacionadas a la compra de productos:**
+![mockup compra](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/69981228-e074-42d6-b01a-23a639dbdda7)
+
+---
+
+
+**Pantallas relacionadas al inicio de sesión:**
+![mockup login](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9388e04d-56f4-4b21-b783-1c31a503c228)
+
+---
+
+**Pantallas relacionadas al seguimiendo de compras:**
+![seguimiento](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a5d9ff96-50b1-497f-8115-27e517c78031)
+
+---
+
+
 ### 4.4.3. Web Applications User Flow Diagrams.
+
+**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
+
+**Task Flow:**
+- Primero se tiene que seleccionar un producto
+- Luego el usuario da click al botón de “Insumos”
+- Le aparecerá la pantalla de los insumos usados ya registrados en el producto
+![user flow mis productos e insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2440130a-15a4-4bc8-9fa7-9ad51cfd5cba)
+
+---
+
+**User Goal:** Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo
+
+**Task Flow:**
+
+- Primero el usuario debe estar en la pestaña de “Mis compras”
+- Seleccionar un producto y luego se le mostrará el estado de su compra e información
+- Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
+
+![user flow seguimiento](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/86d99c6e-7108-49d1-9bee-8e1b27320c12)
+
+---
+
+**Usar Goal:** Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas
+
+**Task Flow:**
+- Primero el usuario debe estar en la pantalla de buscar productos
+- Luego debe seleccionar el producto que desee comprar
+- Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
+  
+![USERFLOW COMPRA](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/37aebbb8-db27-4be4-889a-320952d738dd)
+
+---
+
+**User Goal:** Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero.
+
+**Task Flow:**
+- Primero se está en la pantalla de “Gestión Financiera”
+- Se mostrarán los costos en un label y las ganancias en otro label
+- Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
+- Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
+
+![userflow costos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26417dae-0fe5-415a-99eb-538ce4215e48)
+
+---
+
+**Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
+
+**Task Flow:**
+- Primero se observará la pantalla de inicio de sesión, en esta se puede o iniciar o registrarse
+- Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
+- Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
+  
+![userflow login](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f07df25b-1a9a-475d-a610-24a3aec2e290)
+
+---
+
+**User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
+
+**Task Flow:**
+- Primero el usuario tiene que estar en la sección del header “Mis pedidos”
+- Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
+- Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
+
+![userflow pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26e1f55c-aa33-4d03-a2d4-d3f4c048bf0c)
+
+---
+
+**User Goal:** Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas. 
+
+**Task Flow:**
+- Primero se está en la pantalla de “Mis productos”
+- Si presiona el botón de “Añadir nuevo producto”, se mostrará la pantalla para rellenar los datos del cultivo 
+- Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
+- Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
+  
+![userflow planifiación con agregado](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/274e9055-5147-4fed-8316-005be3413716)
+
+---
+
+
+**User Goal:** Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios
+
+**Task Flow:**
+- Primero el usuario debe estar en la sección “Calificaciones” 
+- En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
+
+![user flow clasificación](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ea2b5759-35d2-4e39-9cb7-f53ede138d12)
+
+---
 ### 4.5. Web Applications Prototyping.
+
+En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
+
+**Principio de elección:**
+Procuramos que la aplicación web posea una cantidad de secciones a todo momento, por lo que se cuenta con la barra superior siempre en la aplicación con 4 secciones, los cuales podrá acceder a las funcionalidades rapidamente desde cualquier pantalla.
+
+**Principio de divulgación:**
+La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee. Esto se evidencia en los detalles al seleccionar un cultivo.
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d1677ee0-a6ce-494b-b406-d804be366f70)
+Link de video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
+
+Link del prototipo: [Figma](https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
+![prototype](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/970fa7d2-d4cd-4890-881a-b485773e922f)
 
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![Contexto](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/63cb482a-5732-4eb3-b44d-892a6d9d3fc0)
+![structurizr-85725-Contexto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1a0fcaff-d404-4492-b1e3-d162f79bfbcb)
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
+![structurizr-85725-Contenedores](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a05b6fd-3add-490a-b2af-f42cefc88285)
 
 ### 4.6.3. Software Architecture Components Diagrams.
+
+![structurizr-85725-Componente](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3f1545c7-7a40-42dc-9923-592d5562595e)
 
 ## 4.7. Software Object-Oriented Design.
 
@@ -1336,7 +1638,10 @@ En esta sección, se utilizará el enfoque de diseño orientado a objetos para d
 
 En esta sección, se presentarán los diagramas de clases, en las cuales se representan las clases y sus relaciones en el diseño orientado a objetos.
 
+![Diagrama de clase](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/421d4185-8842-4a52-a824-c5e57c1ed9ee)
+
 Link del diagrama de clases: [Lucidchart](https://lucid.app/lucidchart/da673808-9900-4ced-8184-01abaa761b59/edit?view_items=CDxqUGDDEZN7&invitationId=inv_b067fe97-c812-4a2d-93cc-f2436025b5db)
+
 
 ### 4.7.2. Class Dictionary.
 
@@ -1439,8 +1744,11 @@ Implementación del Landing Page acorde con las User Stories.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| Ayni_Landing | develop | d172a5f | feature: Creación de Landing  | - | 03/09/2023 |
-| Ayni_Landing | develop | 60467c0 | feature: Benefits Section  | - | 03/09/2023 |
+| Ayni_LandingPage_Web | develop | d172a5f | feature: Creación de Landing  | - | 03/09/2023 |
+| Ayni_LandingPage_Web | develop |  | feature: Benefits Section  | - | 06/09/2023 |
+| Ayni_LandingPage_Web | develop | ef25af3 | feature/footer-responsive-callToActionSection  | - | 05/09/2023 |
+| Ayni_LandingPage_Web | develop | 0d11262 | Feature/aboutAsSection  | - | 05/09/2023 |
+| Ayni_LandingPage_Web | develop | 73f3545 | Feature/FunctionalitiesSection  | - | 05/09/2023 |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 Esta sección no fue posible integrar en la presente entrega debido a que el código realizado fue para el desarrollo de la landing page.
