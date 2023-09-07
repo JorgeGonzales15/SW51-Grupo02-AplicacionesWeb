@@ -1965,4 +1965,6 @@ El Comercio (2023). CCL: sector agro perdería hasta S/50,8 millones diarios por
 
 Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdidas por S/1,611 millones en el sector agropecuario este año por efecto de cuarentena. Recuperado de https://www.congreso.gob.pe/Docs/Otamdegrl/files/boletinsocial/bs_30_julio_2020.pdf
 
+# Anexos
 
+Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZvoCth7yFlDnQadMBlDhUEBIcNdSk0_PHLXOR7RNEfbPg?e=ASHZv1)
