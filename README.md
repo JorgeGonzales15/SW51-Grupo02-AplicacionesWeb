@@ -38,7 +38,19 @@ Agosto del 2023
 ---
 # Project Report Collaboration Insights
 
-Link de repositorio Github: 
+TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
+Link de repositorio Github: [Repositorio de Informe](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+
+![commitsweb](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d977e50d-85b0-438e-84e4-622645140431)
+![commitsweb3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76144deb-c0fe-461d-bfb8-66d22164bd6f)
+
+Como se evidencia, todos trabajaron en la presente entrega, usando Github se logró completar el informe con los siguientes capítulos: 
+
+- Capítulo I: Introducción
+- Capítulo II: Requirements Elicitation & Analysis
+- Capítulo III: Requirements Specification
+- Capítulo IV: Product Design
+- Capítulo V: Product Implementation, Validation & Deployment (Hasta el punto 5.2.1.8 correspondiente al Sprint 1)
 
 ---
 # Contenido 
@@ -51,8 +63,8 @@ Link de repositorio Github:
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
-  - [1.2.1. Antecedentes y problemática](#121-antecedentes-y-problemática)
-  - [1.2.2. Lean UX Process](#122-lean-ux-process)
+  - [1.2.1 Antecedentes y problemática](#121-antecedentes-y-problemática)
+  - [1.2.2 Lean UX Process](#122-lean-ux-process)
     - [1.2.2.1. Lean UX Problem Statements](#1221-lean-ux-problem-statements)
     - [1.2.2.2. Lean UX Assumptions](#1222-lean-ux-assumptions)
     - [1.2.2.3. Lean UX Hypothesis Statements](#1223-lean-ux-hypothesis-statements)
@@ -96,8 +108,8 @@ Link de repositorio Github:
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
   - [4.4.2. Web Applications Wireflow Diagrams](#442-web-applications-wireflow-diagrams)
-  - [4.4.2. Web Applications Mock-ups](#443-web-applications-mock-ups)
-  - [4.4.3. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
+  - [4.4.3. Web Applications Mock-ups](#443-web-applications-mock-ups)
+  - [4.4.4. Web Applications User Flow Diagrams](#444-web-applications-user-flow-diagrams)
 - [4.5. Web Applications Prototyping](#45-web-applications-prototyping)
 - [4.6. Domain-Driven Software Architecture](#46-domain-driven-software-architecture)
   - [4.6.1. Software Architecture Context Diagram](#461-software-architecture-context-diagram)
@@ -125,6 +137,10 @@ Link de repositorio Github:
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+
+## [Conclusiones](#conclusiones)
+
+## [Referencias](#referencias)
 
 
 ---
@@ -156,15 +172,23 @@ Como misión se plantea “Incrementar la producción agrícola con eficiencia, 
 
 Mi nombre es Jorge Enrique Gonzales Carrión tengo 19 años de edad y curso el sexto ciclo de la carrera Ingeniería de Software. Me considero una persona con sentido de responsabilidad y la suficiente capacidad de trabajar en equipo aportando ideas innovadoras. Además, en cualidades me considero asertivo y colaborativo, puntos que pueden mejorar el proceso de elaboración de los distintos trabajos del curso. Finalmente, poseo conocimientos de programación que brindaron los ciclos anteriores al presente.
 
+![jroge](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f2ae0bea-109a-48cb-abd8-47db542006c3)
+
 Mi nombre es Tatiana Medalith Paucar De La Cruz, tengo 19 años y soy estudiante del quinto ciclo de la carrera de ingeniería de software en la Universidad Peruana de Ciencias Aplicadas (UPC). Me considero una persona autodidacta, lo que me permite adquirir nuevos conocimientos de manera constante. Asimismo, me considero una persona bastante organizada y responsable en el ámbito académico. Además de ello, me gusta trabajar arduamente para lograr objetivos comunes dentro de un proyecto.
+
+![tatiana](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b7b10f6f-9b4a-4969-903a-0f6a02f98e3b)
 
 Mi nombre es Jose Daniel Zarate Castro y actualmente tengo 20 años. Soy un estudiante de Ingeniería de Software en el quinto ciclo de mi formación académica. Soy una persona muy orientada al trabajo en equipo y siempre estoy entusiasmado por colaborar y contribuir al máximo. Me considero un participante activo en cualquier proyecto o actividad que emprenda. Tengo una actitud empática hacia los demás y me esfuerzo por entender las necesidades y perspectivas de mis compañeros. En términos de conocimientos técnicos tengo conocimientos en Java, c# y Python.
 
+![jose](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d666fad1-9ecc-434f-902a-ade49f2c63ad)
+
 Mi nombre es Miguel Ángel Huamán Cataño, tengo 19 años y actualmente estoy estudiando el 5to ciclo de la carrera de Ingeniería de software en la Universidad Peruana de Ciencias Aplicadas. Me considero una persona responsable que es capaz de lograr lo que se propone. Además, siempre tengo una actitud positiva y respetuosa con las demás personas. Poseo los conocimientos de programación brindados por la universidad y sé lo básico de algunos otros lenguajes de programación , soy capaz de aprender rápidamente sobre ciertos temas gracias a mi buena lógica y capacidad de aprendizaje.
+
+![miguel](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0ed846d6-bb18-4980-8871-ad2f983eb236)
 
 Mi nombre es Paolo Andre Espejo Macuri, tengo 20 años de edad, estoy cursando el sexto ciclo de la carrera de Ingeniería de Software en la UPC. Soy hábil con las TICs y soy una persona creativa para proporcionar ideas innovadoras. Aprendo de forma rápida nuevos temas al practicarlos y se me da bien la programación y la solución de errores.
 
-![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/db493790-9513-4fc1-b5de-e335d63043fe)
+![paolo](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/386b5d22-7174-4557-a91f-721da4c3cea4)
 
 ## 1.2. Solution Profile
 
@@ -620,26 +644,39 @@ de comercio.</th>
 Entrevistado 1:
 
 Nombre y apellidos: Jerónimo Vilcamiza Saldaña
+
 Edad: 41 años
+
 Distrito: El carmen - Chincha
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 0:00 
+
 Fin: 7:43
+
 Duración: 7:43
 
 ![entrevista1](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/8a677388-1d07-4e19-b9b4-0decb701f59a)
 
 Resumen de la entrevista:
+
 El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41 años que reside en el distrito de El Carmen, en la provincia de Chincha. Él nos menciona que  posee un terreno, donde normalmente cultiva maíz o palto. Asimismo, menciona que  indica que al momento de la cosecha, ofrece sus productos al por mayor a los intermediarios. En algunas ocasiones acepta precios bajos con el fin de no desperdiciar sus productos. No obstante, si eso sucede, comercializa sus productos en el mercado local.
 
 Entrevistado 2:
 
 Nombre y apellidos: Gian Ismael Castillón Paucar
+
 Edad: 28 años
+
 Distrito: El carmen - Chincha
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 7:43
+
 Fin: 18:53
+
 Duración: 11:10
 
 ![entrevista2](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/dcc9c0b5-2698-4a89-9afd-f3418cba35a2)
@@ -651,11 +688,17 @@ El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica 
 Entrevistado 3:
 
 Nombre y apellidos: Rolando Salvatierra
+
 Edad: 50
+
 Región: Junín 
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 18:53
+
 Fin: 27:02
+
 Duración: 08:09
 
 ![entrevsitado3](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/dc54cc29-50a7-46f8-8929-9ca4a2a5bc83)
@@ -669,11 +712,17 @@ Resumen de la entrevista:
 Entrevistado 4: 
 
 Nombre y apellidos: André Luna
+
 Edad: 25
+
 Distrito: Lince - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 27:02
+
 Fin: 35:37
+
 Duración: 08:35
 
 ![entrevistado4](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/289905bc-abd5-4a1a-994b-9855c7e7e673)
@@ -685,11 +734,17 @@ El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asisten
 Entrevistado 5:
 
 Nombre y apellidos: Favio Onofre
+
 Edad: 24
+
 Distrito: Santiago de Surco - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+
 Inicio: 35:37
+
 Fin: 44:03
+
 Duración: 08:26
 
 ![entrevistado5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1db9b603-0d51-4cd1-a8f1-a06507ad8ec9)
@@ -700,11 +755,17 @@ El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asiste
 Entrevistado 6:
 
 Nombre y apellidos: Juli Carrión
+
 Edad: 45
+
 Distrito: Surco - Lima
+
 Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
-Inicio:44:03
+
+Inicio: 44:03
+
 Fin: 48:53
+
 Duración: 04:50
 
 ![entrevsitado 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/0a0a8d9e-5582-49dc-9bf7-1976f0e1cad1)
@@ -899,7 +960,12 @@ La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asis
   - El 100% de los encuestados usan Google Chrome como navegador habitual en sus dispositivos.
 
 ## 2.3. Needfinding.
+
+En esta sección, se buscarán las necesidades implícitas y explícitas de las personas o segmentos para poder diseñar y adaptar el producto solución de manera apropiada.
+
 ### 2.3.1. User Personas.
+
+Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, estos user persona son creados en base a la investigación de capitulos previos para identificar a los diferentes tipos de clientes que podrían usar el producto solución. Se utilizó la herramienta UXPressia.
 
 Pequeños y medianos agricultores.
 
@@ -908,10 +974,6 @@ Pequeños y medianos agricultores.
 Comerciantes o exportadores.
 
 ![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
-
-Link para visualización de los user persona:
-
-[<u>https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</u>](https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 
 ### 2.3.2. User Task Matrix
@@ -934,9 +996,6 @@ Link para visualización de los user persona:
 | Acceder a reportes detallados    | Often      | Medium      |
 | Realizar ventas                  | Often      | High        |
 
-Link para la visualización de los User Task Matrix:
-
-<u>https://www.canva.com/design/DAFgyK-40QQ/jKAjVHUZpaVKD71oZ6i3qA/edit?utm_content=DAFgyK-40QQ&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton</u>
 
 **Tareas con Mayor Frecuencia e Importancia:**
 
@@ -985,7 +1044,7 @@ Proporciona una representación detallada de cada paso que los usuarios
 realizan, sus emociones, puntos de contacto y puntos de fricción a lo
 largo del proceso. Esto permite comprender mejor cómo los usuarios
 interactúan con la aplicación, identificar oportunidades de mejora y
-alinear el diseño con sus necesidades reales.
+alinear el diseño con sus necesidades reales. Se utilizó la herramienta Miro.
 
 Segmento 1: Agricultores.
 
@@ -1012,7 +1071,7 @@ Se utilizó un "AS-IS Scenario Mapping" para comprender y documentar la
 situación actual o el estado actual de las interacciones de los usuarios
 con la plataforma. Este enfoque permite capturar de manera detallada
 cómo los usuarios se enfrentan a la aplicación en su forma actual, sus
-acciones, emociones y puntos de fricción.
+acciones, emociones y puntos de fricción. Se utilizó la herramienta Miro.
 
 ![As-is](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751316-cc05531c-4789-4988-9ea7-a930a1f3aa9c.png)
 
@@ -1027,7 +1086,9 @@ Visualización de los As-Is Scenario Mapping:
 En esta parte se utilizó el “TO-BE Scenario Mapping” para ello se hizo una representación visual de cómo deberían ser los procesos después de implementar las mejoras y cambios sugeridos. Es una parte crucial de la metodología de mejora de procesos y ayuda a las organizaciones a visualizar cómo podrían ser sus operaciones optimizadas en el futuro.
 
 Segmento de agricultores:
+
 ![ToBe](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/364e9acb-a307-4de6-95f4-20148221907f)
+
 ## 3.2. User Stories.
 
 |Epic ID|Título de épica|Descripción de la épica|
@@ -1353,7 +1414,9 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 ---
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario
+En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
+
+Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
 
 **Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
 
@@ -1362,7 +1425,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
 - Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
 
-![Wireflow 1](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/69d3a980-ed25-4bec-8c8c-74fda207a54c)
+![wirefrlow 1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9d53b467-cf0c-4e75-aae8-0206c9668001)
 
 ---
 
@@ -1374,7 +1437,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
 - Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
 
-![Wireflow 2](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/2359dd6a-fd0e-430f-bcc1-ed1deeaa0002)
+![wireflow 2 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bfce0ee5-bfe7-4f79-b8ab-12d7d1a71a6d)
 
 ---
 
@@ -1386,7 +1449,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
 - Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
 
-![wireflow3](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1d79971f-c505-424f-a5f8-40bda7b30f3f)
+![wireflow 3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3ac1f604-0b0e-4ff7-95d6-a74cc3888d63)
 
 ---
 
@@ -1397,7 +1460,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego el usuario da click al botón de “Insumos”
 - Le aparecerá la pantalla de los insumos usados ya registrados en el producto
 
-![wireflow 4](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/93fc2e8f-2b7c-4173-bc4c-42d1731ee347)
+![wireflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/92807fa0-63cd-4cd3-aff6-173f1af75702)
 
 ---
 
@@ -1408,7 +1471,18 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
 - Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
 
-![WIREFLOW 5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/59d72b29-dabd-4ac3-80f6-a563e07aa88e)
+![wireflow 5 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/c4ca075b-227c-4063-a9e8-8b3fb43487c7)
+
+
+---
+
+**User Goal:** Como usuario deseo encontrar los productos de manera rápida para no perder tiempo
+
+**Task Flow:**
+- Primero el usuario debe encotnrarse en una de las paginas de inicio o en secciones con paginación
+- Luego, el usuario deberá escribir lo que desea en el input y luego darle click al icono de la lupa, en caso de paginación escoger la pagina deseada.
+
+![wireflow 6 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0e2b2c0c-ff4b-4830-8320-a711f3b29fb9)
 
 ---
 
@@ -1421,7 +1495,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Primero el usuario tiene que estar en la sección “Buscar Productos” 
 - Luego se mostrará la pantalla con los productos disponibles y una descripción
 
-![wireflow 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ecc5275a-0845-40dc-943a-c064bb27dede)
+![wireflow 7 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f78109c8-122d-438a-a1d6-3465570d817a)
 
 ---
 
@@ -1432,7 +1506,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Luego debe seleccionar el producto que desee comprar
 - Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
 
-![wireflow7](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/e12dacfd-6766-498f-976b-62bfb2a7271c)
+![wireflow 8 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cfbc9cdd-f6cc-4307-8b9d-e9a9f5de5c75)
 
 ---
 
@@ -1444,7 +1518,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Seleccionar un producto y luego se le mostrará el estado de su compra e información
 - Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
 
-![wireflow 9](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/903e2d87-a0fc-4586-813c-bb6bf76109f8)
+![wireflow 9 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a4fd64ee-27c1-4c18-81a8-996b8a2818cc)
 
 ---
 
@@ -1454,7 +1528,7 @@ En esta sección, se presentan los wireflows de la aplicación guiándose de las
 - Primero el usuario debe estar en la sección “Calificaciones” 
 - En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
 
-![wireflow8](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/6b8f6c3a-b029-49ae-8815-8bcc50cff9ce)
+![wireflow 10 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8e486e78-ed01-4ede-9846-453b3c3618ca)
 
 ---
 ### 4.4.2. Web Applications Mock-ups.
@@ -1510,13 +1584,20 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 ### 4.4.3. Web Applications User Flow Diagrams.
 
+En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo. Se utilizó la herramienta LucidChart.
+
+Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
+
 **User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
 
 **Task Flow:**
 - Primero se tiene que seleccionar un producto
 - Luego el usuario da click al botón de “Insumos”
 - Le aparecerá la pantalla de los insumos usados ya registrados en el producto
-![user flow mis productos e insumos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/2440130a-15a4-4bc8-9fa7-9ad51cfd5cba)
+- Si el usuario desea editar los insumos puede hacerlo mediante inputs
+- Finalmente se le mostrará una pantalla de guardado o una pantalla de eliminación de cultivo si así lo quiere (Unhapy Path)
+
+![userflow1 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a65fbfa-9e2b-4f4d-9a15-8a4947ab97cb)
 
 ---
 
@@ -1527,8 +1608,10 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Primero el usuario debe estar en la pestaña de “Mis compras”
 - Seleccionar un producto y luego se le mostrará el estado de su compra e información
 - Si hace click en el botón “Ver estado” podrá ver detalladamente el estado actual del producto
+- Si el usuario lo desea puede cancelar su compra (Unhappy Path)
 
-![user flow seguimiento](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/86d99c6e-7108-49d1-9bee-8e1b27320c12)
+![userflow2 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bcd167da-4798-4e6a-ba6a-def0127df6b9)
+
 
 ---
 
@@ -1538,8 +1621,9 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Primero el usuario debe estar en la pantalla de buscar productos
 - Luego debe seleccionar el producto que desee comprar
 - Se debe dar click en comprar y aparecerá la pantalla de dashboard donde debe completar datos para la compra
+- Si el usuario lo desea puede cancelar la compra con el botón "Cancelar compra" (Unhappy Path)
   
-![USERFLOW COMPRA](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/37aebbb8-db27-4be4-889a-320952d738dd)
+![userflow3 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/bf758eb8-87d1-41f7-bb8d-39d0b0a10ad7)
 
 ---
 
@@ -1551,29 +1635,19 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Si el usuario le da click al botón “Ver más”, se mostrarán a detalle los costos o ganancias según haya elegido previamente
 - Si el usuario le da click a “Registrar” en la sección que escogió, se mostrará la pantalla de registro.
 
-![userflow costos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26417dae-0fe5-415a-99eb-538ce4215e48)
+![userflow 4 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f306cfc6-4e57-4053-8a73-5801161c8f7f)
 
 ---
 
-**Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
-
-**Task Flow:**
-- Primero se observará la pantalla de inicio de sesión, en esta se puede o iniciar o registrarse
-- Si accede a registrarse, se mostrará la pantalla de registro. Puede regresar a iniciar sesión o continuar
-- Finalmente, se accede a la pantalla de selección de roles si es que se registra, para que acceda a la aplicación.
-  
-![userflow login](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/f07df25b-1a9a-475d-a610-24a3aec2e290)
-
----
 
 **User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
 
 **Task Flow:**
 - Primero el usuario tiene que estar en la sección del header “Mis pedidos”
 - Luego, se mostrará la pantalla de pedidos con las listas de los pedidos pendientes
-- Al seleccionar un pedido, el productor puede darle al botón de aceptar o rechazar pedido
+- Al seleccionar un pedido, el productor puede darle al botón de aceptar (Happy Path) o rechazar pedido (Unhappy Path)
 
-![userflow pedidos](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/26e1f55c-aa33-4d03-a2d4-d3f4c048bf0c)
+![userflow 5 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/904e93d2-9184-40da-838f-c4e635e1915d)
 
 ---
 
@@ -1584,8 +1658,9 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 - Si presiona el botón de “Añadir nuevo producto”, se mostrará la pantalla para rellenar los datos del cultivo 
 - Luego, se mostrará un dashboard para la planificación de cultivo, donde se irá introduciendo pasos para la planificación
 - Finalmente, se mostrará el calendario de la planificación donde el usuario podrá introducir eventos
+- Si el usuario quiere eliminar el cultivo, le debe dar al botón "Elminar cultivo" (Unhappy Path)
   
-![userflow planifiación con agregado](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/274e9055-5147-4fed-8316-005be3413716)
+![userflow 6 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/3152792e-b890-435d-9d18-59ed2c68452a)
 
 ---
 
@@ -1595,10 +1670,12 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 **Task Flow:**
 - Primero el usuario debe estar en la sección “Calificaciones” 
 - En la siguiente pantalla se mostrará información de los productos que compró y una calificación en estrellas
+- Si el usuario no desea dejar califcación simplemente retrocede a la sección de Inicio/Home (Unhappy Path)
 
-![user flow clasificación](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/ea2b5759-35d2-4e39-9cb7-f53ede138d12)
+![userflow 7 ld](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/42b85ca4-d60b-4ba6-b2d4-748c094cfbfc)
 
 ---
+
 ### 4.5. Web Applications Prototyping.
 
 En esta sección, se puede acceder al prototipo en la herramienta Figma. Asismismo se pueden evidenciar los principios de arquitectura de información, esto hace que la aplicación se vea lo más eficiente posible.
@@ -1610,9 +1687,11 @@ Procuramos que la aplicación web posea una cantidad de secciones a todo momento
 La información presentada se separa por partes, de tal manera que el usuario encuentre lo que desee. Esto se evidencia en los detalles al seleccionar un cultivo.
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d1677ee0-a6ce-494b-b406-d804be366f70)
+
 Link de video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
 
 Link del prototipo: [Figma](https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
+
 ![prototype](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/970fa7d2-d4cd-4890-881a-b485773e922f)
 
 ## 4.6. Domain-Driven Software Architecture.
@@ -1697,15 +1776,21 @@ Para el desarrollo del landing page, se decidió con el equipo usar HTML, JS y C
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-2023-GreatMinds-SW51-Web) 
 
-Repositorio del landing page: [Repositorio Landing Page]() 
+Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-2023-GreatMinds-SW51-Web/Ayni_LandingPage_Web/tree/Release/1.0) 
 
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/acceptance-test-web)
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
-Referente a las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (Google HTML) y CSS (CSS Style Guide). En el caso de la implementación del frontend, se utilizará Options API para el Framework Vue.
-Respecto a las convenciones para el control de versiones en GitHub, se usará conventional commits tanto para las ramas como para los commits usando “type/title”. En cuanto a la creación de ramas, se usará features branches siguiendo el modelo de GitFlow con la misma nomenclatura descrita anteriormente. La rama principal será la rama main, que contendrá la versión de la aplicación desplegada. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática.
+Referente a las convenciones o estilos de programación, se seguirá la guía de estilos de Google para programar en HTML (HTML5), CSS3) y JavaScript (JS) en el caso de la landing page. En el caso de la implementación del frontend, se hará uso de Vue Framework, utilizando HTML5, CSS3, JavaScript para aspectos estáticos de templates y JavaScript como lenguaje de programación.
+
+Para el almacenamiento y control de versiones de código se utilizará GIT gestionado desde 
+GitHub aplicando GitFlow Workflow, Conventional Commits y Semantic Versioning. Además, todos los hotfixes se realizan en ella, para así poder tener los arreglos desplegados de forma automática. 
+
+El lenguaje de diseño de Landing Page y Web Applications estará basado en Material Design. Como biblioteca de componentes de UI se utilizará PrimeVue.
+
+Para el desarrollo de Web Services, se realizará bajo RESTful API architectural style y se hará uso de ASP.NET Core Framework, utilizando C# como lenguaje de Programación. 
 
 ### 5.1.4. Software Deployment Configuration.
 
@@ -1737,13 +1822,12 @@ Implementación del Landing Page acorde con las User Stories.
 ![sprint backlog arreglado](https://user-images.githubusercontent.com/104078975/265294372-30a30987-c90f-4579-8685-987a5ebc27e5.png)
 
 
-
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
 | Ayni_LandingPage_Web | develop | d172a5f | feature: Creación de Landing  | - | 03/09/2023 |
-| Ayni_LandingPage_Web | develop |  | feature: Benefits Section  | - | 06/09/2023 |
+| Ayni_LandingPage_Web | develop | a43f17b | feature: Benefits Section  | - | 06/09/2023 |
 | Ayni_LandingPage_Web | develop | ef25af3 | feature/footer-responsive-callToActionSection  | - | 05/09/2023 |
 | Ayni_LandingPage_Web | develop | 0d11262 | Feature/aboutAsSection  | - | 05/09/2023 |
 | Ayni_LandingPage_Web | develop | 73f3545 | Feature/FunctionalitiesSection  | - | 05/09/2023 |
@@ -1769,3 +1853,33 @@ Como se mencionó, se utilizó Netlify para el despliegue automático del landin
 [Ayni Landin Page](https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+Las actividades para el presente Sprint se repartieron en base a las secciones de la landing page que se plantearon como equipo previamente, para ello, se realizaron primero los styles en un archivo aparte .css y luego entre todo el equipo se desarrolló el index.html. De esta manera, el desarrollo de la landing page fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![commitsweblanding](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0b8885be-9425-4864-aaf4-2b42f47f700e)
+![commitsweblandingnetwork](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9b69cad2-270e-4fc9-8616-40dfb75ee681)
+
+# Conclusiones
+
+- En conclusión, en este entregable se ha definidio la idea de negocio para el proyecto, asimismo, la problemática que se busca solucionar y a raiz de ello se utilizaron herramientas y artefactos para los puntos de este entregable, tales como: 5W's y 2H's, Lean Ux, Entrevistas, As-Is y To-Be Scenario Mapping, entre otros. Todos estos artefactos sirvieron para identificar las caracteristicas que deben estar presentes en el futuro del desarrollo de la aplicación web para satisfacer a la problematica planteada.
+  
+- Por otro lado, se definieron los General Style Guidelines que sirvieron de base para diseños los Wireframes y Mock-ups de la aplicación web y de la landing page, donde se evidenciaran todos los principios que se propusieron para el futuro desarrollo de la aplicación web.
+
+- Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
+  
+
+# Referencias
+
+COMEXPERU (2020). PROBLEMAS DEL SECTOR AGRÍCOLA EXPLICARÍAN LOS MENORES INGRESOS DE LOS PRODUCTORES - Sociedad de Comercio Exterior del Perú. Recuperado de https://www.comexperu.org.pe/articulo/problemas-del-sector-agricola-explicarian-los-menores-ingresos-de-los-productores
+
+INEI (2022). Comportamiento de los indicadores de mercado laboral a Nivel Nacional. Recuperado de https://m.inei.gob.pe/media/MenuRecursivo/boletines/03-informe-tecnico-empleo-nacional-abr-may-jun-2022.pdf 
+
+MINAGRI (s.f). PROBLEMAS TIPO DE LA AGRICULTURA PERUANA. Recuperado de https://www.midagri.gob.pe/portal/22-sector-agrario/vision-general/190-problemas-en-la-agricultura-peruana
+
+COEECI (2022). Problemático del agro en el Perú: Impactos a los agricultores y propuestas de acción. Recuperado de https://coeeci.org.pe/problematica-del-agro-en-el-peru-impactos-a-los-agricultores-y-propuestas-de-accion/
+
+El Comercio (2023). CCL: sector agro perdería hasta S/50,8 millones diarios por lluvias e inundaciones. Recuperado de https://elcomercio.pe/economia/peru/ccl-sector-agro-perderia-hasta-s-508-millones-diarios-por-lluvias-huaicos-e-inundaciones-camara-de-comercio-de-lima-peru-ciclon-yaku-noticia/
+
+Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdidas por S/1,611 millones en el sector agropecuario este año por efecto de cuarentena. Recuperado de https://www.congreso.gob.pe/Docs/Otamdegrl/files/boletinsocial/bs_30_julio_2020.pdf
+
+
