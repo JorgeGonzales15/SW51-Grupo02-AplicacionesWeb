@@ -17,7 +17,7 @@ Profesor: Tinoco Licas, Juan Carlos
 
 **Startup: GreatMinds**
 
-**Producto:**
+**Producto: Ayni**
 
 **Integrantes:**
 - Espejo Macuri, Paolo Andre
