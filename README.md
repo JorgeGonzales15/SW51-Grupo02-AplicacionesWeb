@@ -1949,6 +1949,7 @@ Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-
 
 Repositorio pruebas de aceptación: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/acceptance-test-web)
 
+Repositorio Frontend: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/AyniFrontendWeb)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
