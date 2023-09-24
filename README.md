@@ -33,7 +33,13 @@ Agosto del 2023
 
 | Versión | Fecha | Autor | Descripción de la modificación |
 | - | - | - | - |
-| 1.00 | 08/09/2022 | Jorge Gonzales, Paolo Espejo, Miguel Huaman, Tatiana Paucar, Jose Zarate | Implementación de startup profile, solution profile, segmento objetivo, competidores, entervistas, needfinding, journey map, product backlog, entre otros. Asimismo, la implementación de Landing Page Wireframe, Landing Page Mockup, Information Architecture, Software Architecture Context Diagram, Class Diagram, Software Configuration Management, entre otros. |
+| 1.00 | 15/08/2023 | Gonzales Carrión, Jorge Enrique| Se realizó la caratula y el indice del informe. Además, todo los puntos correspondientes a solution profile, startup profile y antecedentes y problemáticas, segmentos objetivos. Se realizó el capitulo de General Style Guidelines, Wireframes, Mockups y sus respectivos wireflows y userflows. Se realizó los diagramas C4.|
+| 1.10 | 20/08/2023 | Paucar De La Cruz, Tatiana Medalith | Se realizó los puntos de Lean UX Process, Diagrama de clase, diagrama de base de datos, registro de entrevistas (participando como entrevistador) |
+| 1.20 | 21/08/2023 | Zarate Castro, Jose Daniel | Se realizó el As-Is Sceario Mapping, User task matrix, User Persona, User Journey Mapping, Estilos de la landing page|
+| 1.30 | 21/08/2023 | Huaman Catano, Miguel Angel | Realizó el To-Be Scenario Mapping, User stories y epics y product backlog |
+| 1.40 | 01/09/2023 | Espejo Macuri, Paolo Andre | Se realizaron las preguntas para las entrevistas para ambos sectores y participó de entrevistador en el registro de entrevistas. Se realizó el análisis de entrevistas. Se realizó mockups y wireframes.|
+| 1.50 | 04/09/2023 | Gonzales Carrión, Jorge Enrique | Se realizó el registro de commits y contenido del capítulo 5. |
+| 2.00 | 19/09/2023 | Gonzales Carrión, Jorge Enrique - Espejo Macuri, Paolo André | Se realizaron las correcciones del primer entregable |
 
 ---
 # Project Report Collaboration Insights
@@ -41,22 +47,18 @@ Agosto del 2023
 TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
 Link de repositorio Github: [Repositorio de Informe](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
 
+Para la elaboración del informe se realizaron actividades tales como: 
+- Redactar y graficar en formato Markdown los puntos designados al integrante y posteriormente realizar commits para que el avance se guarde. 
+- Elaborar los artefactos en las herramientas indicadas y posteriormente obtener el enlace de imagen mediante "Issues" dentro del repositorio del informe
+- Se realizaron reuniones para coordinar el avance de los puntos del informe, además comunicar los avances del Sprint 1 correspondiente a la Landing Page
+  
 ![commitsweb](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d977e50d-85b0-438e-84e4-622645140431)
 ![commitsweb3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76144deb-c0fe-461d-bfb8-66d22164bd6f)
 
-Como se evidencia, todos trabajaron en la presente entrega, usando Github se logró completar el informe con los siguientes capítulos: 
-
-- Capítulo I: Introducción
-- Capítulo II: Requirements Elicitation & Analysis
-- Capítulo III: Requirements Specification
-- Capítulo IV: Product Design
-- Capítulo V: Product Implementation, Validation & Deployment (Hasta el punto 5.2.1.8 correspondiente al Sprint 1)
 
 ---
 # Contenido 
 ## Tabla de contenidos
-
-
 
 ## [Capítulo I: Introducción](#capítulo-i-introducción)
 - [1.1. Startup Profile](#11-startup-profile)
@@ -137,6 +139,15 @@ Como se evidencia, todos trabajaron en la presente entrega, usando Github se log
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 1](#522-sprint-1)
+    - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
+    - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
 
 ## [Conclusiones](#conclusiones)
 
@@ -249,7 +260,8 @@ Luego de haber desarrollado las 5W’s y 2H’s se logró desarrollar una visió
 ### 1.2.2 Lean UX Process.
 #### 1.2.2.1. Lean UX Problem Statements.
 
-El propósito de “Ayni” es proporcionar al sector agrícola una solución tecnológica integral que permita planificar, monitorear y optimizar de manera eficiente las diversas actividades realizadas durante todas las etapas de producción de los cultivos. Esta solución responde a la problemática de la ausencia de una planificación precisa que permita a los agricultores manejar sus cultivos de manera adecuada y lograr una cosecha fructífera.
+El propósito de “Ayni” es proporcionar a los agricultores una solución tecnológica integral que permita planificar, monitorear y optimizar de manera eficiente las diversas actividades realizadas durante todas las etapas de producción de los cultivos. Por otro lado, el propósito para los comerciantes de productos agricolas es brindar una plataforma donde puedan comprar, calificar y monitorear los productos elegidos que han sido publicados por los agricultores dentro de la aplicación. Esta solución responde a la problemática de la informalidad del proceso de cultivo y la intermediación de entidades abusivas en la compra/venta de las cosechas.
+
 
 Actualmente, existen pocas aplicaciones de plataformas que ofrecen soluciones orientadas a la gestión de los cultivos en el sector agrícola. En ese sentido, nuestra plataforma busca ingresar al mercado como una alternativa diferenciadora, con el propósito de resolver los problemas a los que se enfrentan los productores agrícolas.
 
@@ -327,30 +339,79 @@ La interfaz de nuestro producto debe ser sencilla e intuitiva para simplificar  
 
 #### 1.2.2.3. Lean UX Hypothesis Statements.
 
-- **Creemos que** los agricultores necesitan organizar sus actividades diarias. 
-**Sabremos que hemos tenido éxito**
-cuando nuestra aplicación se vuelva parte de su rutina para cosechar.
+### Hipótesis 1:
+*Creemos que los agricultores necesitan organizar sus actividades diarias.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación se vuelva parte de su rutina para cosechar.*
 
-- **Creemos que** los agricultores necesitan gestionar sus costos e ingresos.
-**Sabremos que hemos tenido éxito**
-cuando nuestra aplicación ayude a la economía de los clientes y maximizar la calidad de sus productos
+**Métricas:**
+1. *Frecuencia de Uso Diario:* Porcentaje de usuarios activos diariamente en la aplicación.
+   - Métrica actual: 20%
+   - Meta deseada: 50%
 
-- **Creemos que** los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores
-**Sabremos que hemos tenido éxito**
-cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes
+2. *Retención a Largo Plazo:* Porcentaje de usuarios que siguen utilizando la aplicación después de 3 meses.
+   - Métrica actual: 30%
+   - Meta deseada: 40%
 
-- **Creemos que** los comerciantes deben calificar los productos que compraron 
-**Sabremos que hemos tenido éxito**
-cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación
+---
 
-- **Creemos que** generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación
-**Sabremos que hemos tenido éxito**
-cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos
+### Hipótesis 2:
+*Creemos que los agricultores necesitan gestionar sus costos e ingresos.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación ayude a la economía de los clientes y maximice la calidad de sus productos.*
+
+**Métricas:**
+1. *Ahorro de Costos:* Porcentaje de agricultores que informan un ahorro mensual en sus operaciones.
+   - Métrica actual: 10%
+   - Meta deseada: 25%
+
+2. *Aumento en la Calidad de los Productos:* Medido por la calificación promedio de los productos en la plataforma.
+   - Métrica actual: 3.5 (en una escala de 1 a 5)
+   - Meta deseada: 4.0
+
+---
+
+### Hipótesis 3:
+*Creemos que los comerciantes o exportadores necesitan comprar productos de calidad y contacto directo con los productores.*
+*Sabremos que hemos tenido éxito cuando nuestra aplicación se vuelva el principal medio de comercio entre productores y comerciantes.*
+
+**Métricas:**
+1. *Volumen de Compras Mensuales:* Número de compras completadas a través de la aplicación web.
+   - Métrica actual: 100
+   - Meta deseada: 300
+
+2. *Porcentaje de Retención de Clientes Comerciantes:* Porcentaje de comerciantes que realizan al menos una compra mensualmente.
+   - Métrica actual: 40%
+   - Meta deseada: 60%
+
+---
+
+### Hipótesis 4:
+*Creemos que los comerciantes deben calificar los productos que compraron.*
+*Sabremos que hemos tenido éxito cuando las calificaciones sustenten la calidad de los productos de los productores dentro de la aplicación.*
+
+**Métricas:**
+1. *Número de Calificaciones Mensuales:* Cantidad de calificaciones emitidas por los comerciantes.
+   - Métrica actual: 50
+   - Meta deseada: 150
+
+2. *Calificación Promedio de los Productos:* Medida en una escala de 1 a 5.
+   - Métrica actual: 4.2
+   - Meta deseada: 4.5
+
+---
+
+### Hipótesis 5:
+*Creemos que generamos ganancias por publicidad de insumos para agricultura dentro de la aplicación.*
+*Sabremos que hemos tenido éxito cuando recibamos los fondos por brindar la publicidad a los proveedores de insumos.*
+
+**Métricas:**
+1. *Ingresos por Publicidad Mensuales:* Ganancias generadas a través de acuerdos de publicidad con proveedores de insumos.
+   - Métrica actual: $500
+   - Meta deseada: $1000
 
 
 #### 1.2.2.4. Lean UX Canvas.
 
-![canva](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/c0507000-b2bd-4708-b688-8caa5942e26e)
+![canvaarreglado](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/cfb98ad8-d848-46c6-9a5d-813196cdc767)
 
 ### 1.3. Segmentos objetivo.
 
@@ -662,7 +723,7 @@ Duración: 7:43
 
 Resumen de la entrevista:
 
-El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41 años que reside en el distrito de El Carmen, en la provincia de Chincha. Él nos menciona que  posee un terreno, donde normalmente cultiva maíz o palto. Asimismo, menciona que  indica que al momento de la cosecha, ofrece sus productos al por mayor a los intermediarios. En algunas ocasiones acepta precios bajos con el fin de no desperdiciar sus productos. No obstante, si eso sucede, comercializa sus productos en el mercado local.
+El entrevistado fue Don Gerónimo Vilcamiza Saldaña, él es un agricultor de 41 años que reside en el distrito de El Carmen, en la provincia de Chincha. Él nos menciona que  posee un terreno, donde normalmente cultiva maíz o palto. Asimismo, menciona que  indica que al momento de la cosecha, ofrece sus productos al por mayor a los intermediarios. En algunas ocasiones acepta precios bajos con el fin de no desperdiciar sus productos. No obstante, si eso sucede, comercializa sus productos en el mercado local. Por último, el dispositivo que más usa es el celular con sistema operativo Android y el browser que frecuenta es Google Chrome.
 
 Entrevistado 2:
 
@@ -684,8 +745,7 @@ Duración: 11:10
 
 Resumen de la entrevista:
 
-El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica a la agricultura desde muy temprana edad, al igual que toda su familia. Se considera una persona perseverante, responsable y dedicada. Su principal cultivo es la palta y la pitahaya. Gian menciona que el precio es definido por los compradores y que ello generalmente se basa en la calidad del producto y la dinámica del mercado. Si no logra vender todos sus productos, lo ofrece en el mercado local. A futuro, planea obtener mayor producción de sus plantas de palto. Sin embargo, a veces enfrenta desafíos, como la falla de los motores, lo cual desencadena una alteración en el cronograma de riego. Gian nos comenta también que a veces es complicado organizarse, por ello utiliza un programa de excel y word para anotar las fechas de todas sus actividades agrícolas. Por último, la creación de una aplicación web que le ayude a organizarse le parece una gran idea. Sin embargo, cree que la aplicación debería brindar información adicional sobre los procesos de crecimiento de su planta.
-
+El entrevistado fue Gian Castillón Paucar, un jóven de 28 años que se dedica a la agricultura desde muy temprana edad, al igual que toda su familia. Se considera una persona perseverante, responsable y dedicada. Su principal cultivo es la palta y la pitahaya. Gian menciona que el precio es definido por los compradores y que ello generalmente se basa en la calidad del producto y la dinámica del mercado. Si no logra vender todos sus productos, lo ofrece en el mercado local. A futuro, planea obtener mayor producción de sus plantas de palto. Sin embargo, a veces enfrenta desafíos, como la falla de los motores, lo cual desencadena una alteración en el cronograma de riego. Gian nos comenta también que a veces es complicado organizarse, por ello utiliza un programa de excel y word para anotar las fechas de todas sus actividades agrícolas. Por último, la creación de una aplicación web que le ayude a organizarse le parece una gran idea. Sin embargo, cree que la aplicación debería brindar información adicional sobre los procesos de crecimiento de su planta. Por último, el dispositivo que más usa es su celular con sistema operativo Android y el navegador que frecuenta usar es Google Chrome. Por último, el entrevistado nos contó que el browser que más usa es Google Chrome y el dispositivo que más usa es el celular con sistema operativo Android y una laptop con sistema operativo Windows.
 Entrevistado 3:
 
 Nombre y apellidos: Rolando Salvatierra
@@ -706,7 +766,7 @@ Duración: 08:09
 
 Resumen de la entrevista:
 
- El entrevistado fue Rolando Salvatierra un agricultor de 50 años del departamento de Junín. Como agricultor considera que sus cosechas son enfocadas a una producción al por mayor, con respecto a sus sembríos son realizados dependiendo a la temporada del año siendo los principales productos maíces, papas y zanahorias. La venta de sus productos se efectúa cuando el comprador va hacia ellos ofreciéndo un precio según el mercado, además, comenta que hubo veces en donde sus productos no fueron vendidos en su totalidad y para poder terminar sus ventas tuvo que venderlas a un precio menor al promedio según el mercado. Con respecto a la gestión de sus sembríos no se le hace complicado porque lleva años en el rubro, sin embargo, también hay veces en que se le olvida las fechas de ciertas actividades por lo que considera que la aplicación le ayudaría mucho para poder tener una cosecha de calidad y considera que el uso de las redes sociales y servicio de videollamadas como Zoom son una buena forma de capacitación para el uso de la app.
+ El entrevistado fue Rolando Salvatierra un agricultor de 50 años del departamento de Junín. Como agricultor considera que sus cosechas son enfocadas a una producción al por mayor, con respecto a sus sembríos son realizados dependiendo a la temporada del año siendo los principales productos maíces, papas y zanahorias. La venta de sus productos se efectúa cuando el comprador va hacia ellos ofreciéndo un precio según el mercado, además, comenta que hubo veces en donde sus productos no fueron vendidos en su totalidad y para poder terminar sus ventas tuvo que venderlas a un precio menor al promedio según el mercado. Con respecto a la gestión de sus sembríos no se le hace complicado porque lleva años en el rubro, sin embargo, también hay veces en que se le olvida las fechas de ciertas actividades por lo que considera que la aplicación le ayudaría mucho para poder tener una cosecha de calidad y considera que el uso de las redes sociales y servicio de videollamadas como Zoom son una buena forma de capacitación para el uso de la app. Por último, el dispositivo que más usa es su celular con sistema operativo Android y el navegador que frecuenta usar es Google Chrome.
 
 **Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
 
@@ -730,7 +790,7 @@ Duración: 08:35
 
 Resumen de entrevista:
 
-El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asistente en un grupo de comercio de frutas y verduras desde hace unos años. Andre menciona que los precios son bien definidos por los productores y que se basa en la calidad de producto, la disponibilidad del producto y la temporada en la cual son cultivadas. A futuro se plantea crear una empresa o marca propia de comercio de productos agrícolas con reconocimiento a nivel nacional. SIn embargo, a veces tiene frustraciones como la desorganización e incumplimiento de los productores en lo acordado. André nos comentó que utilizó programas para manejar ventas o reuniones usando excel, pero que no es lo suficientemente eficiente para cumplir todas sus funciones de asistente de comerciante. Por último, la creación de una aplicación web que responda a sus principales inconvenientes para organizarse le parece una idea innovadora. Sin embargo, el desea que la principal funcionalidad sea la de buscar productos y poder hacer una compra con contacto directo con el vendedor.
+El entrevistado fue Andre Luna, un joven de 25 años que se dedica a ser asistente en un grupo de comercio de frutas y verduras desde hace unos años. Andre menciona que los precios son bien definidos por los productores y que se basa en la calidad de producto, la disponibilidad del producto y la temporada en la cual son cultivadas. A futuro se plantea crear una empresa o marca propia de comercio de productos agrícolas con reconocimiento a nivel nacional. SIn embargo, a veces tiene frustraciones como la desorganización e incumplimiento de los productores en lo acordado. André nos comentó que utilizó programas para manejar ventas o reuniones usando excel, pero que no es lo suficientemente eficiente para cumplir todas sus funciones de asistente de comerciante. Por último, la creación de una aplicación web que responda a sus principales inconvenientes para organizarse le parece una idea innovadora. Sin embargo, el desea que la principal funcionalidad sea la de buscar productos y poder hacer una compra con contacto directo con el vendedor. Por último, el entrevistado nos dijo que el dispositivo que más usa es una laptop con sistema operativo Windows y el browser que más usa es Google Chrome.
 
 Entrevistado 5:
 
@@ -751,7 +811,7 @@ Duración: 08:26
 ![entrevistado5](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/1db9b603-0d51-4cd1-a8f1-a06507ad8ec9)
 
 Resumen de entrevista:
-El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asistente en un comercio familiar de venta de productos agrícolas. Favio nos comenta que la calidad es la prioridad de los productos que vende de tipo al por mayor, debido a ello en su lugar de trabajo tienen un proceso de calidad por el cual someten al producto a una serie de pasos. Por otro lado, nos dice que los precios se negocian según los acuerdos de los productores dado que ellos son los que generan la ganancia. A futuro quiere mejorar la calidad de los productos que vende siendo reconocido a nivel internacional. También, nos comentó que los inconvenientes que presentó en su trabajo fueron la desorganización de las compras o el contacto de proveedor. Por último, la creación de una aplicación web ayudaría mucho a su trabajo ya que facilita el contacto con los productores para concretar ventas.
+El entrevistado es Favio Onofre, un joven de 25 años que se dedica a ser asistente en un comercio familiar de venta de productos agrícolas. Favio nos comenta que la calidad es la prioridad de los productos que vende de tipo al por mayor, debido a ello en su lugar de trabajo tienen un proceso de calidad por el cual someten al producto a una serie de pasos. Por otro lado, nos dice que los precios se negocian según los acuerdos de los productores dado que ellos son los que generan la ganancia. A futuro quiere mejorar la calidad de los productos que vende siendo reconocido a nivel internacional. También, nos comentó que los inconvenientes que presentó en su trabajo fueron la desorganización de las compras o el contacto de proveedor. Por último, la creación de una aplicación web ayudaría mucho a su trabajo ya que facilita el contacto con los productores para concretar ventas. Por último, nos dijo que el navegador que más usa es Google Chrome y que el dispositivo que más usa en el trabajo de asistente de comercio de agricultura es una laptop.
 
 Entrevistado 6:
 
@@ -772,7 +832,7 @@ Duración: 04:50
 ![entrevsitado 6](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/0a0a8d9e-5582-49dc-9bf7-1976f0e1cad1)
 
 Resumen de entrevista: 
-La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asistente en un pequeño comercio de venta de productos agrícolas. Juli nos dice que vende sus productos al por mayor. Además, que gestiona sus ventas de manera tradicional pero conservando la preferencia por la calidad de los productos que compra para posteriormente vender. Lamentablemente, tuvo que optar por decisiones tales como vender a bajo precio lo que le sobraba de productos, eso refleja una mala manera de gestionar los productos. Relacionado a ello, tuvo experiencias malas de que los proveedores de productos a veces no cumplen con su parte del trato incluso poniendo precios muy altos en la negociación. Sin embargo, ella piensa que una aplicación web que le ayude a comprar productos y hacerles un seguimiento, arreglaría sus problemas para sus ventas. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome.
+La entrevistada es Juli Carrión, una mujer de 45 años que se dedica a ser asistente en un pequeño comercio de venta de productos agrícolas. Juli nos dice que vende sus productos al por mayor. Además, que gestiona sus ventas de manera tradicional pero conservando la preferencia por la calidad de los productos que compra para posteriormente vender. Lamentablemente, tuvo que optar por decisiones tales como vender a bajo precio lo que le sobraba de productos, eso refleja una mala manera de gestionar los productos. Relacionado a ello, tuvo experiencias malas de que los proveedores de productos a veces no cumplen con su parte del trato incluso poniendo precios muy altos en la negociación. Sin embargo, ella piensa que una aplicación web que le ayude a comprar productos y hacerles un seguimiento, arreglaría sus problemas para sus ventas. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome. Por último, nos dice que su dispositivo de preferencia es el celular, y el navegador que más usa es Google Chrome.
 
 ### 2.2.3. Análisis de entrevistas.
 
@@ -968,34 +1028,104 @@ En esta sección, se buscarán las necesidades implícitas y explícitas de las 
 
 Se realiza las User Persona, personaje ficticio para reflejar al cliente ideal, estos user persona son creados en base a la investigación de capitulos previos para identificar a los diferentes tipos de clientes que podrían usar el producto solución. Se utilizó la herramienta UXPressia.
 
-Pequeños y medianos agricultores.
+Pequeños y medianos agricultores
 
-![UserPersona1](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751299-3402707f-97d9-4385-8d61-a5d0d7955ce3.png)
+![Maria Gracia](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/b128bf90-b9a8-411d-aaca-c4b31133359a)
 
-Comerciantes o exportadores.
+Comerciantes o exportadores
 
-![UserPersona2](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/263751302-80e7ff52-e36b-4bac-93f6-f09c7e0daa5f.png)
+![Carlos Martínez](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/31ecb0d7-00c2-4334-90d6-e5b0a8a924d4)
 
 
 ### 2.3.2. User Task Matrix
 
+A continuación, se muestra el User Task Matrix para los siguientes segmentos objetivo:
+Agricultores que desean mejorar la calidad de sus productos y comerciantes que desean mejorar la calidad de sus ventas.
 
-| COMERCIALIZADORES             | FRECUENCIA | IMPORTANCIA |
-|-------------------------------|------------|-------------|
-| Explorar productos agrícolas  | Always     | High        |
-| Realizar pedidos de productos | Often      | High        |
-| Gestionar pedidos y entregas  | Always     | Medium      |
-| Evaluar calidad de productos  | Always     | High        |
-| Evaluar demanda y tendencias  | Often      | High        |
-
-| AGRICULTORES                     | FRECUENCIA | IMPORTANCIA |
-|----------------------------------|------------|-------------|
-| Planificar actividades agrícolas | Always     | High        |
-| Control de costos y ganancias    | Often      | High        |
-| Gestionar insumos agrícolas      | Always     | High        |
-| Monitoreo de plagas              | Always     | Medium      |
-| Acceder a reportes detallados    | Often      | Medium      |
-| Realizar ventas                  | Often      | High        |
+<table>
+  <tr>
+    <th></th>
+    <td colspan="2">COMERCIANTES</td>
+    <td colspan="2">AGRICULTORES</td>
+  </tr>
+  <tr>
+    <td>TASK</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+    <td>FREQUENCY</td>
+    <td>IMPORTANCE</td>
+  </tr>
+  <tr>
+    <td>Buscar productos de calidad para comerciar</td>
+    <td>Always </td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Coordinar contratos con proveedores de productos</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Rare</td>
+    <td>Low</td>
+  </tr>
+  <tr>
+    <td>Registrar pedidos y entregas de productos </td>
+    <td>Always</td>
+    <td>Medium</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Evaluar calidad de productos</td>
+    <td>Always</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Evaluar demanda y tendencias</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Planificar siembra de cultivos en cuadernos</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Gestionar sus ganancias en cuadernos</td>
+    <td>Often</td>
+    <td>Low</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Gestionar insumos agrícolas</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>High</td>
+  </tr>
+  <tr>
+    <td>Mitigar plagas con alterntivas caseras</td>
+    <td>Rare</td>
+    <td>Low</td>
+    <td>Always</td>
+    <td>Medium</td>
+  </tr>
+  <tr>
+    <td>Vender y comprar sus productos informalmente</td>
+    <td>Often</td>
+    <td>High</td>
+    <td>Often</td>
+    <td>High</td>
+  </tr>
+</table>
 
 
 **Tareas con Mayor Frecuencia e Importancia:**
@@ -1092,63 +1222,68 @@ Segmento de agricultores:
 
 ## 3.2. User Stories.
 
-|Epic ID|Título de épica|Descripción de la épica|
-| - | - | - |
-|EP01|Definición de funcionalidades de la aplicación web|Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de cultivar, vender y planificar.|
-|EP02|Opciones relacionadas a la cuenta del usuario|Como usuario deseo poder realizar acciones de creación, actualización y otras relacionadas a una cuenta para poder guardar las configuraciones y utilizarlas desde distintos dispositivos|
-|EP03|Definición de estructura del landing page |Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web |
-|EP04|Definición de requisitos no funcionales|Como usuario deseo que la aplicación web cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes |
+|**Epic/Story**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
+| :-: | :-: | :-: | :-: | :-: |
+|**EP01**|**Definición de funcionalidades de la aplicación web**|**Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de cultivar, vender y planificar.**|**-**|**-**|
+|**EP02**|**Opciones relacionadas a la cuenta del usuario**|**Como usuario deseo poder realizar acciones de creación, actualización y otras relacionadas a una cuenta para poder guardar las configuraciones y utilizarlas desde distintos dispositivos**|**-**|**-**|
+|**EP03**|**Definición de estructura del landing page**|**Como usuario deseo disponer de un landing page con información pertinente para conocer mejor acerca de la aplicación web**|**–**|**-**|
+|**EP04**|**Definición de requisitos no funcionales**|**Como usuario deseo que la aplicación web cumpla con estándares de rendimiento y optimización para utilizarla sin inconvenientes**|**-**|**-**|
+|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles según el rol que escoja.|<p>Escenario 01: Usuario registra su cuenta </p><p>Caso 1:</p><p>Dado que el usuario se encuentra en la sección de registro</p><p>Cuando el usuario ingrese sus datos para el registro y escoja el rol que desee</p><p>Entonces su cuenta es registrada en la aplicación.</p><p>Escenario 02: El usuario registra su cuenta con un correo invalido</p><p>Caso 1:</p><p>Dado que el usuario se encuentra en la sección de registro</p><p>Cuando el usuario ingrese los datos requeridos pero con un correo invalido</p><p>Entonces se le pide ingresar un correo valido además de mostrar los campos de color rojo representanto al error</p><p></p>|EP02|
+|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|<p>Escenario 01: Usuario inicia sesión</p><p>Caso 1:</p><p>Dado que el usuario ha registrado su cuenta previamente,</p><p>Cuando el usuario ingrese su dirección de correo electrónico y contraseña válida,</p><p>Entonces se le permite ingresar a su cuenta y acceder a las funcionalidades.</p><p>Escenario 02: El usuario no inicia sesión por credenciales inválidas </p><p>Caso 1:</p><p>Dado que el usuario ha registrado su cuenta previamente</p><p>Cuando ingrese un correo electrónico y contraseña inválidas </p><p>Entonces no se le permitirá ingresar a la aplicación y se recomendará ingresar credenciales válidas.</p>|EP02|
+|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|<p>Escenario 01: Comercializador explora productos disponibles</p><p>Caso 1:</p><p>Dado que el comercializador ha iniciado sesión en la aplicación,</p><p>Cuando el comercializador navegue a la sección de productos agrícolas,</p><p>Entonces se le muestran los productos disponibles para explorar.</p><p>Escenario 02: Comercializador no puede encontrar el producto deseado</p><p>Caso 01:</p><p>Dado que el comerciante desea buscar un producto en especifico para comprar</p><p>Cuando busque en la sección de “Buscar productos” el producto deseado y a simple vista no lo encuentre</p><p>Entonces usará la búsqueda por input que está en pantalla</p><p> </p><p></p>|EP01|
+|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar pedidos de productos agrícolas para poder realizar las entregas|<p>Escenario 01: Comercializador realiza un pedido de productos</p><p>Caso 1:</p><p>Dado que el comercializador ha explorado los productos y ha seleccionado los que desea pedir,</p><p>Cuando el comercializador confirma el pedido y especifica las cantidades,</p><p>Entonces se registra el pedido y se notifica al comercializador sobre el proceso de entrega.</p><p>Escenario 02: Comerciante realiza un pedido con información dudosa o errónea</p><p>Caso 01:</p><p>Dado que el comercializador ha seleccionado el producto que desea pedir</p><p>Cuando ingrese los datos correspondientes para que el pedido sea exitoso y sean inválidos</p><p>Entonces la compra no se ejecutará</p>|EP01|
+|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|<p>Escenario 01: Comercializador sigue el estado de un pedido en curso</p><p>Caso 1:</p><p>Dado que el comercializador ha realizado un pedido y desea rastrear su estado,</p><p>Cuando el comercializador accede a la sección de seguimiento de pedidos,</p><p>Entonces se le proporciona información actualizada sobre el estado del pedido.</p><p>Escenario 02: Comerciante observa que su pedido se quedó retenido en un paso</p><p>Caso 1:</p><p>Dado que el comerciante realiza un pedido</p><p>Cuando acceda a la página de seguimiento de productos</p><p>Entonces comprueba que su pedido está retenido en un paso</p>|EP01|
+|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|<p>Escenario 01: Comercializador accede a las calificaciones y reseñas</p><p>Caso 1:</p><p>Dado que el comercializador desea evaluar la satisfacción de los agricultores con sus productos,</p><p>Cuando el comercializador accede a la sección de calificaciones y reseñas,</p><p>Entonces puede ver las evaluaciones y comentarios proporcionados por los agricultores.</p><p>Escenario 02: Comerciante realiza una calificación negativa al productor </p><p>Caso 01:</p><p>Dado que el comerciante hizo un pedido y la calidad del producto no es la que esperaba</p><p>Cuando use la aplicación y se encuentre en la sección “Calificaciones”</p><p>Entonces registrará su calificación negativa con 1 estrella</p>|EP01|
+|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|<p>Escenario 01: Comercializador analiza registros de pedidos y entregas</p><p>Caso 1:</p><p>Dado que el comercializador busca tomar decisiones informadas sobre su operación,</p><p>Cuando el comercializador accede a los registros de pedidos y entregas realizadas,</p><p>Entonces puede analizar los datos para identificar tendencias y patrones.</p><p>Escenario 02: Comerciante analiza los registros de fechas pasadas acerca de pedidos de manzanas</p><p>Dado que el comerciante desea volver a comprar manzanas de un productor que hizo un pedido hace 12 meses</p><p>Cuando se encuentre en la sección de “Mis pedidos” y use los botones de paginación</p><p>Entonces podrá encontrar la fecha  del producto deseado.</p>|EP01|
+|HU-08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|<p>Escenario 01: Agricultor planifica actividades para un ciclo de cultivo</p><p>Caso 1:</p><p>Dado que el agricultor ha ingresado a la sección de planificación,</p><p>Cuando el agricultor ingresa los datos relevantes para las actividades agrícolas,</p><p>Entonces el sistema registra el plan y lo refleja en el calendario.</p><p>Escenario 02: Agricultor añade actividades a su calendario como parte de la planificación</p><p>Caso 01: </p><p>Dado que el agricultor empieza un nuevo plan de cultivo</p><p>Cuando esté creando el plan y se encuentre en la página de añadir tareas al calendario</p><p>Entonces puede añadir o eliminar tareas para determinados días de su calendario</p>|EP01|
+|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con mis actividades agrícolas para poder llevar un control financiero|<p>Escenario 01: Agricultor registra gastos y ganancias para un ciclo de cultivo</p><p>Caso 1:</p><p>Dado que el agricultor desea llevar un registro financiero detallado,</p><p>Cuando el agricultor ingresa los gastos y las ganancias relacionados con sus actividades,</p><p>Entonces el sistema almacena los registros para su consulta posterior.</p><p>Escenario 02: Agricultor registra sus ganancias en una lista física pero quiere registrarlo en la aplicación de manera rápida</p><p>Caso 01:</p><p>Dado que el agricultor desea importar su lista que escribió en el cuaderno a los registros de la aplicación</p><p>Cuando se encuentre en la sección “Gestión Financiera”</p><p>Entonces podrá añadir registros de manera rápida y sencilla</p><p></p>|EP01|
+|HU-10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello|<p>Escenario 01: Agricultor registra uso de insumos en un cultivo</p><p>Caso 1:</p><p>Dado que el agricultor necesita mantener un registro de los insumos utilizados,</p><p>Cuando el agricultor ingresa los insumos utilizados en un cultivo específico,</p><p>Entonces el sistema registra la información para su análisis y planificación.</p><p>Escenario 02: Agricultor desea ver los insumos que usó en un cultivo</p><p>Dado que el usuario desea recordar los insumos que usó en su cultivo de peras</p><p>Cuando entre a su cultivo en la sección de “Mis productos”</p><p>Entonces podrá visualizar los insumos que se usó y toda la información acerca de ello</p>|EP01|
+|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar los cultivos|<p>Escenario 01: Agricultor registra observaciones de plagas en un cultivo</p><p>Caso 1:</p><p>Dado que el agricultor detecta signos de plagas en sus cultivos,</p><p>Cuando el agricultor registra las observaciones y los detalles de las plagas identificadas,</p><p>Entonces el sistema proporciona recomendaciones para el control y seguimiento de las plagas.</p><p>Escenario 02: Agricultor desea controlar una plaga en específico</p><p>Caso 01: </p><p>Dado que el agricultor desea erradicar una plaga en específico</p><p>Cuando esté en la sección de su planta dentro de “Mis productos” </p><p>Entonces podrá registrar la plaga en específico.</p>|EP01|
+|HU-12|Atender pedidos|Como agricultor deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|<p>Escenario 01:</p><p>El usuario agricultor quiere atender un pedido que le interesó.</p><p>Caso 01:</p><p>Dado que el agricultor necesita vender sus productos</p><p>Cuando reciba un pedido dentro de la aplicación</p><p>Entonces podrá atenderlo accediendo a sus productos y seleccionando uno de ellos para ver aceptar o rechazar el pedido</p><p>Escenario 02: El agricultor quiere rechazar un pedido</p><p>Caso 01: </p><p>Dado que el agricultor desea rechazar un pedido porque no tiene el producto requerido</p><p>Cuando se encuentre en la sección “Mis pedidos” y presione el botón “Rechazar”</p><p>Entonces el pedido se eliminará</p>|EP01|
+|HU-13|Visualización de características de la aplicación web|Como visitante deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|<p>Escenario 01:</p><p>El visitante revisa la landing page.</p><p>Caso 01:</p><p>Dado que el visitante necesita una aplicación para aumentar la calidad de sus cultivos</p><p>Cuando el visitante busque en el navegador “Harvest Management”</p><p>Entonces accede a la landing page y visualiza las funcionalidades que le ofrece la aplicación web</p><p>Escenario 02:</p><p>El visitante desea una aplicación con características puntuales de compra de productos agrícolas</p><p>Caso 01: </p><p>Dado que el visitante quiere una aplicación con la funcionalidad: “Planificar cultivos”</p><p>Cuando el visitante navegue por la landing page y se encuentre en la sección de beneficios y funcionalidades</p><p>Entonces visualizará la funcionalidad que se desea y se decide en usar la aplicación</p>|EP03|
+|HU-14|Landing Page responsive|Como visitante deseo visitar la landing page desde cualquier dispositivo|<p>Escenario 01:</p><p>El visitante accede a la landing page desde su celular</p><p>Caso 01:</p><p>Dado que el visitante necesita visitar la landing page desde un dispositivo remoto</p><p>Cuando visite la landing page desde el navegador de su celular</p><p>Entonces la landing page con su diseño responsive puede visualizarse adecuadamente en el navegador del dispositivo móvil</p><p>Escenario 02: El visitante recomienda la landing page y comparte el link mediante un celular</p><p>Caso 01:</p><p>Dado que el visitante recomienda la landing page mediante un dispositivo móvil</p><p>Cuando el otro visitante recomendado acceda a la landing page desde otro dispositivo móvil con resolución diferente</p><p>Entonces la landing page se mostrará completamente visible y ordenada dado que es responsive</p><p></p>|EP03|
+|HU-15|Botón Call to Action|Como visitante deseo ir a la aplicación web desde un solo botón|<p>Escenario 01:</p><p>El visitante quiere dirigirse a la aplicación web</p><p>Caso 01:</p><p>Dado que el visitante desea usar la aplicación web</p><p>Cuando esté en la sección donde se encuentre el botón call to action y lo uso</p><p>Entonces será dirigido a la aplicación web</p><p>Escenario 02: El visitante desea usar la aplicación lo más rápido posible luego de ver lo que se ofrecía en la landing page</p><p>Dado que el visitante quedó satisfecho con la información brindada en la landing page</p><p>Cuando desee empezar a usar la aplicación</p><p>Entonces puede acceder a ella de forma rápida mediante el botón call to action</p>|EP03|
+|HU-16|Visualización de botones y texto amplia y notoria|Como visitante del segmento deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|<p>Escenario 01:</p><p>El visitante quiere navegar por la aplicación sin forzar la vista</p><p>Caso 01:</p><p>Dado que el visitante desea ver los productos visualmente grandes</p><p>Cuando quiera analizar si el producto es de la calidad que espera</p><p>Entonces podrá visualizar el producto mejor y proseguir con la compra</p><p>Escenario 02: El visitante tiene problemas visuales debido a la edad</p><p>Caso 01: </p><p>Dado que el visitante posee problemas visuales</p><p>Cuando visite la landing page para acceder a la información</p><p>Entonces podrá navegar y visualizar los botones de manera fluida gracias al diseño.</p><p></p>|EP04|
+|HU-17|Sistemas de búsqueda y paginación|Como usuario del segmento de agricultores deseo encontrar los productos de manera rápida para no perder tiempo|<p>Escenario 01:</p><p>El usuario quiere encontrar un producto que compró hace unas semanas</p><p>Caso 01:</p><p>Dado que el usuario desea ver una compra que hizo hace semanas</p><p>Cuando quiera buscarlo en la sección de “Mis compras”</p><p>Entonces podrá buscarlo directamente en una barra de búsqueda</p><p>Escenario 02: </p><p>El usuario no encuentra el producto que compró hace semanas</p><p>Caso 01:</p><p>Dado que el usuario no puede encontrar el producto que pidió hace unas semanas</p><p>Cuando use la paginación mediante botones de la aplicación</p><p>Entonces encuentra el producto que estaba buscando pero en la última página de los productos</p><p></p>|EP04|
+|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |<p>Escenario 01: Autenticación exitosa</p><p>Dado que el usuario proporciona credenciales válidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña</p><p>` `Entonces el API devuelve un código de estado 200 y un token de acceso</p><p>Escenario 02: Autenticación fallida</p><p>Dado que el usuario proporciona credenciales inválidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña incorrectos</p><p>Entonces el API devuelve un código de estado 401 Unauthorized</p>|EP01|
+|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|<p>Escenario: Obtención exitosa de un recurso</p><p>Dado que el usuario proporciona un identificador válido</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 200 OK y los detalles del recurso</p><p>Escenario: Obtención de un recurso inexistente</p><p>Dado que el usuario proporciona un identificador no existente</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 404 Not Found</p>|EP02|
+|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|<p>Escenario: Creación exitosa de un recurso</p><p>Dado que el usuario proporciona datos válidos</p><p>Cuando realiza una solicitud POST</p><p>` `Entonces el API devuelve un código de estado 201 Created y el recurso creado</p><p>Escenario: Fallo en la creación de un recurso</p><p>Dado que el usuario proporciona datos inválidos o incompletos</p><p>Cuando realiza una solicitud POST con los datos incorrectos</p><p>Entonces el API devuelve un código de estado 400 Bad Request y un mensaje de error descriptivo</p>|EP02|
+|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes |<p>Escenario: Redireccionamiento a pantalla "Home" </p><p>Dado que el usuario se encuentra fuera de la aplicación web</p><p>Cuando inicie sesión de manera correcta</p><p>Entonces se le redirecciona a la pantalla de "Home"</p><p>Escenario: Fallo en la redirección a "Home"</p><p>Dado que el usuario se encuentra fuera de la aplicación</p><p>Cuando inicie sesión con credenciales inválidas</p><p>Entonces no le permitirá el redireccionamiento a "Home"</p>|EP01|
 
-
-
-
-
-
-|Epic/Story|Título|Descripción|Criterios de aceptación|Relacionado con (Epic ID)|
-| :- | :- | :- | :- | :- |
-|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|<p>Escenario 01: Usuario registra su cuenta</p><p>Caso 1:</p><p>Dado que el usuario se encuentra en la sección de registro </p><p>Cuando el usuario ingrese sus datos para el registro</p><p>Entonces su cuenta es registrada en la aplicación.</p><p></p>|EP02|
-|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|<p>Escenario 01: Usuario inicia sesión</p><p>Caso 1:</p><p>Dado que el usuario ha registrado su cuenta previamente,</p><p>Cuando el usuario ingrese su dirección de correo electrónico y contraseña válida,</p><p>Entonces se le permite ingresar a su cuenta y acceder a las funcionalidades.</p><p></p>|EP02|
-|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|<p>Escenario 01: Comercializador explora productos disponibles</p><p>Caso 1:</p><p>Dado que el comercializador ha iniciado sesión en la aplicación,</p><p>Cuando el comercializador navegue a la sección de productos agrícolas,</p><p>Entonces se le muestran los productos disponibles para explorar.</p><p></p>|EP01|
-|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|<p>Escenario 01: Comercializador realiza un pedido de productos</p><p>Caso 1:</p><p>Dado que el comercializador ha explorado los productos y ha seleccionado los que desea pedir,</p><p>Cuando el comercializador confirma el pedido y especifica las cantidades,</p><p>Entonces se registra el pedido y se notifica al comercializador sobre el proceso de entrega.</p><p></p>|EP01|
-|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|<p>Escenario 01: Comercializador sigue el estado de un pedido en curso</p><p>Caso 1:</p><p>Dado que el comercializador ha realizado un pedido y desea rastrear su estado,</p><p>Cuando el comercializador accede a la sección de seguimiento de pedidos,</p><p>Entonces se le proporciona información actualizada sobre el estado del pedido.</p><p></p>|EP01|
-|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|<p>Escenario 01: Comercializador accede a las calificaciones y reseñas</p><p>Caso 1:</p><p>Dado que el comercializador desea evaluar la satisfacción de los agricultores con sus productos,</p><p>Cuando el comercializador accede a la sección de calificaciones y reseñas,</p><p>Entonces puede ver las evaluaciones y comentarios proporcionados por los agricultores.</p><p></p>|EP01|
-|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|<p>Escenario 01: Comercializador analiza registros de pedidos y entregas</p><p>Caso 1:</p><p>Dado que el comercializador busca tomar decisiones informadas sobre su operación,</p><p>Cuando el comercializador accede a los registros de pedidos y entregas realizadas,</p><p>Entonces puede analizar los datos para identificar tendencias y patrones.</p><p></p>|EP01|
-|HU-08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|<p>Escenario 01: Agricultor planifica actividades para un ciclo de cultivo</p><p>Caso 1:</p><p>Dado que el agricultor ha ingresado a la sección de planificación,</p><p>Cuando el agricultor ingresa los datos relevantes para las actividades agrícolas,</p><p>Entonces el sistema registra el plan y lo refleja en el calendario.</p><p></p>|EP01|
-|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con mis actividades agrícolas para poder llevar un control financiero|<p>Escenario 01: Agricultor registra gastos y ganancias para un ciclo de cultivo</p><p>Caso 1:</p><p>Dado que el agricultor desea llevar un registro financiero detallado,</p><p>Cuando el agricultor ingresa los gastos y las ganancias relacionados con sus actividades,</p><p>Entonces el sistema almacena los registros para su consulta posterior.</p><p></p>|EP01|
-|HU-10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello|<p>Escenario 01: Agricultor registra uso de insumos en un cultivo</p><p>Caso 1:</p><p>Dado que el agricultor necesita mantener un registro de los insumos utilizados,</p><p>Cuando el agricultor ingresa los insumos utilizados en un cultivo específico,</p><p>Entonces el sistema registra la información para su análisis y planificación.</p><p></p>|EP01|
-|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar los cultivos|<p>Escenario 01: Agricultor registra observaciones de plagas en un cultivo</p><p>Caso 1:</p><p>Dado que el agricultor detecta signos de plagas en sus cultivos,</p><p>Cuando el agricultor registra las observaciones y los detalles de las plagas identificadas,</p><p>Entonces el sistema proporciona recomendaciones para el control y seguimiento de las plagas.</p><p></p>|EP01|
-|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla |<p>Escenario 01:</p><p>El usuario agricultor quiere atender un pedido que le interesó.</p><p>Caso 01:</p><p>Dado que el usuario necesita vender sus productos</p><p>Cuando reciba un pedido dentro de la aplicación</p><p>Entonces podrá atenderlo accediendo a sus productos y seleccionando uno de ellos para ver aceptar o rechazar el pedido</p>|EP01|
-|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|<p>Escenario 01:</p><p>El usuario visita la landing page.</p><p>Caso 01:</p><p>Dado que el usuario necesita una aplicación para aumentar la calidad de sus cultivos </p><p>Cuando el usuario busque en el navegador “Harvest Management”</p><p>Entonces accede a la landing page y visualiza las funcionalidades que le ofrece la aplicación web</p>|EP03|
-|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|<p>Escenario 01:</p><p>El usuario visita la landing page desde su celular</p><p>Caso 01:</p><p>Dado que el usuario necesita visitar la landing page desde un dispositivo remoto</p><p>Cuando visite la landing page desde el navegador de su celular</p><p>Entonces la landing page con su diseño responsive puede visualizarse adecuadamente en el navegador del dispositivo móvil</p>|EP03|
-|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón |<p>Escenario 01: </p><p>El usuario quiere dirigirse a la aplicación web</p><p>Caso 01: </p><p>Dado que el usuario desea usar la aplicación web</p><p>Cuando esté en la sección donde se encuentre el botón call to action y lo uso</p><p>Entonces será dirigido a la aplicación web</p>|EP03|
-|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|<p>Escenario 01:</p><p>El usuario quiere navegar por la aplicación sin forzar la vista</p><p>Caso 01:</p><p>Dado que el usuario desea ver los productos visualmente grandes </p><p>Cuando quiera analizar si el producto es de la calidad que espera</p><p>Entonces podrá visualizar el producto mejor y proseguir con la compra</p><p></p>|EP04|
-|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo |<p>Escenario 01:</p><p>El usuario quiere encontrar un producto que compró hace unas semanas</p><p>Caso 01:</p><p>Dado que el usuario desea ver una compra que hizo hace semanas</p><p>Cuando quiera buscarlo en la sección de “Mis compras”</p><p>Entonces podrá buscarlo directamente en una barra de búsqueda</p>|EP04|
 
 ## 3.3. Impact Mapping.
 Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos.
-![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/3ef9ef91-be98-451c-89b6-fae6e3ce98d5)
-![ImpactMap](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/659162bf-af13-4dab-8226-02ac018ed162)
+
+Segmento objetivo: Productores que desean mejorar la calidad de sus productos
+![impact map agricultores](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/fe829092-24e1-4cd2-aae0-7bb3df34ca53)
+Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
+![impact map comerciantes](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/fb4518a5-16b1-4815-8c88-acbd88e37579)
+
 ## 3.4. Product Backlog.
 
-|#Orden|User Story ID|Título|Descripción|Story Points (1 / 2 / 3 / 5 / 8)|
-| :- | :- | :- | :- | :- |
-|01|HU01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|2|
-|02|HU02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
-|03|HU03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
-|04|HU04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
-|05|HU05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
-|06|HU06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
-|07|HU07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
-|08|HU08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|5|
-|09|HU09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
+|**#Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
+| :-: | :-: | :-: | :-: | :-: |
+|01|HU-08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|5|
+|02|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
+|03|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
+|04|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
+|05|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|06|HU-01|Registro de cuenta|Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.|2|
+|07|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
+|08|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
+|09|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
 |10|HU10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo con ello|3|
-|11|HU11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
-|12|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
-|13|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
-|14|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
-|15|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
-|16|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación |3|
-|17|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
+|11|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
+|12|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
+|13|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
+|14|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
+|15|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
+|16|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
+|17|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
+|18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
+|19|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |5|
+|20|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
+|21|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|2|
 
 
 
@@ -1589,7 +1724,7 @@ En esta sección, se presentaran los User Flows, donde se mostrarán las rutas H
 
 Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
 
-**User Goal:** Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo a ello.
+**User Goal:** Registrar los insumos agrícolas utilizados en un cultivo
 
 **Task Flow:**
 - Primero se tiene que seleccionar un producto
@@ -1602,7 +1737,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo
+**User Goal:** Observar el estado de los pedidos realizados
 
 **Task Flow:**
 
@@ -1616,7 +1751,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**Usar Goal:** Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas
+**Usar Goal:** Realizar pedidos de productos agrícolas
 
 **Task Flow:**
 - Primero el usuario debe estar en la pantalla de buscar productos
@@ -1628,7 +1763,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero.
+**User Goal:**  Registrar costos y ganancias de mis productos
 
 **Task Flow:**
 - Primero se está en la pantalla de “Gestión Financiera”
@@ -1641,7 +1776,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 ---
 
 
-**User Goal:** Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla 
+**User Goal:**  Visualizar los pedidos existentes
 
 **Task Flow:**
 - Primero el usuario tiene que estar en la sección del header “Mis pedidos”
@@ -1652,7 +1787,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 
 ---
 
-**User Goal:** Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas. 
+**User Goal:** Añadir cultivos y realizar plan de cultivo de este mismo
 
 **Task Flow:**
 - Primero se está en la pantalla de “Mis productos”
@@ -1666,7 +1801,7 @@ Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-f
 ---
 
 
-**User Goal:** Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios
+**User Goal:** Calificar los productos que se recibieron
 
 **Task Flow:**
 - Primero el usuario debe estar en la sección “Calificaciones” 
@@ -1749,7 +1884,7 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![Database](https://github.com/upc-pre-202302-GreatMinds-SW51/SW51-GreatMinds-OpenSource/assets/104078975/ed2afd37-93ad-4fc7-b96d-8026b8e66c3e)
+![Ayni-2023-09-20_20-58](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1b9bc309-9286-4b29-9ef8-cbbc110e1223)
 
 Link para visualizar el diagrama de base de datos: [Vertabelo](https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
 
@@ -1943,6 +2078,92 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 ![commitsweblanding](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0b8885be-9425-4864-aaf4-2b42f47f700e)
 ![commitsweblandingnetwork](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/9b69cad2-270e-4fc9-8616-40dfb75ee681)
 
+## 5.2. Landing Page, Services & Applications Implementation
+### 5.2.2. Sprint 2
+#### 5.2.2.1. Sprint Planning 2.
+
+| Sprint # | 2 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 09 - 19 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 1 - Review Summary | Se realizó la landing page implementado con css y html, a raiz de los mockups de diseño|
+| Sprint 1 - Retrospective Summary  | Mejorar en puntos de la documentación del informe |
+| **Sprint Goal & User Stories** | - |
+| Sprint 2 Goal| El objetivo del presente Sprint es en desarrollar el fronted de la aplicación web y corregir los errores del sprint anterior|
+| Sprint 2 - Velocity | El equipo puede aceptar 28 Story Points|
+| Sprint 2 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (26)|
+
+#### 5.2.2.2. Sprint Backlog 2.
+
+
+<table><tr><th valign="top">Sprint 2</th><th colspan="7" valign="top">Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="3" valign="top">HU-08</td><td rowspan="3" valign="top">Planificar actividades agrícolas</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">5</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar las listas de costos y ganancias</td><td valign="top">Implementar con las listbox con el framework requerido</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.3</td><td valign="top">Cards con información de costos y gastos</td><td valign="top">Implementar cards con la información de costos y gatos</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-01</td><td valign="top">Registro de cuenta</td><td valign="top">01\.1</td><td valign="top">Pantallas de registro de cuentas</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-02</td><td valign="top">Inicio de sesión</td><td valign="top">02\.2</td><td valign="top">Pantallas de inicio de sesión</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+</table>
+
+#### 5.2.2.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniFrontendWeb | feature/crops-and-sales | d87f6afffde8fbb34d5f84b159a69ec6204812d1 | feat(crops): Added components to make crop stepper.  | - | 23/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 46452435e4ee0246e916e24ca0aaa2b11c3cc0a4 | chore: Added crop routing and json.  | - | 24/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 5af3684c063bbac4356618d4f46fbf6d2be0ede0| feat: Updated stepper content of crops.  | - | 24/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 4a1b6beea823328742f14750c0dc1a8dc42847b3| chore: Install dependencies fix app  | - | 17/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | c5d469a94dec1815a13a94a51f0a577b517f0f56| feat: added listbox and buttons to cost and profits section | - | 23/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1e417803940d5b3b48c8632137d4fe4cb3| feat: added buttons using routes | - | 24/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1e417803940d5b3b48c8632137d4fe4cb3| feat: added buttons using routes | - | 24/09/2023 |
+
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-web | main | b615e171feb40af2f4cf048d4e1a1295c4405cd7 | Acceptance_test_09.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | ec1b07904e3e2922acce2ce4fe13de58b7ab7791 | Acceptance_test_07.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | 3d130d7a0e0fa112ef37c54635e08b95e6b89043  | Acceptance_test_05.feature  | - | 24/09/2023 |
+| acceptance-test-web   | main | 595d9594666c5bd2055d09b479a9a5a520229fbc | Acceptance_test_06.feature | - | 24/09/2023 |
+| acceptance-test-web   | main | ec88d9bf82818f5af53030fa70c13549be948035 | Acceptance_test_08.feature | - | 24/09/2023 |
+| acceptance-test-web   | main | e662b40fdfb8659c9476a946abf2b050370f9060 | Acceptance_test_10.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | 0636dbdbdab5ac502d575ce79dc0f4c85a2bcb63 | Acceptance_test_11.feature | - | 24/09/2023 |
+
+#### 5.2.2.5. Execution Evidence for Sprint Review.
+
+En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
+
+![Captura de pantalla 2023-09-24 160516](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a423317b-faca-4c14-aef7-e55a1b9805ea)
+
+Link del video: [Video Evidencia]() 
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review.
+
+No se utilizó ningún servicio adicional, pues este Sprint solo consta de la implementación de pantallas con fake API.
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review.
+Se usará netlify para el despliegue del frontend con todos los avances del equipo. De esta manera todo lo plasmado en la rama develop dentro del repositorio Frontend se reflejará en el deploy. El enlace es el siguiente:
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint.
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
 # Conclusiones
 
 - En conclusión, en este entregable se ha definidio la idea de negocio para el proyecto, asimismo, la problemática que se busca solucionar y a raiz de ello se utilizaron herramientas y artefactos para los puntos de este entregable, tales como: 5W's y 2H's, Lean Ux, Entrevistas, As-Is y To-Be Scenario Mapping, entre otros. Todos estos artefactos sirvieron para identificar las caracteristicas que deben estar presentes en el futuro del desarrollo de la aplicación web para satisfacer a la problematica planteada.
@@ -1951,6 +2172,7 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
   
+-Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
 
 # Referencias
 
