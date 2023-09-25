@@ -2126,15 +2126,17 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| AyniFrontendWeb | feature/crops-and-sales | d87f6afffde8fbb34d5f84b159a69ec6204812d1 | feat(crops): Added components to make crop stepper.  | - | 23/09/2023 |
-| AyniFrontendWeb | feature/crops-and-sales | 46452435e4ee0246e916e24ca0aaa2b11c3cc0a4 | chore: Added crop routing and json.  | - | 24/09/2023 |
-| AyniFrontendWeb | feature/crops-and-sales | 5af3684c063bbac4356618d4f46fbf6d2be0ede0| feat: Updated stepper content of crops.  | - | 24/09/2023 |
-| AyniFrontendWeb | feature/cost-and-profit | 4a1b6beea823328742f14750c0dc1a8dc42847b3| chore: Install dependencies fix app  | - | 17/09/2023 |
-| AyniFrontendWeb | feature/cost-and-profit | c5d469a94dec1815a13a94a51f0a577b517f0f56| feat: added listbox and buttons to cost and profits section | - | 23/09/2023 |
-| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1e417803940d5b3b48c8632137d4fe4cb3| feat: added buttons using routes | - | 24/09/2023 |
-| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1e417803940d5b3b48c8632137d4fe4cb3| feat: added buttons using routes | - | 24/09/2023 |
-
-
+| AyniFrontendWeb | feature/crops-and-sales | d87f6af| feat(crops): Added components to make crop stepper.  | - | 23/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 4645243| chore: Added crop routing and json.  | - | 24/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 5af3684| feat: Updated stepper content of crops.  | - | 24/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 4a1b6be| chore: Install dependencies fix app  | - | 17/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | c5d469a| feat: added listbox and buttons to cost and profits section | - | 23/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1| feat: added buttons using routes | - | 24/09/2023 |
+| AyniFrontendWeb | feature/cost-and-profit | 51ed7a1| feat: added buttons using routes | - | 24/09/2023 |
+| AyniFrontendWeb | feature/authentication-and-home | 56e8729| feat: added signin, signup, select-rol, farmer home and merchant-home | - | 25/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | d87f6af| feat(crops): Added components to make crop stepper. | - | 23/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 4645243| chore: Added crop routing and json. | - | 24/09/2023 |
+| AyniFrontendWeb | feature/crops-and-sales | 5af3684| feat: Updated stepper content of crops.| - | 24/09/2023 |
 
 #### 5.2.2.4. Testing Suite Evidence for Sprint Review.
 
@@ -2152,7 +2154,7 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
 
-![Captura de pantalla 2023-09-24 160516](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/a423317b-faca-4c14-aef7-e55a1b9805ea)
+
 
 Link del video: [Video Evidencia]() 
 
