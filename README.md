@@ -58,6 +58,15 @@ Para la elaboración del informe se realizaron actividades tales como:
 ![commitsweb](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d977e50d-85b0-438e-84e4-622645140431)
 ![commitsweb3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76144deb-c0fe-461d-bfb8-66d22164bd6f)
 
+TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo:
+Link de repositorio Github: [Repositorio de Informe](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+
+Para la elaboración del informe se realizaron actividades tales como:
+- Corregir las observaciones brindadas, tales como: definir la problemática mejor, agregar métricas a los hypothesis statements, añadir dispositivos y canales de distribución al resumen de entrevistas y user persona, mejorar el User Task Matrix, agregar technicals user stories y más escenarios, priorizar el product backlog, mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de base de datos.
+- Planificar el alcance y objetivo del Sprint 2
+- Realizar el sprint backlog 2 para lograr el objetivo de implementar frontend
+- Organizar el repositorio del informe por branches de capítulos
+- Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
 ---
 # Contenido 
@@ -142,9 +151,9 @@ Para la elaboración del informe se realizaron actividades tales como:
     - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
     - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
     - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
-  - [5.2.2. Sprint 1](#522-sprint-1)
-    - [5.2.2.1. Sprint Planning 1](#5221-sprint-planning-1)
-    - [5.2.2.2. Sprint Backlog 1](#5222-sprint-backlog-1)
+  - [5.2.2. Sprint 2](#522-sprint-1)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-1)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-1)
     - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
     - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
     - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
@@ -2103,7 +2112,6 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 #### 5.2.2.2. Sprint Backlog 2.
 
-
 <table><tr><th valign="top">Sprint 2</th><th colspan="7" valign="top">Sprint: Implementar el frontend de las principales historias de usuario del product backlog </th></tr>
 <tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
 <tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
@@ -2113,14 +2121,14 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 <tr><td rowspan="3" valign="top">HU-04</td><td rowspan="3" valign="top">Realizar pedidos de productos</td><td valign="top">08\.1</td><td valign="top">Implementar fake-api</td><td valign="top">Implementar fake api para posts o gets de entidades</td><td valign="top">3</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.2</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar la página con los Styles Guidelines definidos</td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
 <tr><td valign="top">08\.3</td><td valign="top">Implementar stepper </td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">5</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
-<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
-<tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
-<tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td rowspan="3" valign="top">HU-03</td><td rowspan="3" valign="top">Explorar productos agrícolas</td><td valign="top">03\.1</td><td valign="top">Implementar estilos</td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Tatiana Paucar</td><td valign="top">In Process</td></tr>
+<tr><td valign="top">03\.2</td><td valign="top">Implementar formularios</td><td valign="top">Implementar formularios para añadir cultivos</td><td valign="top">5</td><td valign="top">Tatiana Paucar</td><td valign="top">In process</td></tr>
+<tr><td valign="top">03\.3</td><td valign="top">Implementar página de productos</td><td valign="top">Implementar cars para explorar los productos agrícolas</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">In Process</td></tr>
 <tr><td rowspan="3" valign="top">HU-09</td><td rowspan="3" valign="top">Registro de gastos y ganancias</td><td valign="top">09\.1</td><td valign="top">Implementar estilos </td><td valign="top">Diseñar los estilos para las páginas</td><td valign="top">2</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.2</td><td valign="top">Implementar las listas de costos y ganancias</td><td valign="top">Implementar con las listbox con el framework requerido</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">09\.3</td><td valign="top">Cards con información de costos y gastos</td><td valign="top">Implementar cards con la información de costos y gatos</td><td valign="top">5</td><td valign="top">Jorge Gonzales Carrión</td><td valign="top">Done</td></tr>
 <tr><td valign="top">HU-21</td><td valign="top">Sección principal (“Home”)</td><td valign="top">21\.1</td><td valign="top">Paginas de “Home”</td><td valign="top">Implementar páginas de “Home”</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
-<tr><td valign="top">HU-01</td><td valign="top">Registro de cuenta</td><td valign="top">01\.1</td><td valign="top">Pantallas de registro de cuentas</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-01</td><td valign="top">Selección de roles</td><td valign="top">01\.1</td><td valign="top">Pantallas de registro de cuentas</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 <tr><td valign="top">HU-02</td><td valign="top">Inicio de sesión</td><td valign="top">02\.2</td><td valign="top">Pantallas de inicio de sesión</td><td valign="top">Implementar  inicio de sesión mediante componentes</td><td valign="top">3</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
 </table>
 
@@ -2144,13 +2152,13 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-web | main | b615e171feb40af2f4cf048d4e1a1295c4405cd7 | Acceptance_test_09.feature | - | 24/09/2023 |
-| acceptance-test-web  | main | ec1b07904e3e2922acce2ce4fe13de58b7ab7791 | Acceptance_test_07.feature | - | 24/09/2023 |
-| acceptance-test-web  | main | 3d130d7a0e0fa112ef37c54635e08b95e6b89043  | Acceptance_test_05.feature  | - | 24/09/2023 |
-| acceptance-test-web   | main | 595d9594666c5bd2055d09b479a9a5a520229fbc | Acceptance_test_06.feature | - | 24/09/2023 |
-| acceptance-test-web   | main | ec88d9bf82818f5af53030fa70c13549be948035 | Acceptance_test_08.feature | - | 24/09/2023 |
-| acceptance-test-web   | main | e662b40fdfb8659c9476a946abf2b050370f9060 | Acceptance_test_10.feature | - | 24/09/2023 |
-| acceptance-test-web  | main | 0636dbdbdab5ac502d575ce79dc0f4c85a2bcb63 | Acceptance_test_11.feature | - | 24/09/2023 |
+| acceptance-test-web | main | b615e17 | Acceptance_test_09.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | ec1b079 | Acceptance_test_07.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | 3d130d7  | Acceptance_test_05.feature  | - | 24/09/2023 |
+| acceptance-test-web   | main | 595d959 | Acceptance_test_06.feature | - | 24/09/2023 |
+| acceptance-test-web   | main | ec88d9b | Acceptance_test_08.feature | - | 24/09/2023 |
+| acceptance-test-web   | main | e662b40 | Acceptance_test_10.feature | - | 24/09/2023 |
+| acceptance-test-web  | main | 0636dbdb | Acceptance_test_11.feature | - | 24/09/2023 |
 
 #### 5.2.2.5. Execution Evidence for Sprint Review.
 
