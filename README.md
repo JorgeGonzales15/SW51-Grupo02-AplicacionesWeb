@@ -44,7 +44,7 @@ Agosto del 2023
 | 2.12 | 25/09/2023 | Huaman Catano, Miguel Angel | Se realizó la planificación de cultivo en el frontend |
 | 2.20 | 25/09/2023 | Espejo Macuri, Paolo Andre | Se realizo la documentación de los commits relacionado al registro de los cultivos |
 | 2.21 | 25/09/2023 | Espejo Macuri, Paolo Andre | Se realizo la documentación del los commits que se hicieron en el proceso de creación del stepper de ventas |
-| 2.22 | 25/09/2023 |  |  |
+| 2.22 | 25/09/2023 | Paucar de la Cruz, Tatiana | Se realizó la documentación de los commits de explorar productos agricolas de la branch "explore-and-add" |
 
 ---
 # Project Report Collaboration Insights
