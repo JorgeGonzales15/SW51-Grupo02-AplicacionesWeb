@@ -71,6 +71,9 @@ Para la elaboración del informe se realizaron actividades tales como:
 - Organizar el repositorio del informe por branches de capítulos
 - Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7c25c209-dbe4-4744-a1d6-8435d0a47a34)
+
+
 ---
 # Contenido 
 ## Tabla de contenidos
@@ -181,8 +184,9 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. | Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page | Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Jorge Gonzales - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Paolo Espejo - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Tatiana Paucar - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br>  **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Miguel Huaman - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. <br> **Jose Zarate - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches.| TB1: Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz. <br> TP: Se delegaron features por integrante de trabajo para el sprint 2 |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Jorge Gonzales - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Paolo Espejo - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Tatiana Paucar - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Miguel Huaman - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page <br> **Jose Zarate - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br>| TB1: Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. <br> TP: Cada integrante analizó el segmento objetivo para realizar las features designadas con respecto al sector empresarial.  |
+
 
 ---
 # Capítulo I: Introducción
@@ -2170,14 +2174,27 @@ En este apartado se hace presenta la ejecución del frontend del producto soluci
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c6824343-3b0b-42bd-ad92-8b9c60e716b3)
 
 
-Link del video: [Video Evidencia](https://ayni-frontend-web.netlify.app/) 
+Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZJWflIFvqVIoMqnj4xec18BjyoAKmfyZ6xJOKdvHcb3Ng?e=kmrJhd) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
-No se utilizó ningún servicio adicional, pues este Sprint solo consta de la implementación de pantallas con fake API.
+| Endpoint | Detalles |
+| - | - | 
+| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
+| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
+| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
+| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
+| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
+| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
+| /sales/step-1  | Este endpoint corresponde al paso 1 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
+| /sales/step-2  | Este endpoint corresponde al paso 2 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
+| /sales/step-3  | Este endpoint corresponde al paso 3 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
+| /costs | En esta ruta se muestra la pantalla de costs del usuario| 
+
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el proceso de despliegue de lo desarrollado en el Sprint 2, a continuación se detallará paso a paso el procedimiento del despliegue:
 
 Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
 
@@ -2203,9 +2220,24 @@ De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostr
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/4b49ccb0-3bb6-4ca5-8387-161d80b16049)
 
+Adicionalmente se usó JSONPlaceholder para levantar el archivo db.json para no depender de localhost: A continuación el link:
+
+Link del frontend desplegado: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniFakeApi) 
+
+Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
+
+Link del frontend desplegado: [Netlify](https://ayni-frontend-web.netlify.app/signin) 
+
+
+
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f2303de7-8128-4dea-99c7-6cb7fa91315c)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ed892bc4-9285-419e-9e08-22b291bf8bee)
+
+
 
 # Conclusiones
 
@@ -2215,7 +2247,7 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
   
--Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
+- Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
 
 # Referencias
 
@@ -2234,3 +2266,5 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 # Anexos
 
 Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZvoCth7yFlDnQadMBlDhUEBIcNdSk0_PHLXOR7RNEfbPg?e=ASHZv1)
+
+Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXKAGq9BcBtDiATDiP-UENEBDlDpAMtB0vJOJ3woJwUHiQ?e=2o36oi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
