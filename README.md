@@ -2166,9 +2166,10 @@ Las actividades para el presente Sprint se repartieron en base a las secciones d
 
 En este apartado se hace presenta la ejecución del frontend del producto solución Ayni.
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c6824343-3b0b-42bd-ad92-8b9c60e716b3)
 
 
-Link del video: [Video Evidencia]() 
+Link del video: [Video Evidencia](https://ayni-frontend-web.netlify.app/) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -2176,6 +2177,12 @@ No se utilizó ningún servicio adicional, pues este Sprint solo consta de la im
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 Se usará netlify para el despliegue del frontend con todos los avances del equipo. De esta manera todo lo plasmado en la rama develop dentro del repositorio Frontend se reflejará en el deploy. El enlace es el siguiente:
+
+Link: [Netlify](https://ayni-frontend-web.netlify.app/) 
+
+Asimismo, se utilizó JSONPlaceholder para alojar la fake API que se utilizó para desarrollar el frontend. Sin embargo, existía una limitación de 5 entidades disponibles, por lo cual se recortaron las posibildiades de hacer metodos para todas las páginas realizadas. El enlace es el siguiente:
+
+Link: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniFakeApi) 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint.
 Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web, para ello, se realizaron primero branches por features abordados dentro del sprint para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
