@@ -13,7 +13,7 @@ Sección SW51
 
 Profesor: Tinoco Licas, Juan Carlos
 
-***INFORME DE TRABAJO FINAL - TB1***
+***INFORME DE TRABAJO FINAL - TP***
 
 **Startup: GreatMinds**
 
@@ -2180,17 +2180,11 @@ Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/perso
 
 | Endpoint | Detalles |
 | - | - | 
-| /signin| Como ruta default tenemos esta, que a la vez es la pantalla de inicio de sesión | 
-| /signup | En esta ruta se muestra la pantalla de registro de usuario | 
-| /select-rol  | En este endpoint se muestra la pantalla relacionada a la selección de roles | 
-| /farmer-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de agricultor | 
-| /merchant-home  | En este endpoint se muestra lo correspondiente a funcionalidades para el rol de comerciante | 
-| /sales  | Este endpoint corresponde al procedimiento de compra de pedido del tipo de usuario comerciante |
-| /sales/step-1  | Este endpoint corresponde al paso 1 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
-| /sales/step-2  | Este endpoint corresponde al paso 2 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
-| /sales/step-3  | Este endpoint corresponde al paso 3 del procedimiento de compra de pedido del tipo de usuario comerciante  | 
-| /costs | En esta ruta se muestra la pantalla de costs del usuario| 
-
+| crops | En este endpoint se representan los datos del cultivo seleccionado| 
+| order_details | En este endpoint se muestra los detalles del pedido | 
+| order_payment  | En este endpoint se almacena los detalles del pago del producto | 
+| products  | En este endpoint se almacena los datos de los productos | 
+| activities  | En este endpoint se almacena la información de las actividades de cultivo | 
 
 #### 5.2.2.7. Software Deployment Evidence for Sprint Review.
 
