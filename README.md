@@ -1282,23 +1282,23 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 
 |**#Orden**|**User Story Id**|**Título**|**Descripción**|**Story Points (1 / 2 / 3 / 5 / 8)**|
 | :-: | :-: | :-: | :-: | :-: |
-|01|HU-08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|5|
-|02|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
-|03|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
-|04|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
-|05|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
-|06|HU-01|Selección de roles|Como usuario, quiero elegir un rol en la aplicación para acceder a las funcionalidades disponibles según el rol que escoja (Productor o Comerciante).|2|
-|07|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
-|08|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
-|09|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
-|10|HU10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo con ello|3|
-|11|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
-|12|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
-|13|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
-|14|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
-|15|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
-|16|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
-|17|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
+|01|HU-13|Visualización de características de la aplicación web|Como usuario deseo ver las principales características de la aplicación para decidir si usar el producto en mi trabajo|5|
+|02|HU-14|Landing Page responsive|Como usuario deseo visitar la landing page desde cualquier dispositivo|8|
+|03|HU-15|Botón Call to Action|Como usuario deseo ir a la aplicación web desde un solo botón|5|
+|04|HU-16|Visualización de botones y texto amplia y notoria|Como usuario deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|3|
+|05|HU-08|Planificar actividades agrícolas|Como agricultor, quiero ingresar los datos correspondientes para la planificación de las actividades agrícolas|5|
+|06|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
+|07|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
+|08|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
+|09|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|10|HU-01|Selección de roles|Como usuario, quiero elegir un rol en la aplicación para acceder a las funcionalidades disponibles según el rol que escoja (Productor o Comerciante).|2|
+|11|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
+|12|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
+|13|HU-12|Atender pedidos|Como usuario deseo ver los pedidos que tengo de manera rápida y fácil en una pantalla|8|
+|14|HU10|Gestión de Insumos Agrícolas|Como agricultor, quiero llevar un registro de los insumos agrícolas utilizados para analizarlo y tomar decisiones de acuerdo con ello|3|
+|15|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
+|16|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
+|17|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
 |18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
 |19|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |5|
 |20|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
@@ -2220,7 +2220,7 @@ Link del frontend desplegado: [JSONPlaceholder](https://my-json-server.typicode.
 
 Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
 
-Link del frontend desplegado: [Netlify](https://ayni-frontend-web.netlify.app/signin) 
+Link del frontend desplegado: [Netlify](https://ayni-frontendweb.netlify.app/select-rol) 
 
 
 
