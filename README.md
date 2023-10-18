@@ -51,7 +51,7 @@ Agosto del 2023
 # Project Report Collaboration Insights
 
 TB1: Se han desarrollado las actividades correspondientes para la entrega TB1 en el siguiente repositorio de Github dentro de la organización del equipo:
-Link de repositorio Github: [Repositorio de Informe](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+Link de repositorio Github: (https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
 
 Para la elaboración del informe se realizaron actividades tales como: 
 - Redactar y graficar en formato Markdown los puntos designados al integrante y posteriormente realizar commits para que el avance se guarde. 
@@ -62,7 +62,7 @@ Para la elaboración del informe se realizaron actividades tales como:
 ![commitsweb3](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/76144deb-c0fe-461d-bfb8-66d22164bd6f)
 
 TP: Se han desarrollado las actividades correspondientes para la entrega TP en el siguiente repositorio de Guthub dentro de la organización del equipo:
-Link de repositorio Github: [Repositorio de Informe](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+Link de repositorio Github: (https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
 
 Para la elaboración del informe se realizaron actividades tales como:
 - Corregir las observaciones brindadas, tales como: definir la problemática mejor, agregar métricas a los hypothesis statements, añadir dispositivos y canales de distribución al resumen de entrevistas y user persona, mejorar el User Task Matrix, agregar technicals user stories y más escenarios, priorizar el product backlog, mejorar el diagrama de componentes por bounded context, mejorar las nomenclaturas dentro del modelo de diagrama de base de datos.
@@ -746,7 +746,7 @@ Edad: 41 años
 
 Distrito: El carmen - Chincha
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 0:00 
 
@@ -768,7 +768,7 @@ Edad: 28 años
 
 Distrito: El carmen - Chincha
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 7:43
 
@@ -789,7 +789,7 @@ Edad: 50
 
 Región: Junín 
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 18:53
 
@@ -813,7 +813,7 @@ Edad: 25
 
 Distrito: Lince - Lima
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 27:02
 
@@ -835,7 +835,7 @@ Edad: 24
 
 Distrito: Santiago de Surco - Lima
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 35:37
 
@@ -856,7 +856,7 @@ Edad: 45
 
 Distrito: Surco - Lima
 
-Url: [Video Microsoft Teams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXc-uBMZqwpIlzsRikopK7QByS0Aly3640gv24rnaIIqgg?e=nq1dGR)
 
 Inicio: 44:03
 
@@ -1524,7 +1524,7 @@ En esta sección se mostrará el desarrollo visual del Landing Page. Para ello, 
 ![wireframe landing1](https://user-images.githubusercontent.com/104078975/265294362-cf7b8b7d-a3c6-4886-a961-17ebea4f9f2f.png) 
 
 
-Link: [Figma](https://www.figma.com/file/YR4NseDMnYS8ke5dmqMcdY/Desktop-landing-page-wireframes-(Copy)?type=design&node-id=0%3A1&mode=design&t=yZiv29XpOE5ltkCs-1)
+Link: (https://www.figma.com/file/YR4NseDMnYS8ke5dmqMcdY/Desktop-landing-page-wireframes-(Copy)?type=design&node-id=0%3A1&mode=design&t=yZiv29XpOE5ltkCs-1)
 
 ### 4.3.2. Landing Page Mock-up.
 
@@ -1587,7 +1587,7 @@ Finalmente, aquí es un vistazo general a los mockups y wireframes:
 
 En esta sección, se presentan los wireflows de la aplicación guiándose de las historias de usuario en la herramienta LucidChart.
 
-Link de Lucidchar: [Wireflows LucidChart](https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
+Link de Lucidchar: (https://lucid.app/lucidchart/aa72d3cf-f994-4a82-9ad8-044f3b9fc331/edit?viewport_loc=676%2C-2242%2C15341%2C7356%2C0_0&invitationId=inv_0da86b32-9131-4d2a-9317-1d95207a50e7)
 
 **Usar Goal:** Como usuario, quiero poder registrarme en la aplicación para acceder a las funcionalidades disponibles.
 
@@ -1757,7 +1757,7 @@ En esta sección, se presenta el diseño viusal y de interacción en formato de 
 
 En esta sección, se presentaran los User Flows, donde se mostrarán las rutas Happy y Unhappy que los usuarios pueden tener al momento de usar la aplicación web. Cabe resaltar que los Happy Paths están represetnadas con flechas en color verde y los Unhappy con flechas de color rojo. Se utilizó la herramienta LucidChart.
 
-Link de Lucidchart:[UserFlow Lucidchart](https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
+Link de Lucidchart: (https://lucid.app/lucidchart/edcb2519-faf5-4a02-8d32-e782a99ffa7f/edit?viewport_loc=-781%2C342%2C12102%2C5535%2C0_0&invitationId=inv_78155e1b-bf61-45ea-9bb8-16f59f2af020)
 
 **User Goal:** Registrar los insumos agrícolas utilizados en un cultivo
 
@@ -1859,9 +1859,9 @@ La información presentada se separa por partes, de tal manera que el usuario en
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/d1677ee0-a6ce-494b-b406-d804be366f70)
 
-Link de video: [Video](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
+Link de video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EX4ZpWMosmZPs7NUF4TaAA8BsIw_pJptxIo8rk014lsGKg?e=1m2JAk)
 
-Link del prototipo: [Figma](https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
+Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-Material-(Material-3-Design-Component-Figma-Library-For-Angular)-(Community)?type=design&node-id=563-11136&t=zMDrjfTjeys89byq-0&scaling=min-zoom&page-id=6%3A2) 
 
 ![prototype](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/970fa7d2-d4cd-4890-881a-b485773e922f)
 
@@ -1888,7 +1888,7 @@ En esta sección, se presentarán los diagramas de clases, en las cuales se repr
 
 ![Diagrama de clase](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/421d4185-8842-4a52-a824-c5e57c1ed9ee)
 
-Link del diagrama de clases: [Lucidchart](https://lucid.app/lucidchart/da673808-9900-4ced-8184-01abaa761b59/edit?view_items=CDxqUGDDEZN7&invitationId=inv_b067fe97-c812-4a2d-93cc-f2436025b5db)
+Link del diagrama de clases: (https://lucid.app/lucidchart/da673808-9900-4ced-8184-01abaa761b59/edit?view_items=CDxqUGDDEZN7&invitationId=inv_b067fe97-c812-4a2d-93cc-f2436025b5db)
 
 
 ### 4.7.2. Class Dictionary.
@@ -1921,7 +1921,7 @@ En esta sección, se presentará el diagrama de la base de datos, que muestra la
 
 ![Ayni-2023-09-20_20-58](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1b9bc309-9286-4b29-9ef8-cbbc110e1223)
 
-Link para visualizar el diagrama de base de datos: [Vertabelo](https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
+Link para visualizar el diagrama de base de datos: (https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1980,11 +1980,11 @@ Lenguaje Gherkin: El lenguaje Gherkin es un lenguaje de dominio específico util
 
 Como mencionamos anteriormente, se utilizará GitHub para llevar un control de las versiones de desarrollo y poder trabajar de forma colaborativa. Para ello, se creó una organización llamada: [Github Organización](https://github.com/upc-2023-GreatMinds-SW51-Web) 
 
-Repositorio del landing page: [Repositorio Landing Page](https://github.com/upc-2023-GreatMinds-SW51-Web/Ayni_LandingPage_Web/tree/Release/1.0) 
+Repositorio del landing page: (https://github.com/upc-2023-GreatMinds-SW51-Web/Ayni_LandingPage_Web/tree/Release/1.0) 
 
-Repositorio pruebas de aceptación: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/acceptance-test-web)
+Repositorio pruebas de aceptación: (https://github.com/upc-2023-GreatMinds-SW51-Web/acceptance-test-web)
 
-Repositorio Frontend: [Github](https://github.com/upc-2023-GreatMinds-SW51-Web/AyniFrontendWeb)
+Repositorio Frontend: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniFrontendWeb)
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
@@ -2096,7 +2096,7 @@ En este apartado se hace presenta la implementación/despliegue de la landing pa
 
 ![Sprint Evidence Landing (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/4da61194-1ee7-4012-a786-5dc804e68d2c)
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EboHBmisglROmEJioyVBF5YBZ_Pr7cydTYr8pFi8njPn8A?e=SJBY3T) 
 
 #### 5.2.1.6. Services Documentation Evidence for Sprint Review.
 
@@ -2105,7 +2105,7 @@ No se utilizó ningún servicio adicional, pues este primer Sprint solo consta d
 #### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
 Como se mencionó, se utilizó Netlify para el despliegue automático del landing page con todos los cambios realizados por el equipo. Netlify se integra con nuestra organización en GitHub y luego con el repositorio, siendo la rama main la que utilizamos para el despliegue. El enlace es el siguiente: 
-[Ayni Landin Page](https://aynilandingpage.netlify.app/)
+(https://aynilandingpage.netlify.app/)
 
 #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
@@ -2190,7 +2190,7 @@ En este apartado se hace presenta la ejecución del frontend del producto soluci
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c6824343-3b0b-42bd-ad92-8b9c60e716b3)
 
 
-Link del video: [Video Evidencia](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZJWflIFvqVIoMqnj4xec18BjyoAKmfyZ6xJOKdvHcb3Ng?e=kmrJhd) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZJWflIFvqVIoMqnj4xec18BjyoAKmfyZ6xJOKdvHcb3Ng?e=kmrJhd) 
 
 #### 5.2.2.6. Services Documentation Evidence for Sprint Review.
 
@@ -2232,11 +2232,11 @@ De esta manera el avance del Sprint 2 queda desplegado, a continuación se mostr
 
 Adicionalmente se usó JSONPlaceholder para levantar el archivo db.json para no depender de localhost: A continuación el link:
 
-Link del frontend desplegado: [JSONPlaceholder](https://my-json-server.typicode.com/JorgeGonzales15/AyniFakeApi) 
+Link del frontend desplegado: (https://my-json-server.typicode.com/JorgeGonzales15/AyniFakeApi) 
 
 Finalmente, se logró desplegar con exito todo el desarrollo trabajado en el Sprint2. A continuación el link:
 
-Link del frontend desplegado: [Netlify](https://ayni-frontendweb.netlify.app/select-rol) 
+Link del frontend desplegado: (https://ayni-frontendweb.netlify.app/select-rol) 
 
 
 
@@ -2273,33 +2273,27 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
-| AyniFrontend |  | | | - |   |
+| AyniFrontend | feature/orders | e8c6de8 | feat: added orders section | - | 11/10/2023  |
+| AyniFrontend | feature/orders | 613ca77 | feat: added orders section paginator and my plants section | - | 15/10/2023  |
+| AyniFrontend | feature/rates-and-shopping | 7cdee75 | feat: added my shopping and rate pages | - | 15/10/2023  |
+| AyniFrontend | develop | 97210e0 | feat: change baseUrl to JSONPlaceholder link | - | 16/10/2023  |
+| AyniFrontend | develop | 7ba4a4f | feat: added my plants section | - | 17/10/2023  |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
-| acceptance-test-opensource | main |  | | - | |
+| acceptance-test-opensource | main | a4cf392 | Acceptance_test_12.feature | - | 18/10/2023 |
+| acceptance-test-opensource | main | ab7d2e3 | Acceptance_test_13.feature | - | 18/10/2023 |
+| acceptance-test-opensource | main | 4f66065 | Acceptance_test_14.feature | - | 18/10/2023 |
+| acceptance-test-opensource | main | 088e8ef | Acceptance_test_15.feature | - | 18/10/2023 |
+| acceptance-test-opensource | main | 31ba20f | Acceptance_test_16.feature | - | 18/10/2023 |
 
 #### 5.2.3.5. Execution Evidence for Sprint Review.
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
-
-
-Link del video: [Video Evidencia]() 
+Link del video: () 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
@@ -2311,6 +2305,35 @@ Link del video: [Video Evidencia]()
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
 
+Para la nueva versión de los web application del Sprint 3 se realizó el siguiente despliegue:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera se desplegó la nueva versión de los web application. A continuación los links:
+
+Link de landing page: (https://ayni-landing-page.netlify.app/)
+
+Link de web application: (https://ayni-frontend-web.netlify.app/signin)
+
+Para la primera versión de los web services o backend del proyecto, se realizó el siguiente despliegue:
 
 
 
@@ -2323,7 +2346,79 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 ### 5.3.1. Diseño de Entrevistas.
 
+**Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la agricultura?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  
+  **User Flow: Añadir cultivo y plan de cultivo**
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Mis Productos"
+  - Añade un cultivo
+  - Crea un plan de cultivo
+  - Ingresa los campos solicitados en el stepper
+  - Ingresa sus fechas importantes en el calendario
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - Con respecto a la aplicación, ¿considera que es complicado añadir un cultivo?
+  - ¿Los cultivos que son añadidos contienen lo que necesitas saber sobre ellas para su correcto sembrío? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus sembríos u obtener información sobre sus plantas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
 
+
+
+**Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas**
+- **Presentación del entrevistado**
+  - ¿Cuál es tu nombre?
+  - ¿Qué edad tienes?
+  - ¿Hace cuánto se dedica a la venta de productos agrícolas?
+- **Explicación de los alcances de la demostración**
+  - Landing Page
+  - Prinipales tareas en la aplicación
+- **Navegación a través de la aplicación web**
+  
+  **User Flow: Comprar un producto**
+  - El usuario ingresa a landing page
+  - Busca el botón call to action
+  - Se redirige a la sección de registro de usuarios y llena los campos solicitados
+  - Selecciona su rol 
+  - Se redirige a la sección de Home
+  - Ingresa a la sección "Buscar productos"
+  - Selecciona un cultivo
+  - Hace click en el botón "Comprar"
+  - Ingresa los campos solicitados en el stepper
+  - Confirma la compra
+- **Preguntas principales**
+  - ¿Consideras atractiva la manera en la que el producto Ayni está promocionado en la Landing Page?
+  - ¿Consideras que el landing page ofrece toda la información necesaria para tener un entendimiento adecuado del funcionamento, propósito y funcionalidades ofrecidas por la apliación?
+  - ¿Resulta agradable a la vista la manera en la que la información está presentada?
+  - ¿Qué dispositivo utilizaste para acceder al Landing Page? ¿La página presenta  algún tipo de inconveniente de diseño que impida navegar de manera fluida?
+  - Del 1 al 10 ¿Cómo calificarías el diseño de la Landing Page?
+  - Con respecto a la aplicación, ¿considera que es complicado encontrar un cultivo?
+  - ¿Los cultivos que son mostrados contienen lo que necesitas saber sobre ellas para incentivar su compra? ¿Qué otros apartados le gustaría visualizar?
+  - ¿Qué opina acerca de la distribución de secciones?
+  - ¿Cómo describiría nuestra aplicación web en pocas palabras?
+  - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
+  - ¿Utiliza actualmente una aplicación web para administrar sus ventas u obtener información sobre los productos agrícolas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
+  - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
+  - ¿Considera que el diseño es adecuado?
 
 ### 5.3.2. Registro de Entrevistas.
 
@@ -2345,14 +2440,14 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 **PROFESORES : Todos**
 
-**AUDITOR :** 
+**AUDITOR : Equipo de desarrollo Greatminds ** 
 
-**CLIENTE(S) :** 
+**CLIENTE(S) : Ayni ** 
 
 
 - **SITE o APP A EVALUAR:**
 
-sdasd
+Ayni - Aplicación de gestión agrícola. 
 
 - **TAREAS A EVALUAR:**
 
@@ -2360,11 +2455,9 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 1. Desktop landing page
    1. Información y descripción de la aplicación y sus funcionalidades
-   1. Visualización de planes de pago y precio de la aplicación
-   1. Visualización de botón de descarga de la aplicación
-   1. Header y footer apropiado para la landing page
-   1. Etc.
-1. Mobile App Wireframes
+   2. Visualización de botón call to action y redirección a web applications
+   3. Header y footer apropiado para la landing page
+1. Web Applications
    1. Registro de nuevo usuario
    1. Inicio de sesión de usuario existente
    1. Pestañas de navegación dentro de la aplicación
@@ -2386,8 +2479,7 @@ No están incluidas en esta versión de la evaluación las siguientes tareas:
 1. Mobile App Wireframes
    1. Ventanas emergentes
    1. Notificaciones de la aplicación
-   1. Opción de cambio de idioma
-   1. Política de privacidad y condiciones de uso
+
 
 - **ESCALA DE SEVERIDAD:**
 
