@@ -2422,7 +2422,28 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 ### 5.3.2. Registro de Entrevistas.
 
+** Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas **
 
+
+** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
+
+Nombre y apellidos: Andre Luna
+
+Edad: 25
+
+Distrito: Lince - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 12:22
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/32e60e1b-b451-45ab-a241-4dfe133b67dd)
+
+Al analizar la entrevista, Andre nos menciona que las vistas son adecuadas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas. Sin embargo, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
 
 
 ### 5.3.3. Evaluaciones según herísticas.
