@@ -2523,19 +2523,41 @@ Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
 1. **Desktop Landing Page**
 
-***PROBLEMA #1:** El formato de diseño elegido para los botones “Ver más” es inconsistente*
+***PROBLEMA #1:** El formato de diseño elegido para los botones es inconsistente*
 
 ***Severidad:** 1*
 
 *Heurística violada: Usabilidad - Consistencia y estándares*
 
 ***Problema:***
+Botones en sección "My Shopping"
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/66ae4b47-a604-4c3f-9a7f-8dd8dc69a9ee)
 
-*El formato de diseño elegido para los botones “Ver más” es inconsistente dentro de todas las secciones de la landing page. Esto incluye el tamaño de la letra, color, bordes del botón e iconografía que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
+Botones en sección "Find Products"
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c04b679e-8bf9-40cb-914d-27a311621fcb)
+
+
+*El formato de diseño elegido para los botones “Buy” es inconsistente a comparación de todas las secciones de la aplicación web. Esto incluye el color y bordes del botón que permite identificarlos. Como consecuencia, esto puede provocar que potencialmente los usuarios se desorienten y no puedan diferenciar el texto de un botón con el cual pueden interactuar.*
 
 ***Recomendación:**
-Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con el Landing Page.*
+Utilizar el mismo estilo de botones para mostrar más información en todas las secciones, de manera que el usuario se familiarice mejor con la aplicación web.*
 
+***PROBLEMA #2:** Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*
+
+***Severidad:** 1*
+
+*Heurística violada: Usabilidad - Reconocer antes que recordar*
+
+***Problema:***
+
+Barra de navegación:
+
+
+*Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
+
+***Recomendación:**
+Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
 
 
 ## 5.4. Video About-the-Product.
