@@ -2445,8 +2445,27 @@ Duración: 12:22
 
 Al analizar la entrevista, Andre nos menciona que las vistas son adecuadas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas. Sin embargo, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
 
+Nombre y apellidos: Favio Onofre
+
+Edad: 21
+
+Distrito: Lince - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 09:28
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/91d4eb6e-7d56-4383-a0b2-ff3572a5c5b8)
+
+Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opinions acerca del diseño de ambas, lo cual le pareció bueno y adecuado. Sin embargo, mencionó que dentro de la alnding apge hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. También, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
 
 ### 5.3.3. Evaluaciones según herísticas.
+
+En esta sección se realizará el reporte de Heurísticas de usabilidad que se ecnotnraron en la realización de la valdiación con posibles usuarios según su segmento.
 
 **UX Heuristics & Principles Evaluation**
 --- 
@@ -2480,32 +2499,16 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
    3. Header y footer apropiado para la landing page
 1. Web Applications
    1. Registro de nuevo usuario
-   1. Inicio de sesión de usuario existente
-   1. Pestañas de navegación dentro de la aplicación
-   1. Botones interactivos y de uso intuitivo
-   1. Búsqueda de temas académicos
-   1. Navegación y orientación dentro de la realidad virtual
-   1. Apertura y visualización de libros académicos
-   1. Visualización de perfil de usuario
-   1. Creación y navegación dentro de aula
-   1. Opción de cargar material educativo dentro de la aplicación
-   1. Mensajes que orienten al usuario sobre el estado del sistema
-
-No están incluidas en esta versión de la evaluación las siguientes tareas:
-
-1. Desktop landing page
-   1. Formulario para crear cuenta o iniciar sesión
-   1. Redes sociales asociadas a la startup
-   1. Política de privacidad y condiciones de uso
-1. Mobile App Wireframes
-   1. Ventanas emergentes
-   1. Notificaciones de la aplicación
-
+   2. Inicio de sesión de usuario existente
+   3. Botones interactivos y de uso intuitivo
+   4. Creación de cultivos
+   5. Navegación y orientación dentro de las secciones
+   6. Proceso de compra de cultivo
+   7. Visualización de cultivos
 
 - **ESCALA DE SEVERIDAD:**
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
-
 
 
 - **TABLA RESUMEN:**
