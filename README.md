@@ -2416,7 +2416,6 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
   - ¿Qué opina acerca de la distribución de secciones?
   - ¿Cómo describiría nuestra aplicación web en pocas palabras?
   - ¿Qué características específicas desea usted que agreguemos a la aplicación web?
-  - ¿Utiliza actualmente una aplicación web para administrar sus ventas u obtener información sobre los productos agrícolas? De ser así, ¿Qué características logra diferenciar entra esa aplicación y la nuestra?
   - ¿De todas las características evidenciadas en la aplicación web, cuál cree que debería mejorarse? ¿Por qué?
   - ¿Considera que el diseño es adecuado?
 
@@ -2461,7 +2460,7 @@ Duración: 12:22
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/32e60e1b-b451-45ab-a241-4dfe133b67dd)
 
-Al analizar la entrevista, Andre nos menciona que las vistas son adecuadas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas. Sin embargo, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
+Al analizar la entrevista, Andre nos menciona que las vistas son atracticas y logradas para el propósito de la aplicación que se desea ofrecer, además, le resulta muy facilmente navegar en ella al ser intuitiva y las secciones le parecen bien distribuidas, con respecto a la información brindada acerca de las funcionalidades, considera que es adecuada. No tuvo problemas para abrir la landing page en su dispositivo móvil, debido a ello, calificó la landing page con un 8 de 10. Por otro lado, con respecto a la aplicación web, nos brindó una sugerencia con respecto a la creación de un perfil propio del usuario donde proporcione teléfonos de contacto. De esta manera facilitaria aún más el contacto con el agricultor. De la misma manera, nos dejó sugerencias acerca de la tipografía y de el tamaño de algunos botones. Finalmente, indica que, si bien la aplicación web le parece muy buena, todavia cree que se puede mejorar añadiendo funciones y pulir un poco más las vistas. 
 
 Nombre y apellidos: Favio Onofre
 
@@ -2479,7 +2478,7 @@ Duración: 09:28
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/91d4eb6e-7d56-4383-a0b2-ff3572a5c5b8)
 
-Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. También, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
+Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado, asimismo con la información brindada acerca delas funcionalidades ofrecidas de la aplicación web dentro de  la landing page, resultadole agradable a la vista. Por otro lado, pudo acceder a la alnding page desde su navegador web sin problema, brindandonos su apreciación con 8 puntos de 10. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. Por otro lado, en la aplicación web, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
 
 Nombre y apellidos: Juli Carrión
 
@@ -2598,6 +2597,21 @@ Barra de navegación:
 
 ***Recomendación:**
 Resaltar con un cuadro de color resaltante la sección que se seleccione dentro de la barra de navegación, con la finalidad de orientar al usuario.*
+
+***PROBLEMA #3:** No existe un apartado de edición de perfil*
+
+***Severidad:** 2*
+
+*Heurística violada: Usabilidad - Control de usuario y libertad*
+
+***Problema:***
+
+
+
+*Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
+
+***Recomendación:**
+Implementar un boton o apartado para editar perfil de usuario.*
 
 
 ## 5.4. Video About-the-Product.
