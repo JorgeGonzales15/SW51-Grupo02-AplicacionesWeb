@@ -2424,6 +2424,24 @@ En esta sección, se registra las actividades correspondientes a las entrevistas
 
 ** Segmento Objetivo: Productores que quieren mejorar la calidad de sus ventas **
 
+Nombre y apellidos: Lissane Mareni
+
+Edad: 19
+
+Distrito: San Juan de Miraflores - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 11:49
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/295c69b8-1106-41c4-a96f-be286ae137e9)
+
+Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
+
 
 ** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
 
@@ -2461,7 +2479,29 @@ Duración: 09:28
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/91d4eb6e-7d56-4383-a0b2-ff3572a5c5b8)
 
-Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opinions acerca del diseño de ambas, lo cual le pareció bueno y adecuado. Sin embargo, mencionó que dentro de la alnding apge hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. También, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
+Favio nos proporcionó su tiempo para que visite la landing page y las web applications de Ayni. Asimismo, nos proprocionó su opiniones acerca del diseño de ambas, lo cual le pareció bueno y adecuado. Sin embargo, mencionó que dentro de la landing page hay algunas cosas para mejorar, como el tamaño de los botones y la cantidad de información brindada siendo un poco excedente. También, mencionó que desea que la información brindada acerca de los cultivos sea más detallada, con secciones de clima o altura. Finalmente, resaltó que la distribución de las secciones es correcta y de igual manera los colores, pues refleja caracteristicas propias de la agricultura brindando un ambiente ameno. 
+
+Nombre y apellidos: Juli Carrión
+
+Edad: 45
+
+Distrito: Surco - Lima
+
+Url: ()
+
+Inicio: 
+
+Fin: 
+
+Duración: 11:49
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f5689be5-7634-485e-b7b6-486a83ca993b)
+
+
+Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
+
+
+
 
 ### 5.3.3. Evaluaciones según herísticas.
 
