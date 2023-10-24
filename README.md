@@ -47,6 +47,7 @@ Agosto del 2023
 | 2.22 | 25/09/2023 | Paucar de la Cruz, Tatiana | Se realizó la documentación de los commits de explorar productos agricolas de la branch "explore-and-add" |
 | 2.13 | 25/09/2023 | Zarate Castro, Jose Daniel | Se realizó la explicación paso a paso del proceso de deployment de lo avanzado en el Sprint 2 |
 | 3.1 | 23/10/2023 | Zarate Castro, Jose Daniel | Se realizo nueva version de web applications y documentacion de commits |
+| 3.2 | 23/10/2023 | Huaman Catano, Miguel | Se documentaron los commits realizados y se actualizo el punto Source Code Management|
 ---
 # Project Report Collaboration Insights
 
