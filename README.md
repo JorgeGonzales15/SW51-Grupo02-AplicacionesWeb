@@ -13,7 +13,7 @@ Sección SW51
 
 Profesor: Tinoco Licas, Juan Carlos
 
-***INFORME DE TRABAJO FINAL - TP***
+***INFORME DE TRABAJO FINAL - TB2***
 
 **Startup: GreatMinds**
 
@@ -2620,6 +2620,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ## 5.4. Video About-the-Product.
 
+A continuacion, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente:
 
 # Conclusiones
 
@@ -2630,6 +2631,10 @@ Implementar un boton o apartado para editar perfil de usuario.*
 - Se desarrolló la Landing Page en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo desarrollaron secciones que componen la Landing, de esta manera los usuarios pueden visitar la landing page para posteriormente acceder a la aplicación web.
   
 - Se desarrolló una avance del frontend en base al Sprint presentado en esta entrega, donde todos los integrantes del equipo de desarrollaron features priorizados dentro del producto backlog, se puede hacer un desarrollo del frontend sin importar el backend al usar una fake api.
+
+- Se desarrollo una nueva version de Web Applications en base al Sprint presentado en la entrega TB2, corrigiendo y anadiendo features para una mejor experiencia de usuario y para una mejor conexion con los Web Services.
+
+- Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
 
 # Referencias
 
