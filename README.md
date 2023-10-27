@@ -1337,11 +1337,11 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 |15|HU-05|Seguimiento de Pedidos y Entregas|Como comercializador, quiero poder observar el estado de los pedidos y entregas para poder sentirme más tranquilo|8|
 |16|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
 |17|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
-|18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
-|19|TS-01|CRUD de recursos para users|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar usuarios mediante una API para visualizar los usuarios afiliados a nuestra aplicación|**5**|
+|18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|2|
+|19|TS-01|CRUD de recursos para users|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar usuarios mediante una API para visualizar los usuarios afiliados a nuestra aplicación|**3**|
 |20|TS-02|CRUD de recursos para crops|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o elimina los cultivos mediante una API<br>Para que sean mostrados en la aplicación|**3**|
-|21|TS–03|CRUD de recursos para costos|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de los costos de un usuario mediante una API<br>Para mostrarla en la aplicación|**5**|
-|22|TS-04|CRUD de recursos para ganancias|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las ganancias de un usuario mediante una API<br>Para mostrarla en la aplicación |**3**|
+|21|TS–03|CRUD de recursos para costos|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de los costos de un usuario mediante una API<br>Para mostrarla en la aplicación|**2**|
+|22|TS-04|CRUD de recursos para ganancias|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las ganancias de un usuario mediante una API<br>Para mostrarla en la aplicación |**2**|
 |23|TS-05|CRUD de recursos para orders|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las órdenes de un usuario mediante una API<br>Para mostrarla en la aplicación|**5**|
 
 
@@ -2286,8 +2286,8 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 | Sprint 2 - Retrospective Summary  | Añadir el enlace a Web Applications mediante el botón Call To Action de la Landing Page. <br> Mejorar el diseño de Web Applications. <br> Corregir la documentación |
 | **Sprint Goal & User Stories** | - |
 | Sprint 3 Goal| Desarrollar la primera versión de Web Services y mejorar Web Applications |
-| Sprint 3 - Velocity | El equipo puede aceptar XX Story Points|
-| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+| Sprint 3 - Velocity | El equipo puede aceptar 40 Story Points|
+| Sprint 3 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (38)|
 
 #### 5.2.2.2. Sprint Backlog 3.
 
@@ -2719,7 +2719,9 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ## 5.4. Video About-the-Product.
 
-A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente:
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ET1prNYK6ptLiVNQnTdyluIBZY8PHPr9ZTojnexYdz7zVA?e=PQ6OfB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/a17c1ebd-7024-4d8d-8804-2086e6be5b69)
 
 
 
