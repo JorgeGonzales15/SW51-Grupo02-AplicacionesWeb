@@ -2719,7 +2719,7 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ## 5.4. Video About-the-Product.
 
-A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ET1prNYK6ptLiVNQnTdyluIBZY8PHPr9ZTojnexYdz7zVA?e=PQ6OfB&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYJqiobxU4REkNbM8GdE_QIBLn0BkTQaW3nxYPFBLQ0bww?e=vgV1Av&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/a17c1ebd-7024-4d8d-8804-2086e6be5b69)
 
