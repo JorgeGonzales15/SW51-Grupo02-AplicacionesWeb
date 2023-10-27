@@ -77,6 +77,21 @@ Para la elaboración del informe se realizaron actividades tales como:
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7c25c209-dbe4-4744-a1d6-8435d0a47a34)
 
+TB2: Se han desarrollado las actividades correspondientes para la entrega TB2 en el siguiente repositorio de Guthub dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+
+Para la elaboración del informe se realizaron actividades tales como:
+-Corregir las observaciones brindadas, tales como: corregir el diagrama de base de datos, corregir la nomenclatura de los archivos, corregir nomenclatura de componentes del frontend, corregir tablas de user stories.
+- Planificar el alcance y objetivo del Sprint 3
+- Realizar el sprint backlog 3 para lograr el objetivo de implementar una nueva versión de frontend y una primera versión de backend
+- Realizar los puntos correspondientes al Sprint 2, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/4fb40d85-299b-44fa-af61-31a1e9a5d6c8)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/2cda138f-a293-49ec-8443-7daa0ac33634)
+
+
+
 
 ---
 # Contenido 
@@ -204,8 +219,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Jorge Gonzales - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Paolo Espejo - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Tatiana Paucar - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br>  **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Miguel Huaman - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. <br> **Jose Zarate - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches.| TB1: Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz. <br> TP: Se delegaron features por integrante de trabajo para el sprint 2 |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Jorge Gonzales - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Paolo Espejo - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Tatiana Paucar - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Miguel Huaman - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page <br> **Jose Zarate - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2 <br>| TB1: Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. <br> TP: Cada integrante analizó el segmento objetivo para realizar las features designadas con respecto al sector empresarial.  |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Jorge Gonzales - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jorge Gonzales - TB2:** Participó en el desarrollo del sprint 3 haciendo el feature de ordenees y usó correctamente con eficiencia Github branches. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Paolo Espejo - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo - TB2:** Participó en el desarrollo del sprint 3 desarrollando el feature de cultivos y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Tatiana Paucar - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br>  **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Miguel Huaman - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Miguel Huaman - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. <br> **Jose Zarate - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB2:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches.| TB1: Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz. <br> TP: Se delegaron features por integrante de trabajo para el sprint 2. <br> TB2: Se delegaron features por integrante de trabajo para el sprint 3 |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Jorge Gonzales - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jorge Gonzales - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Paolo Espejo - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Paolo Espejo - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Tatiana Paucar - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Tatiana Paucar - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Miguel Huaman - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Miguel Huaman - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page <br> **Jose Zarate - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jose Zarate - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3| TB1: Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. <br> TP: Cada integrante analizó el segmento objetivo para realizar las features designadas con respecto al sector empresarial. <br> TB2: Cada integrante analizó el segmento objetivo para realizar las features del backend y frontend designadas con respecto al sector empresarial. De esta manera, se tendrá un mejor feedback por parte del usuario y obtener un mejor producto. |
 
 
 ---
@@ -1261,6 +1276,8 @@ Segmento de agricultores:
 
 ## 3.2. User Stories.
 
+Para una mejor visualización de los user stories: (https://drive.google.com/file/d/10YEmRUdp49xLyTtMMTSJOdXtepK7DC4z/view?usp=sharing)
+
 |**Epic/Story**|**Título**|**Descripción**|**Criterios de Aceptación**|**Relacionado con (Epic ID)**|
 | :-: | :-: | :-: | :-: | :-: |
 |**EP01**|**Definición de funcionalidades de la aplicación web**|**Como usuario deseo que la aplicación posea características funcionales variadas para que me sirva de ayuda al momento de cultivar, vender y planificar.**|**-**|**-**|
@@ -1284,11 +1301,12 @@ Segmento de agricultores:
 |HU-15|Botón Call to Action|Como visitante deseo ir a la aplicación web desde un solo botón|<p>Escenario 01:</p><p>El visitante quiere dirigirse a la aplicación web</p><p>Caso 01:</p><p>Dado que el visitante desea usar la aplicación web</p><p>Cuando esté en la sección donde se encuentre el botón call to action y lo uso</p><p>Entonces será dirigido a la aplicación web</p><p>Escenario 02: El visitante desea usar la aplicación lo más rápido posible luego de ver lo que se ofrecía en la landing page</p><p>Dado que el visitante quedó satisfecho con la información brindada en la landing page</p><p>Cuando desee empezar a usar la aplicación</p><p>Entonces puede acceder a ella de forma rápida mediante el botón call to action</p>|EP03|
 |HU-16|Visualización de botones y texto amplia y notoria|Como visitante del segmento deseo ver los botones y la información de las secciones o pantalla para una mejor navegación|<p>Escenario 01:</p><p>El visitante quiere navegar por la aplicación sin forzar la vista</p><p>Caso 01:</p><p>Dado que el visitante desea ver los productos visualmente grandes</p><p>Cuando quiera analizar si el producto es de la calidad que espera</p><p>Entonces podrá visualizar el producto mejor y proseguir con la compra</p><p>Escenario 02: El visitante tiene problemas visuales debido a la edad</p><p>Caso 01: </p><p>Dado que el visitante posee problemas visuales</p><p>Cuando visite la landing page para acceder a la información</p><p>Entonces podrá navegar y visualizar los botones de manera fluida gracias al diseño.</p><p></p>|EP04|
 |HU-17|Sistemas de búsqueda y paginación|Como usuario del segmento de agricultores deseo encontrar los productos de manera rápida para no perder tiempo|<p>Escenario 01:</p><p>El usuario quiere encontrar un producto que compró hace unas semanas</p><p>Caso 01:</p><p>Dado que el usuario desea ver una compra que hizo hace semanas</p><p>Cuando quiera buscarlo en la sección de “Mis compras”</p><p>Entonces podrá buscarlo directamente en una barra de búsqueda</p><p>Escenario 02: </p><p>El usuario no encuentra el producto que compró hace semanas</p><p>Caso 01:</p><p>Dado que el usuario no puede encontrar el producto que pidió hace unas semanas</p><p>Cuando use la paginación mediante botones de la aplicación</p><p>Entonces encuentra el producto que estaba buscando pero en la última página de los productos</p><p></p>|EP04|
-|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |<p>Escenario 01: Autenticación exitosa</p><p>Dado que el usuario proporciona credenciales válidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña</p><p>` `Entonces el API devuelve un código de estado 200 y un token de acceso</p><p>Escenario 02: Autenticación fallida</p><p>Dado que el usuario proporciona credenciales inválidas</p><p>Cuando realiza una solicitud POST a /auth con nombre de usuario y contraseña incorrectos</p><p>Entonces el API devuelve un código de estado 401 Unauthorized</p>|EP01|
-|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|<p>Escenario: Obtención exitosa de un recurso</p><p>Dado que el usuario proporciona un identificador válido</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 200 OK y los detalles del recurso</p><p>Escenario: Obtención de un recurso inexistente</p><p>Dado que el usuario proporciona un identificador no existente</p><p>Cuando realiza una solicitud GET</p><p>Entonces el API devuelve un código de estado 404 Not Found</p>|EP02|
-|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|<p>Escenario: Creación exitosa de un recurso</p><p>Dado que el usuario proporciona datos válidos</p><p>Cuando realiza una solicitud POST</p><p>` `Entonces el API devuelve un código de estado 201 Created y el recurso creado</p><p>Escenario: Fallo en la creación de un recurso</p><p>Dado que el usuario proporciona datos inválidos o incompletos</p><p>Cuando realiza una solicitud POST con los datos incorrectos</p><p>Entonces el API devuelve un código de estado 400 Bad Request y un mensaje de error descriptivo</p>|EP02|
-|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes |<p>Escenario: Redireccionamiento a pantalla "Home" </p><p>Dado que el usuario se encuentra fuera de la aplicación web</p><p>Cuando inicie sesión de manera correcta</p><p>Entonces se le redirecciona a la pantalla de "Home"</p><p>Escenario: Fallo en la redirección a "Home"</p><p>Dado que el usuario se encuentra fuera de la aplicación</p><p>Cuando inicie sesión con credenciales inválidas</p><p>Entonces no le permitirá el redireccionamiento a "Home"</p>|EP01|
-
+|HU-18|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes |<p>Escenario: Redireccionamiento a pantalla "Home" </p><p>Dado que el usuario se encuentra fuera de la aplicación web</p><p>Cuando inicie sesión de manera correcta</p><p>Entonces se le redirecciona a la pantalla de "Home"</p><p>Escenario: Fallo en la redirección a "Home"</p><p>Dado que el usuario se encuentra fuera de la aplicación</p><p>Cuando inicie sesión con credenciales inválidas</p><p>Entonces no le permitirá el redireccionamiento a "Home"</p>|EP01|
+|TS-01|CRUD de recursos para users|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar usuarios mediante una API para visualizar los usuarios afiliados a nuestra aplicación|<p>Escenario 1:<br>Dado que tengo acceso a la API de registro de usuarios.<br>Cuando envíe una solicitud para el registro de un nuevo usuario.<br>Entonces el usuario se registra satisfactoriamente.</p><p>Escenario 2:<br>Dado que tengo acceso a la API de registro de usuarios.<br>Cuando envíe una solicitud con datos inválidos.<br>Entonces la solicitud es rechazada.</p>|EP01|
+|TS–02|CRUD de recursos para crops|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o elimina los cultivos mediante una API<br>Para que sean mostrados en la aplicación |Escenario 1:<br>Dado que tengo acceso a la API de registro de cultivos<br>Cuando envíe una solicitud con datos válidos para el registro de un cultivo<br>Entonces el cultivo se registra exitosamente<br><br>Escenario 2:<br>Dado que tengo acceso a la API de registro de cultivos<br>Cuando envío una solicitud con datos inválidos<br>Entonces la solicitud es rechazada con un mensaje de error.|EP01|
+|TS-03|CRUD de recursos para costos|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de los costos de un usuario mediante una API<br>Para mostrarla en la aplicación |Escenario 1:<br>Dado que tengo acceso a la API de obtención de información de costos por usuarios<br>Cuando solicite la información de los costos que realizó un usuario.<br>Entonces recibo la información de los usuarios.<br><br>Escenario 2:<br>Dado que tengo acceso a la API de obtención de información de costos por usuarios<br>Cuando solicite información no existente de los costos que realizó un usuario.<br>Entonces recibo un mensaje indicando que no hay registros de usuarios realizando registros de costos.|EP01|
+|TS-04|CRUD de recursos para ganancias|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las ganancias de un usuario mediante una API<br>Para mostrarla en la aplicación |Escenario 1:<br>Dado que tengo acceso a la API de obtención de información de ganancias por usuarios<br>Cuando solicite la información de las ganancias que realizó un usuario.<br>Entonces recibo la información de los usuarios.<br><br>Escenario 2:<br>Dado que tengo acceso a la API de obtención de información de ganancias por usuarios<br>Cuando solicite información no existente de las ganancias que realizó un usuario.<br>Entonces recibo un mensaje indicando que no hay registros de usuarios realizando registros de ganancias.|EP01|
+|TS-05|CRUD de recursos para orders|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las órdenes de un usuario mediante una API<br>Para mostrarla en la aplicación |<p>Scenario 01: Usuario obtiene sus órdenes</p><p>Dado que el usuario está autenticado en la aplicación Ayni.<br>Cuando el usuario envía una solicitud GET para obtener sus órdenes.<br>Entonces la aplicación deberá devolver un listado de órdenes asociadas al usuario</p><p>Scenario 02: Usuario actualiza una orden existente</p><p>Dadi que el usuario está autenticado en la aplicación Ayni<br>Y el usuario tiene al menos una orden registrada<br>Cuando el usuario envía una solicitud PUT para actualizar una orden existente.<br>Entonces la aplicación deberá procesar la solicitud y actualizar la información de la orden especificada</p>|EP01|
 
 ## 3.3. Impact Mapping.
 Se utilizó el Impact Mapping para definir y visualizar los objetivos y resultados deseados en el proyecto para cada uno de los segmentos.
@@ -1310,7 +1328,7 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 |06|HU-04|Realizar pedidos de productos|Como comercializador, quiero poder realizar los pedidos de productos agrícolas para poder realizar las entregas|8|
 |07|HU-03|Explorar productos agrícolas|Como comercializador quiero observar los productos disponibles para poder realizar los pedidos|3|
 |08|HU-09|Registro de gastos y ganancias|Como agricultor, quiero registrar los gastos y las ganancias relacionadas con las actividades agrícolas para poder llevar un control financiero|3|
-|09|HU-21|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
+|09|HU-18|Sección principal ("Home")|Como usuario del segmento productor o del segmento comerciante, deseo que luego de iniciar sesión me redirija a una sección "Home" para ver en es pantalla mis actividades recientes|2|
 |10|HU-01|Selección de roles|Como usuario, quiero elegir un rol en la aplicación para acceder a las funcionalidades disponibles según el rol que escoja (Productor o Comerciante).|2|
 |11|HU-02|Inicio de sesión|Como usuario, quiero iniciar sesión para poder ingresar a mi cuenta|3|
 |12|HU-07|Observar registro de pedidos y entregas realizadas|Como comercializador, quiero observar los pedidos y entregas realizadas, para poder tomar decisiones de acuerdo al análisis de los registros|2|
@@ -1320,9 +1338,11 @@ Segmento objetivo: Comerciantes que desean mejorar la calidad de sus ventas
 |16|HU-06|Acceder a Calificaciones y Reseñas|Como comercializador, quiero acceder a las calificaciones y reseñas dejadas por los agricultores para saber sobre la valoración de mis servicios|2|
 |17|HU-11|Control de Plagas|Como agricultor, quiero tener herramientas para identificar y controlar las plagas para que no puedan afectar mis cultivos|3|
 |18|HU-17|Sistemas de búsqueda y paginación|Como usuario deseo encontrar los productos de manera rápida para no perder tiempo|5|
-|19|HU-18|Autenticación de usuarios|Como developer quiero implementar un sistema de autenticación de usuarios para garantizar que solo los usuarios autorizados puedan acceder a los recursos del API |5|
-|20|HU-19|Obtención de recursos|Como developer quiero permitir a los usuarios obtener información sobre recursos existentes a través del API|2|
-|21|HU-20|Creación de recursos|Como developer quiero permitir a los usuarios crear nuevos recursos a través del API|2|
+|19|TS-01|CRUD de recursos para users|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar usuarios mediante una API para visualizar los usuarios afiliados a nuestra aplicación|**5**|
+|20|TS-02|CRUD de recursos para crops|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o elimina los cultivos mediante una API<br>Para que sean mostrados en la aplicación|**3**|
+|21|TS–03|CRUD de recursos para costos|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de los costos de un usuario mediante una API<br>Para mostrarla en la aplicación|**5**|
+|22|TS-04|CRUD de recursos para ganancias|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las ganancias de un usuario mediante una API<br>Para mostrarla en la aplicación |**3**|
+|23|TS-05|CRUD de recursos para orders|Como desarrollador que trabaja en la aplicación Ayni, quiero registrar, obtener, actualizar y/o eliminar la información de las órdenes de un usuario mediante una API<br>Para mostrarla en la aplicación|**5**|
 
 
 
@@ -1923,7 +1943,7 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![Ayni-2023-09-20_20-58](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1b9bc309-9286-4b29-9ef8-cbbc110e1223)
+![bdf77a01-3757-4125-b25e-b1cbae5f3b65](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/631ad215-92c5-496b-b13a-471b9cb4ebe9)
 
 Link para visualizar el diagrama de base de datos: (https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
 
@@ -2271,7 +2291,25 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 
 #### 5.2.2.2. Sprint Backlog 3.
 
-
+<table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales historias de usuario referidas al backend</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="3" valign="top">HU-06</td><td rowspan="3" valign="top">Acceder a Calificaciones y Reseñas</td><td valign="top">06\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">06\.2</td><td rowspan="2" valign="top">Implementar calificaciones </td><td rowspan="2" valign="top">Realizar los componentes relacionados a las calificaciones</td><td rowspan="2" valign="top">4</td><td rowspan="2" valign="top">Jose Zarate</td><td rowspan="2" valign="top">Done</td></tr>
+<tr></tr>
+<tr><td rowspan="3" valign="top">HU-05</td><td rowspan="3" valign="top">Seguimiento de Pedidos y Entregas</td><td valign="top">05\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.2</td><td valign="top">Implementar stepper</td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.3</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">HU-09</td><td rowspan="2" valign="top">Atender pedidos</td><td valign="top">09\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-12</td><td valign="top">Botón Call To Action</td><td valign="top">12\.1</td><td valign="top">Implementar vinculación al botón call to action </td><td valign="top">Realizar la vinculación en HTTP del botón call to action dentro de la landing page </td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-14</td><td valign="top">Sistemas de búsqueda y paginación</td><td valign="top">14\.1</td><td valign="top">Implementar paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">Implementar componentes de paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-01</td><td valign="top">CRUD de recursos para users</td><td valign="top">T01.1</td><td valign="top">Implementar el CRUD de recursos para usuarios en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para usuarios en el backend C#</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-02</td><td valign="top">CRUD de recursos para crops</td><td valign="top">T02.1</td><td valign="top">Implementar el CRUD de recursos para cultivos en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para cultivos en el backend C#</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS–03</td><td valign="top">CRUD de recursos para costos</td><td valign="top">T03.1</td><td valign="top">Implementar el CRUD de recursos para costos en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para costos en el backend C#</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-04</td><td valign="top">CRUD de recursos para ganancias</td><td valign="top">T04.1</td><td valign="top">Implementar el CRUD de recursos para ganancias en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para ganancias en el backend C#</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-05</td><td valign="top">CRUD de recursos para orders</td><td valign="top">T05.1</td><td valign="top">Implementar el CRUD de recursos para órdenes en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para órdenes en el backend C#</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+</table>
 
 #### 5.2.3.3. Development Evidence for Sprint Review.
 
@@ -2297,14 +2335,17 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
-Link del video: () 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/cc66e475-1386-4a49-b4ab-8ef5da867b40)
+
+
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYr8L08gsBlLl_iqFEMGo5ABrt1hkOY1fsbY2PIWZR_N6g?e=mpLRri&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
 
 #### 5.2.3.6. Services Documentation Evidence for Sprint Review.
 
-| Endpoint | Detalles |
-| - | - | 
-| | | 
+A continuación, tenemos la documentación en Swagger del avance del backend designado en este Sprint 3.
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c645053b-c5ad-4c1d-aaaa-2b63995843b4)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5b9bcbfb-a628-44b8-9155-0130d201b8b2)
 
 
 #### 5.2.3.7. Software Deployment Evidence for Sprint Review.
@@ -2339,7 +2380,19 @@ Link de web application: (https://ayni-frontend-web.netlify.app/signin)
 
 Para la primera versión de los web services o backend del proyecto, se realizó el siguiente despliegue:
 
+Primero se hizo el host para la base de datos en SmarterASP.NET:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ecbcdb86-a7c6-4343-aaf4-d482e25a9062)
+
+Luego, se creó una cuenta en AWS para hostear el backend:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/beee52e0-b94c-4403-b3cf-54ffef1898dd)
+
+Finalmente, se desplegó el backend en Azure: 
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/55bf82eb-4894-49cb-9fd8-d4a294da708b)
+
+El link es el siguiente: (https://ayniapi.azurewebsites.net/swagger/index.html)
 
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
 
@@ -2433,33 +2486,18 @@ Edad: 19
 
 Distrito: San Juan de Miraflores - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 0:00
 
-Fin: 
+Fin: 11:35
 
-Duración: 11:49
+Duración: 11:35
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/295c69b8-1106-41c4-a96f-be286ae137e9)
 
 Lissane nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos resaltó el diseño atractivo y eficiente de las secciones asimismo con el orden de estas, sin embargo considera que debe tener más relevancia las funcionalidades mostradas incluyendo capturas de pantalla de la aplicación web. Pese a ello, la landing page resultó agradable visualmente para ella, calificándola con un 8 de 10. Por otro lado, con respecto a la aplicación web, no consideró dificil la navegación del flujo de añadir un cultivo, asimismo, está conforme con la distribución de las secciones de la barra de navegación. Sin embargo, cree que se debería mejorar el formulario de añadir un cultivo, donde deberían poner mas datos para el registro. Finalmente, le parecio bueno el diseño de la apliación web, pero sería aún mucho mejor si se mejoraran las observaciones que nos compartió.
 
-Nombre y apellidos: Cristel Flores
-
-Edad: 29
-
-Distrito: Chincha - Ica
-
-Url: ()
-
-Inicio:
-
-Fin:
-
-Duración: 9 : 56
-
-En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
 
 Nombre y apellidos: Jesus Orellana
 
@@ -2467,15 +2505,37 @@ Edad: 31
 
 Distrito: Chincha - Ica
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio:
+Inicio: 11:35
 
-Fin:
+Fin: 23:45
 
-Duración: 12 : 14
+Duración: 12 : 10
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/3ca09db5-51b1-44dd-b6ce-8672f71fba7a)
+
 
 Jesús elogia la página web que se le presenta y la considera interesante y beneficiosa para los pequeños productores. Asimismo, él menciona que la aplicación web Ayni es fácil de usar y práctica, especialmente la función para agregar cultivos. Sin embargo, sugiere agregar información adicional, como la especie vegetal y variedad de plantas, y sugiere incorporar imágenes deslizantes para mejorar el diseño. Jesús no utiliza ninguna otra aplicación para administrar sus plantas y no ve ninguna característica específica que deba mejorarse en la aplicación web aparte de lo mencionado anteriormente. En general, está satisfecho con la distribución de las secciones en la aplicación.
+
+Nombre y apellidos: Cristel Flores
+
+Edad: 29
+
+Distrito: Chincha - Ica
+
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Inicio: 23:45
+
+Fin: 33:41
+
+Duración: 9 : 56
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/67730d56-d7d6-4a75-8fb5-ffa12519b479)
+
+
+En la entrevista, Cristel Flores menciona que el diseño de la página podría mejorar en términos de tonalidades y tamaño de letra, y se señaló la falta de información detallada sobre los planes de pago. Ella también calificó el diseño de la landing page con un 5 sobre 10 y mencionó que se encontró un problema en la sección de inicio de sesión que solo permitía crear una cuenta nueva en lugar de iniciar sesión. Para la aplicación web, Cristel sugirió simplificar la adición de cultivos y personalizar los campos según el tipo de cultivo. Además, propuso incluir información sobre la fecha de siembra y el potencial de cosecha. Asimismo, sugirió mejorar las notificaciones y la interfaz de usuario. Finalmente, mencionó que no utiliza ninguna aplicación de gestión de agricultura.
 
 ** Segmento Objetivo: Comerciantes que quieren mejorar la calidad de sus ventas **
 
@@ -2485,11 +2545,11 @@ Edad: 25
 
 Distrito: Lince - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 33:41
 
-Fin: 
+Fin: 45:51
 
 Duración: 12:22
 
@@ -2503,11 +2563,11 @@ Edad: 21
 
 Distrito: Lince - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 44:51
 
-Fin: 
+Fin: 55:27
 
 Duración: 09:28
 
@@ -2521,11 +2581,11 @@ Edad: 45
 
 Distrito: Surco - Lima
 
-Url: ()
+Url: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EWYZBx_EKH1JgT46R49P2T0BieTBTcrKrHbLA2T4ULOXmw?e=4GwfpP&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
-Inicio: 
+Inicio: 55:27
 
-Fin: 
+Fin: 01:03:02
 
 Duración: 11:49
 
@@ -2533,8 +2593,6 @@ Duración: 11:49
 
 
 Juli nos brindó su sincera opinión acerca de la landing page y aplicación web, con respecto a la landing page, nos felicitó por la distribución y promoción del producto dentro de las secciones, tambien considera que ofrece lo necario en cuando información de funcionalidades pero recomendaría reducir un poco del texto y poner las funcionalidades de manera más específica. Sin embargo, le resultó agradable la navegación por las secciones puntuando con un 8 de 10 la landing page. Por otro lado, con respecto a la aplicación web, le resultó nada complicado encontrar y seleccionar un cultivo para comprar, además la distribución de las secciones es buena dado que resume las funcionalidades que ofrecen. Tambien, consdera que no debe añadirse caracteristicas dado que siente que está completa para sus necesidades como comerciante. Sin embargo, cree que la sección de estado de compra debería mostrar más información. Finalmente, resume la aplicación web como muy buena, intuitiva y efectiva, con un diseño adecuado.
-
-
 
 
 ### 5.3.3. Evaluaciones según herísticas.
@@ -2584,15 +2642,25 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 Los errores serán puntuados tomando en cuenta la siguiente escala de severidad:
 
+|**Nivel:**|**Descripción**|
+| :- | :- |
+|**1**|<p>Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco </p><p>frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo.</p>|
+|**2**|<p>Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de </p><p>superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente </p><p>reléase</p>|
+|**3**|<p>Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es </p><p>importante que sean corregidos y se les debe asignar una prioridad alta.</p>|
+|**4**|<p>Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de </p><p>la herramienta. Es imperativo que sea corregido antes del lanzamiento</p>|
+
 
 - **TABLA RESUMEN:**
 
-
+|*#*|*Problema*|*Escala de severidad*|*Heurística/Principio violada(o)*|
+| :-: | :-: | :-: | :-: |
+|*1*|*El formato de diseño elegido para los botones es inconsistente en Landin Page*|*1*|*Usabilidad - Consistencia y estándares*|
+|*2*|*Al estar en una de las secciones, resulta imposible de diferenciar entre estos debido a que la barra de navegación no indica en qué sección se encuentra el usuario*|*1*|*Usabilidad - Reconocer antes que recordar*|
+|*3*|*No existe un apartado de edición de perfil*|*2*|*Usabilidad - Control de usuario y libertads*|
 
 
 
 - **DESCRIPCIÓN DE PROBLEMAS:**
-
 
 
 1. **Desktop Landing Page**
@@ -2627,6 +2695,8 @@ Utilizar el mismo estilo de botones para mostrar más información en todas las 
 
 Barra de navegación:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5dc6c406-b0da-436c-bca2-476583714b17)
+
 
 *Dentro de las secciones que se ofrecen para ambos roles, no existe ningún indicador resaltante que permita indicar al usuario en qué sección se encuentra, potencialmente provocando que se desubique.*
 
@@ -2641,8 +2711,6 @@ Resaltar con un cuadro de color resaltante la sección que se seleccione dentro 
 
 ***Problema:***
 
-
-
 *Dentro de la barra de navegación no hay un apartado de edición de perfil, esto ocasiona que el usuario no brinde y proporcione datos quepeuden llegar a ser relevantes, como teléfono de contacto entre otros campos.*
 
 ***Recomendación:**
@@ -2651,7 +2719,9 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ## 5.4. Video About-the-Product.
 
-A continuacion, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente:
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente:
+
+
 
 # Conclusiones
 
