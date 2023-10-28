@@ -2320,6 +2320,11 @@ Las actividades para el presente Sprint se repartieron en base a la priorizació
 | AyniFrontendWeb | feature/rates-and-shopping | 7cdee75 | feat: added my shopping and rate pages | - | 15/10/2023  |
 | AyniFrontendWeb | develop | 97210e0 | feat: change baseUrl to JSONPlaceholder link | - | 16/10/2023  |
 | AyniFrontendWeb | develop | 7ba4a4f | feat: added my plants section | - | 17/10/2023  |
+| AyniWebBackend | feature/costs | f463e57 | feat: added cost services and controller | - | 28/10/2023  |
+| AyniWebBackend | feature/crops | ade88af | feat: added Crop controller and service | - | 28/10/2023  |
+| AyniWebBackend | feature/orders | 4482a20 | feat: added Products and Orders controller and services | - | 28/10/2023  |
+| AyniWebBackend | feature/Profits | e1b12cd | feat: added profit controller and services | - | 28/10/2023  |
+| AyniWebBackend | feature/Users | 7948acd | feat: added User Controller, User Service, User Response, and impleme… | - | 28/10/2023  |
 
 #### 5.2.3.4. Testing Suite Evidence for Sprint Review.
 
