@@ -2010,6 +2010,8 @@ Repositorio pruebas de aceptación: (https://github.com/upc-2023-GreatMinds-SW51
 
 Repositorio Frontend: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniFrontendWeb)
 
+Repositorio Backend: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniWebBackend)
+
 ### 5.1.3. Source Code Style Guide & Conventions.
 
 A continuación, se darán a conocer las convenciones, formatos, estilos y entre otras propiedades de los lenguajes trabajados en la presente solución las cuales son: HTML, JavaScript/TypeScript, CSS:
@@ -2399,7 +2401,18 @@ Finalmente, se desplegó el backend en Azure:
 
 El link es el siguiente: (https://ayniapi.azurewebsites.net/swagger/index.html)
 
+De igual manera, se desplegó en SmarterASP.NET, el link es el siguiente:
+
+Link: (http://jorgegc-001-site1.btempurl.com/swagger/index.html)
+
 #### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web y web services, para ello, se realizaron primero branches por features abordados dentro del sprint 3 para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend y backend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+Repositorio backend:
+![Captura de pantalla 2023-10-30 193501](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/0b1ab6df-c94f-4895-ab3f-b98d1ad0b194)
+
+
 
 
 ## 5.3. Validation Interviews.
@@ -2728,6 +2741,11 @@ A continuación, se muestra el Video About the Product donde se expone todo lo a
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/a17c1ebd-7024-4d8d-8804-2086e6be5b69)
 
+## 5.5. Video About-the-Team.
+
+A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=oSKAUf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7cbdca92-34b6-4d60-98e4-40dcedb5f8ff)
 
 
 # Conclusiones
@@ -2760,6 +2778,8 @@ Congreso de la Reública (2020). Boletín Social N°30. Gobierno estima pérdida
 
 # Anexos
 
-Video Exposición TB1: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZvoCth7yFlDnQadMBlDhUEBIcNdSk0_PHLXOR7RNEfbPg?e=ASHZv1)
+Video Exposición TB1: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EZvoCth7yFlDnQadMBlDhUEBIcNdSk0_PHLXOR7RNEfbPg?e=ASHZv1)
 
-Video Exposición TP: [Microsoft Streams](https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXKAGq9BcBtDiATDiP-UENEBDlDpAMtB0vJOJ3woJwUHiQ?e=2o36oi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXKAGq9BcBtDiATDiP-UENEBDlDpAMtB0vJOJ3woJwUHiQ?e=2o36oi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=XdW5dX)
