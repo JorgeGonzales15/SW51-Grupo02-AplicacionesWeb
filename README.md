@@ -13,7 +13,7 @@ Sección SW51
 
 Profesor: Tinoco Licas, Juan Carlos
 
-***INFORME DE TRABAJO FINAL - TB2***
+***INFORME DE TRABAJO FINAL - TF***
 
 **Startup: GreatMinds**
 
@@ -26,7 +26,7 @@ Profesor: Tinoco Licas, Juan Carlos
 - Paucar De La Cruz, Tatiana Medalith
 - Zarate Castro, Jose Daniel
 
-Agosto del 2023
+Noviembre del 2023
 
 ---
 # Registro de Versiones del Informe
@@ -2413,6 +2413,160 @@ Repositorio backend:
 ![Captura de pantalla 2023-10-30 193501](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/0b1ab6df-c94f-4895-ab3f-b98d1ad0b194)
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+### 5.2.4. Sprint 4
+#### 5.2.4.1. Sprint Planning 4.
+
+| Sprint # | 4 | 
+| - | - | 
+| **Sprint Planning Background** | - |
+| Date | 2023 - 11 - 11 |
+| Time | 19:00 PM |
+| Location | Virtual via Google Meet |
+| Prepared By | Gonzales Carrión, Jorge Enrique |
+| Attendees (to planning meeting) | Gonzales Carrión, Jorge Enrique / Espejo Macuri, Paolo Andre / Paucar De La Cruz, Tatiana Medalith / Huaman Cataño, Miguel Ángel / Zarate Castro, Jose Daniel |
+| Sprint 3 - Review Summary | Se realizó un avance de Web Applications |
+| Sprint 3 - Retrospective Summary  | Añadir el enlace a Web Applications mediante el botón Call To Action de la Landing Page. <br> Mejorar el diseño de Web Applications. <br> Corregir la documentación |
+| **Sprint Goal & User Stories** | - |
+| Sprint 4 Goal| Desarrollar la primera versión de Web Services y mejorar Web Applications |
+| Sprint 4 - Velocity | El equipo puede aceptar 40 Story Points|
+| Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (38)|
+
+#### 5.2.2.2. Sprint Backlog 3.
+
+<table><tr><th valign="top">Sprint 3</th><th colspan="7" valign="top">Implementar nueva versión de frontend y las principales historias de usuario referidas al backend</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="3" valign="top">HU-06</td><td rowspan="3" valign="top">Acceder a Calificaciones y Reseñas</td><td valign="top">06\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">06\.2</td><td rowspan="2" valign="top">Implementar calificaciones </td><td rowspan="2" valign="top">Realizar los componentes relacionados a las calificaciones</td><td rowspan="2" valign="top">4</td><td rowspan="2" valign="top">Jose Zarate</td><td rowspan="2" valign="top">Done</td></tr>
+<tr></tr>
+<tr><td rowspan="3" valign="top">HU-05</td><td rowspan="3" valign="top">Seguimiento de Pedidos y Entregas</td><td valign="top">05\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.2</td><td valign="top">Implementar stepper</td><td valign="top">El stepper consta de 3 pasos y cada uno es de un componente</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">05\.3</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">HU-09</td><td rowspan="2" valign="top">Atender pedidos</td><td valign="top">09\.1</td><td valign="top">Implementar vistas con estilos</td><td valign="top">Realizar los estilos para los componentes creados</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.2</td><td valign="top">Implementar cards</td><td valign="top">Implementar componentes tipo cards para la visualización de información</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-12</td><td valign="top">Botón Call To Action</td><td valign="top">12\.1</td><td valign="top">Implementar vinculación al botón call to action </td><td valign="top">Realizar la vinculación en HTTP del botón call to action dentro de la landing page </td><td valign="top">2</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">HU-14</td><td valign="top">Sistemas de búsqueda y paginación</td><td valign="top">14\.1</td><td valign="top">Implementar paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">Implementar componentes de paginación y barras de búsquedas en las secciones de la app web</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-01</td><td valign="top">CRUD de recursos para users</td><td valign="top">T01.1</td><td valign="top">Implementar el CRUD de recursos para usuarios en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para usuarios en el backend C#</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-02</td><td valign="top">CRUD de recursos para crops</td><td valign="top">T02.1</td><td valign="top">Implementar el CRUD de recursos para cultivos en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para cultivos en el backend C#</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS–03</td><td valign="top">CRUD de recursos para costos</td><td valign="top">T03.1</td><td valign="top">Implementar el CRUD de recursos para costos en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para costos en el backend C#</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-04</td><td valign="top">CRUD de recursos para ganancias</td><td valign="top">T04.1</td><td valign="top">Implementar el CRUD de recursos para ganancias en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para ganancias en el backend C#</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-05</td><td valign="top">CRUD de recursos para orders</td><td valign="top">T05.1</td><td valign="top">Implementar el CRUD de recursos para órdenes en el backend C#</td><td valign="top">Implementar el registro, obtención, actualización y/o eliminación de recursos para órdenes en el backend C#</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+</table>
+
+#### 5.2.3.3. Development Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniFrontendWeb | feature/orders | e8c6de8 | feat: added orders section | - | 11/10/2023  |
+| AyniFrontendWeb | feature/orders | 613ca77 | feat: added orders section paginator and my plants section | - | 15/10/2023  |
+| AyniFrontendWeb | feature/rates-and-shopping | 7cdee75 | feat: added my shopping and rate pages | - | 15/10/2023  |
+| AyniFrontendWeb | develop | 97210e0 | feat: change baseUrl to JSONPlaceholder link | - | 16/10/2023  |
+| AyniFrontendWeb | develop | 7ba4a4f | feat: added my plants section | - | 17/10/2023  |
+| AyniWebBackend | feature/costs | f463e57 | feat: added cost services and controller | - | 28/10/2023  |
+| AyniWebBackend | feature/crops | ade88af | feat: added Crop controller and service | - | 28/10/2023  |
+| AyniWebBackend | feature/orders | 4482a20 | feat: added Products and Orders controller and services | - | 28/10/2023  |
+| AyniWebBackend | feature/Profits | e1b12cd | feat: added profit controller and services | - | 28/10/2023  |
+| AyniWebBackend | feature/Users | 7948acd | feat: added User Controller, User Service, User Response, and impleme… | - | 28/10/2023  |
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review.
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| acceptance-test-web | main | a4cf392 | Acceptance_test_12.feature | - | 18/10/2023 |
+| acceptance-test-web | main | ab7d2e3 | Acceptance_test_13.feature | - | 18/10/2023 |
+| acceptance-test-web | main | 4f66065 | Acceptance_test_14.feature | - | 18/10/2023 |
+| acceptance-test-web | main | 088e8ef | Acceptance_test_15.feature | - | 18/10/2023 |
+| acceptance-test-web | main | 31ba20f | Acceptance_test_16.feature | - | 18/10/2023 |
+
+#### 5.2.3.5. Execution Evidence for Sprint Review.
+
+El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/cc66e475-1386-4a49-b4ab-8ef5da867b40)
+
+
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYr8L08gsBlLl_iqFEMGo5ABrt1hkOY1fsbY2PIWZR_N6g?e=mpLRri&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review.
+
+A continuación, tenemos la documentación en Swagger del avance del backend designado en este Sprint 3.
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c645053b-c5ad-4c1d-aaaa-2b63995843b4)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5b9bcbfb-a628-44b8-9155-0130d201b8b2)
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review.
+
+Para la nueva versión de los web application del Sprint 3 se realizó el siguiente despliegue:
+
+Ejecutamos el comando “ng build” en la ruta de nuestro projecto en angular, nos muestra lo siguiente:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/59453bc9-dac5-4ec4-9a75-7e5d6a3bced2)
+
+Se genera la carpeta dist:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/de612d0d-f8dc-4880-a0bf-fde275b96aa8)
+
+Se añade el archivo “netlify.toml” para que netlify pueda entender las rutas de nuestro programa en angular con la siguiente configuración:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/85f73994-0a0a-44f3-ad92-46e12988be51)
+
+Por último, vamos a netlify a la sección que nos permite desplegar nuestra aplicación manualmente para evitar errores:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/0a454407-893f-4f98-87e0-0148f38ccf95)
+
+Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nuestro proyecto:
+
+![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
+
+De esta manera se desplegó la nueva versión de los web application. A continuación los links:
+
+Link de landing page: (https://ayni-landing-page.netlify.app/)
+
+Link de web application: (https://ayni-frontend-web.netlify.app/signin)
+
+Para la primera versión de los web services o backend del proyecto, se realizó el siguiente despliegue:
+
+Primero se hizo el host para la base de datos en SmarterASP.NET:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ecbcdb86-a7c6-4343-aaf4-d482e25a9062)
+
+Luego, se creó una cuenta en AWS para hostear el backend:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/beee52e0-b94c-4403-b3cf-54ffef1898dd)
+
+Finalmente, se desplegó el backend en Azure: 
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/55bf82eb-4894-49cb-9fd8-d4a294da708b)
+
+El link es el siguiente: (https://ayniapi.azurewebsites.net/swagger/index.html)
+
+De igual manera, se desplegó en SmarterASP.NET, el link es el siguiente:
+
+Link: (http://jorgegc-001-site1.btempurl.com/swagger/index.html)
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint.
+
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web y web services, para ello, se realizaron primero branches por features abordados dentro del sprint 3 para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend y backend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+Repositorio backend:
+![Captura de pantalla 2023-10-30 193501](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/0b1ab6df-c94f-4895-ab3f-b98d1ad0b194)
 
 
 ## 5.3. Validation Interviews.
