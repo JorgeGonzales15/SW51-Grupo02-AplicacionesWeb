@@ -2438,11 +2438,9 @@ Repositorio backend:
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| AyniFrontendWeb | feature/orders | e8c6de8 | feat: added orders section | - | 11/10/2023  |
-| AyniFrontendWeb | feature/orders | 613ca77 | feat: added orders section paginator and my plants section | - | 15/10/2023  |
-| AyniFrontendWeb | feature/rates-and-shopping | 7cdee75 | feat: added my shopping and rate pages | - | 15/10/2023  |
-| AyniFrontendWeb | develop | 97210e0 | feat: change baseUrl to JSONPlaceholder link | - | 16/10/2023  |
-| AyniFrontendWeb | develop | 7ba4a4f | feat: added my plants section | - | 17/10/2023  |
+| AyniFrontendWeb | develop | 53fe3af | feat: Added select transaction page and update index, navigation and select-rol components | - | 12/11/2023  |
+| AyniFrontendWeb | develop | ec2fb53 | feat: Added cost and add-cost pages | - | 12/11/2023  |
+| AyniFrontendWeb | feature/rates-and-shopping | af85f87 | feat: Added profits and add-profit pages | - | 12/11/2023  |
 | AyniWebBackend | develop |  | feat: add security BCrypt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: add security Jwt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: update security token with SHA 512-bit key | - | 11/11/2023  |
