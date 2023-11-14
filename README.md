@@ -2443,6 +2443,19 @@ Repositorio backend:
 
 #### 5.2.4.2. Sprint Backlog 4.
 
+<table><tr><th valign="top">Sprint 4</th><th colspan="7" valign="top">Implementar versión final de web applications y versión final de web services</th></tr>
+<tr><td colspan="2" valign="top">User Story</td><td colspan="6" valign="top">Work-Item / Task</td></tr>
+<tr><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Id</td><td valign="top">Title</td><td valign="top">Description</td><td valign="top">Estimation (Hours)</td><td valign="top">Assigned To</td><td valign="top"><p>Status </p><p>(To-do / </p><p>InProcess / </p><p>To Review / </p><p>Done)</p></td></tr>
+<tr><td rowspan="2" valign="top">HU-09</td><td rowspan="2" valign="top">Registro de costos y ganancias</td><td valign="top">09\.3</td><td valign="top">Implementar componentes para la vista de costos</td><td valign="top">Realizar componentes en Vue para la vista de costos y usar un service para obtener los datos del backend</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td valign="top">09\.4</td><td valign="top">Implementar componentes para la vista de ganancias</td><td valign="top">Realizar componentes en Vue para la vista de ganancias y usar un service para obtener los datos del backend</td><td valign="top">4</td><td valign="top">Jose Zarate</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top"><p>TS-06</p><p></p><p></p></td><td rowspan="2" valign="top"><p></p><p>Obtención de costos por id de usuario</p><p></p></td><td rowspan="2" valign="top">T06.1</td><td rowspan="2" valign="top">Implementar el endpoint en el backend  </td><td rowspan="2" valign="top">Implementar el endpoint para obtener los costos por id un usuario en especifico</td><td rowspan="2" valign="top">4</td><td rowspan="2" valign="top">Jose Zarate</td><td rowspan="2" valign="top">Done</td></tr>
+<tr></tr>
+<tr><td valign="top">TS–07</td><td valign="top">Obtención de cultivos por id de usuario</td><td valign="top">T07.1</td><td valign="top">Implementar el endpoint en el backend </td><td valign="top">Implementar el endpoint para obtener los cultivos por id un usuario en específico</td><td valign="top">4</td><td valign="top">Tatiana Paucar</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-08</td><td valign="top">Obtención de ordenes por id de usuario</td><td valign="top">T08.1</td><td valign="top">Implementar el endpoint en el backend </td><td valign="top">Implementar el endpoint para obtener las órdenes por id un usuario en específico</td><td valign="top">4</td><td valign="top">Paolo Espejo</td><td valign="top">Done</td></tr>
+<tr><td valign="top">TS-09</td><td valign="top">Obtención de ganancias por id de usuario</td><td valign="top">T09.1</td><td valign="top">Implementar el endpoint en el backend </td><td valign="top">Implementar el endpoint para obtener las ganancias por id un usuario en específico</td><td valign="top">4</td><td valign="top">Miguel Huaman</td><td valign="top">Done</td></tr>
+<tr><td rowspan="2" valign="top">TS-10</td><td rowspan="2" valign="top">Seguridad y encriptación de contraseñas en el inicio de sesión</td><td valign="top">T10.1</td><td valign="top">Implementar seguridad con BCryptNext</td><td valign="top">Implementar clases y componentes de seguridad para la encriptación de contraseña del usuario</td><td valign="top">4</td><td valign="top">Jorge Gonzales</td><td valign="top">Done</td></tr>
+<tr><td valign="top">T10.2</td><td valign="top">Implementar seguridad con Jwt</td><td valign="top">Implementar clases y componentes de seguridad con Jwt para la encriptación de contraseña con el usuario y usar BearerAuth</td><td valign="top">4</td><td valign="top">Jorge Gonzales </td><td valign="top">Done</td></tr>
+</table>
 
 
 #### 5.2.4.3. Development Evidence for Sprint Review.
@@ -2452,8 +2465,6 @@ Repositorio backend:
 | AyniFrontendWeb | develop | 53fe3af | feat: Added select transaction page and update index, navigation and select-rol components | - | 12/11/2023  |
 | AyniFrontendWeb | develop | ec2fb53 | feat: Added cost and add-cost pages | - | 12/11/2023  |
 | AyniFrontendWeb | feature/rates-and-shopping | af85f87 | feat: Added profits and add-profit pages | - | 12/11/2023  |
-
-
 | AyniWebBackend | develop |  | feat: add security BCrypt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: add security Jwt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: update security token with SHA 512-bit key | - | 11/11/2023  |
@@ -2483,25 +2494,48 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ult
 
 
 - HU-09: Implementación de vista de ganancias y correciones en el diseño
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/6621073a-2b2e-4bae-b8fa-1eb673c26103)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f62869da-ea4f-4041-abdf-366009de9909)
 
 
 - TS-06:
   
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/27a26872-46f3-4e2c-ae79-f583be8f229b)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/56c61f1b-c2ca-49ea-87f9-97d42a635bf9)
 
 
 - TS-07:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5b86c66a-fbba-4aff-89c5-4332e87f5065)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c8866893-e191-4956-8a57-825b8d8911d8)
 
 
 
 - TS-08:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ea34931c-85b4-4cae-8afe-8addad316c89)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/101c9c01-3c60-4fa4-a6aa-d35c76898199)
 
 
 - TS-09:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/3c76ef5f-76b3-4ec7-a2f2-5115c1ab142d)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/eacc82ef-0f4c-433d-8ed0-58d7b7dd4224)
+
 
 
 - TS-10: 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/75ea31d3-d36c-4d6b-bd8b-3c0b3b17a401)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/1c23da6a-8f57-4594-9b02-b017d91fb797)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d3c02cc0-357b-49fc-81b4-fbb2f008c2da)
+
+Si desea realizar un test de sing in, usar los siguientes datos:
+
+Username: Juan Tinocco
+<br> email: JTinoco@gmail.com
+<br> password: Web
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f6ab7cf4-83d7-41d4-a006-88692b14ce8b)
 
 
 - Conexión de backendy frontend:
@@ -2533,8 +2567,8 @@ Commits relacionados con documentación:
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
 | - | - | - | - | - |
-| POST | /api/v1/users/sign-in | En este endpoint se puede iniciar sesión | http://localhost:8080/api/v1/users/sign-in | username: "Juan"<br> "email: juan@gmail.com" <br> "password: contrasenia" |
-| POST | /api/v1/users/sign-up | En este endpoint se puede crear el usuario  |  http://localhost:8080/api/v1/users/sign-up | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| POST | /api/v1/users/sign-in | En este endpoint se puede iniciar sesión | http://localhost:8080/api/v1/users/sign-in | username: "Juan Tinocco"<br> "email: JTinoco@gmail.com" <br> "password: Web" |
+| POST | /api/v1/users/sign-up | En este endpoint se puede crear el usuario  |  http://localhost:8080/api/v1/users/sign-up | username: "Juan Tinocco"<br> "email: JTinoco@gmail.com" <br> "password: Web" |
 | GET | /api/v1/users | En este endpoint se puede obtener todos los usuarios |  http://localhost:8080/api/v1/users | - |
 | GET | /api/v1/users/{id} | En este endpoint se puede obtener un usuario por id en especifico |  http://localhost:8080/api/v1/users/{id} | UserId: 1 |
 | PUT | /api/v1/users/{id} | En este endpoint se puede editar un usuario por id en especifico |  http://localhost:8080/api/v1/users/{id} | UserId: 1 |
@@ -2565,6 +2599,9 @@ Commits relacionados con documentación:
 
 A continuación se mostrará capturas de la documentación swagger y usos con los datos de prueba:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/283adf22-8967-40ca-a1d8-2b6c64668178)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d9cd2377-ab5e-4b4d-b22c-15fce3ecd5a4)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/03ab0cef-056a-4997-abc9-8af24abc79df)
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
@@ -2611,11 +2648,11 @@ Finalmente, se desplegó el backend en Azure:
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/55bf82eb-4894-49cb-9fd8-d4a294da708b)
 
-El link es el siguiente: ()
+El link es el siguiente: (https://ayniapi.azurewebsites.net/swagger/index.html)
 
 De igual manera, se desplegó en SmarterASP.NET, el link es el siguiente:
 
-Link: ()
+Link: (http://jorgegc-001-site1.btempurl.com/swagger/index.html)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
@@ -2971,6 +3008,8 @@ A continuación, se muestra el Video About the Team, donde se ahce una retrospec
 - Se desarrollo una nueva version de Web Applications en base al Sprint presentado en la entrega TB2, corrigiendo y anadiendo features para una mejor experiencia de usuario y para una mejor conexion con los Web Services.
 
 - Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
+
+- En conclusión, el proyecto de desarrollo de la aplicación web, con un frontend en Java Vue y un backend en C#, implementado mediante metodologías ágiles, ha demostrado la eficacia de la colaboración dentro de un equipo multidisciplinario de desarrollo de software. La combinación de tecnologías modernas, enfoques ágiles y la diversidad de habilidades en el equipo permitió alcanzar los objetivos establecidos de manera eficiente. La aplicación resultante no solo cumple con los requisitos funcionales, sino que también refleja la adaptabilidad del equipo frente a los cambios y la capacidad para enfrentar desafíos de manera colaborativa. Este proyecto no solo ha mejorado nuestras habilidades técnicas, sino que también ha fortalecido la importancia de la comunicación, la flexibilidad y la iteración continua en el proceso de desarrollo de software. En resumen, la experiencia adquirida a lo largo de este proyecto destaca la efectividad de la combinación de tecnologías de vanguardia y metodologías ágiles en la creación exitosa de aplicaciones web robustas y funcionales.
 
 # Referencias
 
