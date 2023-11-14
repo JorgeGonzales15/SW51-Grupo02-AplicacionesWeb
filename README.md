@@ -1903,11 +1903,13 @@ Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![structurizr-85725-Contexto](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/1a0fcaff-d404-4492-b1e3-d162f79bfbcb)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7f6db2b7-0de8-43e9-bf16-a78959e95823)
+
 
 ### 4.6.2. Software Architecture Container Diagrams.
 
-![structurizr-85725-Contenedores](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/8a05b6fd-3add-490a-b2af-f42cefc88285)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/19f2a267-d681-4a03-95bc-0231391af921)
+
 
 ### 4.6.3. Software Architecture Components Diagrams.
 
