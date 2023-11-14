@@ -2452,6 +2452,8 @@ Repositorio backend:
 | AyniFrontendWeb | develop | 53fe3af | feat: Added select transaction page and update index, navigation and select-rol components | - | 12/11/2023  |
 | AyniFrontendWeb | develop | ec2fb53 | feat: Added cost and add-cost pages | - | 12/11/2023  |
 | AyniFrontendWeb | feature/rates-and-shopping | af85f87 | feat: Added profits and add-profit pages | - | 12/11/2023  |
+
+
 | AyniWebBackend | develop |  | feat: add security BCrypt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: add security Jwt | - | 11/11/2023  |
 | AyniWebBackend | develop |  | feat: update security token with SHA 512-bit key | - | 11/11/2023  |
@@ -2459,31 +2461,102 @@ Repositorio backend:
 | AyniWebBackend | develop | | documentation: added documentation endpoints and swagger gen | - | 11/11/2023  |
 
 
+
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
 | Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
 | - | - | - | - | - | - |
-| acceptance-test-web | main | a4cf392 | Acceptance_test_12.feature | - | 18/10/2023 |
-| acceptance-test-web | main | ab7d2e3 | Acceptance_test_13.feature | - | 18/10/2023 |
-| acceptance-test-web | main | 4f66065 | Acceptance_test_14.feature | - | 18/10/2023 |
-| acceptance-test-web | main | 088e8ef | Acceptance_test_15.feature | - | 18/10/2023 |
-| acceptance-test-web | main | 31ba20f | Acceptance_test_16.feature | - | 18/10/2023 |
+| acceptance-test-web | main | 57cf5d2 | Acceptance_test_17.feature | - | 13/11/2023 |
+| acceptance-test-web | main | ff77eae | Acceptance_test_18.feature | - | 13/11/2023 |
+| acceptance-test-web | main | c9658a5 | Acceptance_test_19.feature | - | 13/11/2023 |
+| acceptance-test-web | main | fd322dc | Acceptance_test_20.feature | - | 13/11/2023 |
+| acceptance-test-web | main | 04086a7 | Acceptance_test_21.feature | - | 13/11/2023 |
+| acceptance-test-web | main | 5061ebf | Acceptance_test_22.feature | - | 13/11/2023 |
+| acceptance-test-web | main | fd13594 | Acceptance_test_23.feature | - | 13/11/2023 |
+| acceptance-test-web | main | 7314017 | Acceptance_test_24.feature | - | 13/11/2023 |
+| acceptance-test-web | main | 94b09fc | Acceptance_test_25.feature | - | 13/11/2023 |
+| acceptance-test-web | main | 335b592 | Acceptance_test_26.feature | - | 13/11/2023 |
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
+En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ultima versión de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes para laa versión final del producto solución. A continuación se muestran algunas evidencias:
+
+- HU-06:
+  
+
+
+- HU-05:
+
+
+
+- HU-09:
+
+
+
+- HU-12:
+
+
+
+- Backend: 
+
+
+
+
+
+
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/cc66e475-1386-4a49-b4ab-8ef5da867b40)
 
 
-Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYr8L08gsBlLl_iqFEMGo5ABrt1hkOY1fsbY2PIWZR_N6g?e=mpLRri&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19) 
+
+Link del video: () 
+
+
+
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
-A continuación, tenemos la documentación en Swagger del avance del backend designado en este Sprint 3.
+En esta sección, se documentará los endpoints de Web Services, en este sprint se logró abarcar gran parte de los endpoints planteados para la aplicación. Sin embargo, todavía queda adicionar más metodos de regla de negocio. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniWebBackend).
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/c645053b-c5ad-4c1d-aaaa-2b63995843b4)
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5b9bcbfb-a628-44b8-9155-0130d201b8b2)
+Commits relacionados con documentación:
+
+| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
+| - | - | - | - | - | - |
+| AyniWebBackend | develop |  | documentation: add documentations to controllers | - | 11/11/2023  |
+| AyniWebBackend | develop | | documentation: added documentation endpoints and swagger gen | - | 11/11/2023  |
+
+
+| Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
+| - | - | - | - | - |
+| POST | /api/v1/users/sign-in | En este endpoint se puede iniciar sesión | http://localhost:8080/api/v1/users/sign-in | username: "Juan"<br> "email: juan@gmail.com" <br> "password: contrasenia" |
+| POST | /api/v1/users/sign-up | En este endpoint se puede crear el usuario  |  http://localhost:8080/api/v1/users/sign-up | username: "Juan" <br> email: "Juan@gmail.com" <br> "role: farmer" <br> "password: contrasenia" |
+| GET | /api/v1/users | En este endpoint se puede obtener todos los usuarios |  http://localhost:8080/api/v1/users | - |
+| GET | /api/v1/users/{id} | En este endpoint se puede obtener un usuario por id en especifico |  http://localhost:8080/api/v1/users/{id} | UserId: 1 |
+| PUT | /api/v1/users/{id} | En este endpoint se puede editar un usuario por id en especifico |  http://localhost:8080/api/v1/users/{id} | UserId: 1 |
+| POST | /api/v1/costs  | En este endpoint se puede realizar el registro de un costo | http://localhost:8080/api/v1/costs |  "Name": "gasolina", "description": "3 galones de gasolina", "Amount": "159", "userId": 1 |
+| GET | /api/v1/costs  | En este endpoint se puede realizar la obtención de todos los registros de costos | http://localhost:8080/api/v1/costs | - |
+| PUT | /api/v1/costs/{id}   | En este endpoint se puede realizar la obtención de un registros de costo por id | http://localhost:8080/api/v1/costs/{id} | costId: 1 |
+| DELETE | /api/v1/costs/{id}   | En este endpoint se puede realizar la eliminación de un costo | http://localhost:8080/api/v1/costs/{id} | costId: 1 |
+| POST | /api/v1/profits  | En este endpoint se puede realizar el registro de una ganancia | http://localhost:8080/api/v1/profits |  "Name": "gasolina", "description": "3 galones de gasolina", "Amount": "159", "userId": 1 |
+| GET | /api/v1/profits  | En este endpoint se puede realizar la obtención de todos los registros de ganancias | http://localhost:8080/api/v1/profits | - |
+| PUT | /api/v1/profits/{id}   | En este endpoint se puede realizar la obtención de un registros de ganancias por id | http://localhost:8080/api/v1/profits/{id} | profitId: 1 |
+| DELETE | /api/v1/profits/{id}   | En este endpoint se puede realizar la eliminación de una ganancia | http://localhost:8080/api/v1/profits/{id} | profitId: 1 |
+| POST | api/v1/products  | En este endpoint se puede utilizar para registrar un producto | http://localhost:8080/api/v1/products |   "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "unitPrice": "159" , "quantity": "1" , "imageUrl": "string" |
+| GET | api/v1/products  | En este endpoint se puede utilizar para obtener todos los productos |  http://localhost:8080/api/v1/products | - |
+| PUT | api/v1/products/{id}  | En este endpoint se puede utilizar para editar un productos |  http://localhost:8080/api/v1/products/{id} | "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "unitPrice": "159" , "quantity": "1" , "imageUrl": "string" |
+| DELETE | api/v1/products/{id}  | En este endpoint se puede utilizar para eliminar un producto |  http://localhost:8080/api/v1/products/{id} | - |
+| POST | api/v1/crops  | En este endpoint se puede utilizar para registrar un cultivo | http://localhost:8080/api/v1/crops | "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| GET | api/v1/crops  | En este endpoint se puede utilizar para obtener todos los cultivos |  http://localhost:8080/api/v1/crops | - |
+| PUT | api/v1/crops/{id}  | En este endpoint se puede utilizar para editar un cultivo |  http://localhost:8080/api/v1/crops/{id} | "name": "Cultivo fresco de manzana", "description": "Manzanas frescas", "distance": "12", "depth": "5 centimetros", "weather": "19 centigrados", "groundType": "buena caldad", "season": "verano", "imageUrl": "string" |
+| DELETE | api/v1/crops/{id}  | En este endpoint se puede utilizar para eliminar un cultivo |  http://localhost:8080/api/v1/crops/{id} | - |
+| POST | api/v1/orders  | En este endpoint se puede utilizar para registrar una orden | http://localhost:8080/api/v1/orders |   "description": "Papayas muy buenas", "totalPrice": 15, "quantity": 3, "paymentMethod": "mastercard", "status": "On Package", "saleId": 1, "orderedBy": 1, "acceptedBy": 2, "orderedDate": "2023-11-02T13:16:02.798Z" |
+| GET | api/v1/orders  | En este endpoint se puede utilizar para obtener todas las ordenes | http://localhost:8080/api/v1/orders | - |
+| DELETE | api/v1/orders/{orderId}  | En este endpoint se puede eliminar una orden por Id | http://localhost:8080/api/v1/orders/{id} | orderId: 1 |
+| PUT | api/v1/orders/{orderId}  | En este endpoint se puede actualizar una orden por Id | http://localhost:8080/api/v1/orders/{id} | orderId: 1 |
+| GET | api/v1/users/{userId}/costs  | En este endpoint se puede obtener todos los costos de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/costs| userId:1 |
+| GET | api/v1/users/{userId}/crops  | En este endpoint se puede obtener todos los cultivos de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/crops| userId:1 |
+| GET | api/v1/users/{userId}/orders  | En este endpoint se puede obtener todos las ordenes de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/orders | userId:1 |
+| GET | api/v1/users/{userId}/profits  | En este endpoint se puede obtener todos las ganancias de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/profits | userId:1 |
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
