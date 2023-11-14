@@ -2479,27 +2479,32 @@ Repositorio backend:
 
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
-En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ultima versión de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes para laa versión final del producto solución. A continuación se muestran algunas evidencias:
+En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ultima versión de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes para la versión final del producto solución. De la misma manera, se tuvo que realizar la conexión con el backend y el frontend para tener el producto final. A continuación se muestran algunas evidencias:
 
-- HU-06:
+
+- HU-09: Implementación de vista de ganancias y correciones en el diseño
+
+
+- TS-06:
   
 
 
-- HU-05:
+- TS-07:
 
 
 
-- HU-09:
+- TS-08:
 
 
 
-- HU-12:
+- TS-09:
 
 
 
-- Backend: 
+- TS-10: 
 
 
+- Conexión de backendy frontend:
 
 
 
@@ -2516,7 +2521,7 @@ Link del video: ()
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
 
-En esta sección, se documentará los endpoints de Web Services, en este sprint se logró abarcar gran parte de los endpoints planteados para la aplicación. Sin embargo, todavía queda adicionar más metodos de regla de negocio. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniWebBackend).
+En esta sección, se documentará los endpoints de la ultima versión de Web Services, en este sprint se logró abarcar todos los endpoints planteados para la aplicación. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniWebBackend).
 
 Commits relacionados con documentación:
 
@@ -2557,6 +2562,9 @@ Commits relacionados con documentación:
 | GET | api/v1/users/{userId}/crops  | En este endpoint se puede obtener todos los cultivos de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/crops| userId:1 |
 | GET | api/v1/users/{userId}/orders  | En este endpoint se puede obtener todos las ordenes de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/orders | userId:1 |
 | GET | api/v1/users/{userId}/profits  | En este endpoint se puede obtener todos las ganancias de un usuario en especifico|  http://localhost:8080/api/v1/users/{userId}/profits | userId:1 |
+
+A continuación se mostrará capturas de la documentación swagger y usos con los datos de prueba:
+
 
 
 #### 5.2.4.7. Software Deployment Evidence for Sprint Review.
