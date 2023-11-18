@@ -50,7 +50,11 @@ Noviembre del 2023
 | 3.2 | 23/10/2023 | Huaman Catano, Miguel | Se documentaron los commits realizados y se actualizo el punto Source Code Management|
 | 3.3 | 24/10/2023 | Paucar De La Cruz, Tatiana Medalith | Se realizo registro de entrevistas y documentacion de commits|
 | 3.4 | 24/10/2023 | Espejo Macuri, Paolo Espejo | Se realizo nueva version de frontend y documentacion de commits de backend |
-
+| 4.1 | 11/10/2023 | Gonzales Carrión, Jorge Enrique | Se realizó la redacción y alcance del Sprint 4 |
+| 4.2 | 15/10/2023 | Zarate Castro, Jose Daniel | Se realizó la documentación de los commits realizados en la evidencia de implementación |
+| 4.3 | 17/10/2023 | Paucar de la Cruz, Tatiana | Se realizó la documentación de los despliegues para la landing page, frontend y backend |
+| 4.4 | 17/10/2023 | Espejo Macuri, Paolo Andre | Se documentó los commits realizados en el tf |
+| 4.5 | 17/10/2023 | Huaman Catano | Se realizaron conclusiones |
 ---
 # Project Report Collaboration Insights
 
@@ -90,6 +94,16 @@ Para la elaboración del informe se realizaron actividades tales como:
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/4fb40d85-299b-44fa-af61-31a1e9a5d6c8)
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/2cda138f-a293-49ec-8443-7daa0ac33634)
 
+TF: Se han desarrollado las actividades correspondientes para la entrega TF en el siguiente repositorio de Guthub dentro de la organización del equipo:
+
+Link de repositorio Github: (https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web)
+
+Para la elaboración del informe se realizaron actividades tales como:
+- Planificar el alcance y objetivo del Sprint 4
+- Realizar el sprint backlog 4 para lograr el objetivo de implementar versión final de web applications y versión final de web services
+- Realizar los puntos correspondientes al Sprint 4, tales como: Development Evidece, Testing Suite Evidence, Execution Evidence, Software Deployment Evidence y Team Collaboration Insights
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/cef954e5-2748-474a-8419-c973f80c9fbb)
 
 
 
@@ -194,14 +208,20 @@ Para la elaboración del informe se realizaron actividades tales como:
     - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
     - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
     - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 - [5.3. Validation Interviews](#53-validation-interviews)
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
-
-
  
-
 ## [Conclusiones](#conclusiones)
 
 ## [Referencias](#referencias)
@@ -219,8 +239,8 @@ colaboración e inclusivo, establecen objetivos, planifican tareas y cumplen obj
 
 | Criterio específico | Acciones realizadas | Conclusiones |
 | - | - | - |
-| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Jorge Gonzales - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jorge Gonzales - TB2:** Participó en el desarrollo del sprint 3 haciendo el feature de ordenees y usó correctamente con eficiencia Github branches. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Paolo Espejo - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo - TB2:** Participó en el desarrollo del sprint 3 desarrollando el feature de cultivos y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Tatiana Paucar - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br>  **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Miguel Huaman - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Miguel Huaman - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. <br> **Jose Zarate - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB2:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches.| TB1: Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz. <br> TP: Se delegaron features por integrante de trabajo para el sprint 2. <br> TB2: Se delegaron features por integrante de trabajo para el sprint 3 |
-| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Jorge Gonzales - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jorge Gonzales - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Paolo Espejo - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Paolo Espejo - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Tatiana Paucar - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Tatiana Paucar - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Miguel Huaman - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Miguel Huaman - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3 <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page <br> **Jose Zarate - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jose Zarate - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3| TB1: Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. <br> TP: Cada integrante analizó el segmento objetivo para realizar las features designadas con respecto al sector empresarial. <br> TB2: Cada integrante analizó el segmento objetivo para realizar las features del backend y frontend designadas con respecto al sector empresarial. De esta manera, se tendrá un mejor feedback por parte del usuario y obtener un mejor producto. |
+| Participa en equipos multidisciplinarios con eficacia, eficiencia y objetividad, en el marco de un proyecto en soluciones de ingeniería de software. | **Jorge Gonzales - TB1:** Se ha definido el alcance del proyecto, la temática, y la delegación de tareas. <br> **Jorge Gonzales - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jorge Gonzales - TB2:** Participó en el desarrollo del sprint 3 haciendo el feature de ordenees y usó correctamente con eficiencia Github branches.  <br> **Jorge Gonzales - TB2:** Participó en el desarrollo del sprint 4 haciendo la implementación de security en el backend y correciones en el frontend y usó correctamente con eficiencia Github branches. <br> **Paolo Espejo -TB1:** Se realizaron las entrevistas comunicando oralmente las preguntas necesarias para obtener información por parte del segmento objetivo y se realizó el analisis de todas las entrevistas sustendando al equipo las funcionalidades que desean los usuarios. <br> **Paolo Espejo - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo - TB2:** Participó en el desarrollo del sprint 3 desarrollando el feature de cultivos y usó correctamente con eficiencia Githuh branches. <br> **Paolo Espejo - TF:** Participó en el desarrollo del sprint 4 desarrollando el endpoint de crops en el backend y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB1:** Se propuso el Lean UX process al equipo y consultándolo entre todo el equipo se hizo el desarrollo de este. Asimismo, se propuso el modelado de diagrama de clases y de base de datos. <br> **Tatiana Paucar - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br> **Tatiana Paucar - TB2:** Participó en el desarrollo del sprint 4 y usó correctamente con eficiencia Githuh branches. <br>  **Miguel Huaman -TB1:** Se propuso el needfinding y se comunicó las caracteristicas de desarrollo a todo el equipo. <br> **Miguel Huaman - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Miguel Huaman - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br> **Miguel Huaman - TF:** Participó en el desarrollo del sprint 4 en el backend con el endpoint de profits y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB1:** Se propuso ideas para el capítulo de Requirements Specification y los mockups y wireframes de la landing page. <br> **Jose Zarate - TP:** Participó en el desarrollo del sprint 2 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TB2:** Participó en el desarrollo del sprint 3 y usó correctamente con eficiencia Githuh branches. <br> **Jose Zarate - TF:** Participó en el desarrollo del sprint 4 y usó correctamente con eficiencia Githuh branches. | TB1: Se distribuyeron diferentes actividades para el desarrollo del trabajo para que cada integrante pueda desempeñarse en un área en específica, luego pudimos realizar las tareas asignadas. Para finalizar, todos los integrantes del equipo lograron comunicar oralmente sus ideas de manera eficaz. <br> TP: Se delegaron features por integrante de trabajo para el sprint 2. <br> TB2: Se delegaron features por integrante de trabajo para el sprint 3. <br> TF: Se delegaron features por integrante de trabajo para el sprint 4 para la versión final del backend y frontend. |
+| Conoce al menos un sector empresarial o dominio de aplicación de soluciones de software. | **Jorge Gonzales - TB1:** Se realizaron propuestas escritas para los General Style Guidelines asimismo propuestas para los wireframes y mockups para la aplicación web. <br> **Jorge Gonzales - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jorge Gonzales - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3. <br> **Jorge Gonzales - TF:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 4 <br> **Paolo Espejo - TB1** Se realizó el planteamiento de las preguntas para las entrevistas y se hizo el analisis de estas. <br> **Paolo Espejo - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Paolo Espejo - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3. <br> **Paolo Espejo - TF:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 4 <br> **Tatiana Paucar - TB1:** Se plantearon en escrito el Lean UX Process y los diagramas de clases y de base de datos. <br> **Tatiana Paucar - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Tatiana Paucar - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3. <br> **Tatiana Paucar - TF:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 4. <br> **Miguel Huaman - TB1:** Se plantearon los puntos del NeedFinding. <br> **Miguel Huaman - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Miguel Huaman - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3. <br> **Miguel Huaman - TF:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 4. <br> **Jose Zarate - TB1:** Se plantearon los mockups y wireframes de la landing page <br> **Jose Zarate - TP:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada en el sprint 2. <br> **Jose Zarate - TB2:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 3. <br> **Jose Zarate - TF:** Se analizaron preferencias del sector usuario segun la funcionalidad delegada para el backend en el sprint 4 | TB1: Cada integrante desarrolló los items para esta entrega y comúnico sus aportes de manera escrita y formal para este sprint. <br> TP: Cada integrante analizó el segmento objetivo para realizar las features designadas con respecto al sector empresarial. <br> TB2: Cada integrante analizó el segmento objetivo para realizar las features del backend y frontend designadas con respecto al sector empresarial. De esta manera, se tendrá un mejor feedback por parte del usuario y obtener un mejor producto. <br> TF: Cada integrante analizó el segmento objetivo para realizar las features del backend y frontend designadas con respecto al sector empresarial. De esta manera, se tendrá un mejor feedback por parte del usuario y obtener la versión final del producto solución. |
 
 
 ---
@@ -2440,8 +2460,8 @@ Repositorio backend:
 | Sprint 3 - Retrospective Summary  | Implementar más vistas para funcionalidades dentro del frontend. <br> Corregir la documentación del backend e implemenetar seguridad de encriptación |
 | **Sprint Goal & User Stories** | - |
 | Sprint 4 Goal| Desarrollar la versión final del frontend y la versión final de backend |
-| Sprint 4 - Velocity | El equipo puede aceptar XX Story Points|
-| Sprint 4 - Story Points | La suma de los Story Points de los User Sotires que se atenderá es (XX)|
+| Sprint 4 - Velocity | El equipo puede aceptar 25 Story Points|
+| Sprint 4 - Story Points | La suma de los Story Points de los User Stories que se atenderá es (22)|
 
 #### 5.2.4.2. Sprint Backlog 4.
 
@@ -2467,13 +2487,45 @@ Repositorio backend:
 | AyniFrontendWeb | develop | 53fe3af | feat: Added select transaction page and update index, navigation and select-rol components | - | 12/11/2023  |
 | AyniFrontendWeb | develop | ec2fb53 | feat: Added cost and add-cost pages | - | 12/11/2023  |
 | AyniFrontendWeb | feature/rates-and-shopping | af85f87 | feat: Added profits and add-profit pages | - | 12/11/2023  |
-| AyniWebBackend | develop |  | feat: add security BCrypt | - | 11/11/2023  |
-| AyniWebBackend | develop |  | feat: add security Jwt | - | 11/11/2023  |
-| AyniWebBackend | develop |  | feat: update security token with SHA 512-bit key | - | 11/11/2023  |
-| AyniWebBackend | develop |  | documentation: add documentations to controllers | - | 11/11/2023  |
-| AyniWebBackend | develop | | documentation: added documentation endpoints and swagger gen | - | 11/11/2023  |
-
-
+| AyniFrontendWeb | develop | 743db22 | chore: Updated store, auth.module, main.js and http-common.js for working with the deployed backend | - | 15/11/2023  |
+| AyniFrontendWeb | develop | 0edf2c3 | feat(auth): Added authentication services and updated the signin and signup | - | 15/11/2023  |
+| AyniFrontendWeb | develop | e6e2539 | feat(finance): Added a new service for the user profits endpoint. | - | 15/11/2023  |
+| AyniFrontendWeb | develop | 55c063d | fix(navigation): Fixed the navigation bar to work well with the authentication module | - | 15/11/2023  |
+| AyniFrontendWeb | develop | 4958d47 | chore(farmer-home): Updated farmer home for worked with the deployed backend | - | 15/11/2023  |
+| AyniFrontendWeb | develop | 712a67b | fix(product): Deleted product-api.service.js because duplicated and updated products-api.service.js for work with authentication headers | - | 15/11/2023  |
+| AyniWebBackend | develop | bdf4f98 | feat: Updated order repository | - | 16/11/2023  |
+| AyniWebBackend | develop | 555f121 | feat: Updated orders controller | - | 16/11/2023  |
+| AyniWebBackend | develop | e1b08eb | feat: Updated order service | - | 16/11/2023  |
+| AyniWebBackend | develop | 8616453 | chore: Configured settings to deployed database | - | 16/11/2023  |
+| AyniWebBackend | develop | ef6ba7e | feat: added security classes and fix version of dependencies | - | 16/11/2023  |
+| AyniWebBackend | develop | 046594e | feat(Cost): Added relationships in model cost. | - | 16/11/2023  |
+| AyniWebBackend | develop | 8947b5d | feat(Cost): Added cost controller | - | 16/11/2023  |
+| AyniWebBackend | develop | dc124ad | feat(Cost): Added cost service. | - | 16/11/2023  |
+| AyniWebBackend | develop | d7e20e9 | feat(Cost): Added UserCostsController.cs | - | 16/11/2023  |
+| AyniWebBackend | develop | 8556c38 | feat(Mapping): Added ResourceToModelProfile.cs | - | 16/11/2023  |
+| AyniWebBackend | develop | 5db9c64 | feat(Mapping): Added ModelToResourceProfile.cs | - | 16/11/2023  |
+| AyniWebBackend | develop | ce01ab4 | fix: Fixed Program.cs and added dependencies. | - | 16/11/2023  |
+| AyniWebBackend | develop | 5532ea0 | feat(crop): Add crop model | - | 16/11/2023  |
+| AyniWebBackend | develop | 26c2189 | feat(crop): Add crop repository | - | 16/11/2023  |
+| AyniWebBackend | develop | bf0c505 | feat(crop): Add crop controller | - | 16/11/2023  |
+| AyniWebBackend | develop | 1fdc864 | feat(crop): Add crop service | - | 16/11/2023  |
+| AyniWebBackend | develop | c50af5e | feat(crop): Add user crops controller | - | 16/11/2023  |
+| AyniWebBackend | develop | c36bdba | feat(order): Add user order controller | - | 16/11/2023  |
+| AyniWebBackend | develop | e652d9e | feat:add profit models | - | 16/11/2023  |
+| AyniWebBackend | develop | 702c872 | feat: add profit repository | - | 16/11/2023  |
+| AyniWebBackend | develop | f3b0cfa | feat: add profit controller | - | 16/11/2023  |
+| AyniWebBackend | develop | cd4db75 | feat: add profit service | - | 16/11/2023  |
+| AyniWebBackend | develop | c3d9a6f | feat: add profit UserProfitsController | - | 16/11/2023  |
+| AyniWebBackend | develop | ad88fc2 | feat: fix locations, added dependencies and user bounded countext | - | 16/11/2023  |
+| AyniWebBackend | develop | 7960f22 | fix: messages error | - | 16/11/2023  |
+| AyniWebBackend | develop | f60b44b | fix: Fixed bugs and change database | - | 16/11/2023  |
+| AyniWebBackend | develop | d75b7e8 | fix: fixed bugs in order repository | - | 16/11/2023  |
+| AyniFrontendWeb | develop | 2f67edc | fix(auth): Updating register and login. | - | 17/11/2023  |
+| AyniFrontendWeb | develop | a6cb45f | fix(Shopping): Updating my shopping section. | - | 17/11/2023  |
+| AyniFrontendWeb | develop | 4bd9a19 | fix(farmer-home): Updating home views and services. | - | 17/11/2023  |
+| AyniFrontendWeb | develop | 2ea96b8 | fix(Transactions): Updating costs and profits pages and components. | - | 17/11/2023  |
+| AyniFrontendWeb | develop | a20fa81 | feat(UserOrders): Added UserOrders-api.service.js | - | 17/11/2023  |
+| AyniFrontendWeb | develop | c0be150 | fix: updated rate.page.vue, find-product-main.component.vue, find-product-selected.component.vue and navigation.component.vue | - | 17/11/2023  |
 
 #### 5.2.4.4. Testing Suite Evidence for Sprint Review.
 
@@ -2531,16 +2583,9 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ult
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/1c23da6a-8f57-4594-9b02-b017d91fb797)
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d3c02cc0-357b-49fc-81b4-fbb2f008c2da)
 
-Si desea realizar un test de sing in, usar los siguientes datos:
-
-Username: Juan Tinocco
-<br> email: JTinoco@gmail.com
-<br> password: Web
-
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f6ab7cf4-83d7-41d4-a006-88692b14ce8b)
 
 
-- Conexión de backendy frontend:
+- Conexión de backend y frontend:
 
 
 
@@ -2559,12 +2604,11 @@ Link del video: ()
 
 En esta sección, se documentará los endpoints de la ultima versión de Web Services, en este sprint se logró abarcar todos los endpoints planteados para la aplicación. Con respecto a la documentación, se usó OpenApi para documentar la interacción de los usuarios con los controllers  El link del repositorio de WebServices: (https://github.com/upc-2023-GreatMinds-SW51-Web/AyniWebBackend).
 
-Commits relacionados con documentación:
+Si desea realizar pruebas en el frontend con un usuario existente, introducir los valores:
 
-| Repository | Branch | Commit Id | Commit Message | Commit Message Body | Commited on (Date) |
-| - | - | - | - | - | - |
-| AyniWebBackend | develop |  | documentation: add documentations to controllers | - | 11/11/2023  |
-| AyniWebBackend | develop | | documentation: added documentation endpoints and swagger gen | - | 11/11/2023  |
+
+
+
 
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
@@ -2630,9 +2674,9 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 ![image](https://github.com/upc-pre-202302-GreatMinds-SW51/Informe-Final_OpenSource/assets/104078975/7b51f439-869e-42b1-89fb-b72966cd289d)
 
-De esta manera se desplegó la versión final de los web application. A continuación los links:
+De esta manera se desplegó la versión final de los web application y landing page. A continuación los links:
 
-Link de landing page: (https://ayni-landing-page.netlify.app/)
+Link de landing page: ()
 
 Link de web application: ()
 
@@ -2640,29 +2684,37 @@ Para la versión final de los web services o backend del proyecto, se realizó e
 
 Primero se hizo el host para la base de datos en SmarterASP.NET:
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ecbcdb86-a7c6-4343-aaf4-d482e25a9062)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d5040a9b-1a51-4864-94dd-d0d2e538fc6e)
 
-Luego, se creó una cuenta en AWS para hostear el backend:
+Luego se creó un perfil de website para realizar el despliegue:
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/beee52e0-b94c-4403-b3cf-54ffef1898dd)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/62fd235e-5896-4dc8-8c0a-8f07a69a2f0b)
 
-Finalmente, se desplegó el backend en Azure: 
+Con el archivo XML brindado por el servicio, procedemos a levantar Visual Studio para realizar el despliegue seleccionando la carpeta del proyecto y procedemos a realizar el despliegue: 
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/55bf82eb-4894-49cb-9fd8-d4a294da708b)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ee56d116-07e4-4efa-9827-255104af2145)
 
-El link es el siguiente: (https://ayniapi.azurewebsites.net/swagger/index.html)
-
-De igual manera, se desplegó en SmarterASP.NET, el link es el siguiente:
+De esta manera ya quedaría desplegado la versión final del backend. A continuación el link:
 
 Link: (http://jorgegc-001-site1.btempurl.com/swagger/index.html)
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
-Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web y web services, para ello, se realizaron primero branches por features abordados dentro del sprint 3 para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend y backend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+Las actividades para el presente Sprint se repartieron en base a la priorización de historias de usuario dentro del producto backlog referidas a las funcionalidades principales de la aplicación web y web services, para ello, se realizaron primero branches por features abordados dentro del sprint 4 para que cada integrante trabaje en esas branches y luego realice el push para ver los cambios. De esta manera, el desarrollo del frontend y backend fue organizada y eficiente. A continuación, se mostrarán las evidencias de los commits:
+
+| Alumno | Actividad | 
+| - | - | 
+| Espejo Macuri, Paolo Andre  | Desarrollo de backend | 
+| Gonzales Carrión, Jorge Enrique  | Desarrollo de backend  | 
+| Huaman Catano, Miguel Angel  | Desarrollo de backend  | 
+| Paucar De La Cruz, Tatiana Medalith  | Desarrollo de frontend y backend | 
+| Zarate Castro, Jose Daniel  | Desarrollo de frontend y backend  | 
 
 Repositorio backend:
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d16b9638-e63c-4198-bd29-27d9e5644f24)
 
+Repositorio Frontend: 
 
 ## 5.3. Validation Interviews.
 
