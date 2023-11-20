@@ -221,6 +221,8 @@ Para la elaboración del informe se realizaron actividades tales como:
     - [5.3.1. Diseño de Entrevistas](#531-diseño-de-entrevistas)
     - [5.3.2. Registro de Entrevistas](#532-registro-de-entrevistas)
     - [5.3.3. Evaluaciones según heurísticas](#533-evaluaciones-según-heurísticas)
+- [5.4. Video About-the-product](#54-video-about-the-product)
+- [5.5. Video About-the-team](#55-video-about-the-team)
  
 ## [Conclusiones](#conclusiones)
 
