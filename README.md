@@ -2606,19 +2606,13 @@ En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ult
 
 
 
-- Conexión de backend y frontend:
-
-
-
-
 El producto del desarrollo del presente sprint, está reflejado en el siguiente video, donde se muestra todo lo logrado en este sprint. A continuación el link del video:
 
 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ed3333e2-9841-4e26-be0a-e0d7b3f17916)
 
 
-Link del video: () 
-
-
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EdXaelOv9URChjISrYO5tsIBgWsKQ8BCKIRgFvnKujta_w?e=AUQpsX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -3076,16 +3070,29 @@ Implementar un boton o apartado para editar perfil de usuario.*
 
 ## 5.4. Video About-the-Product.
 
-A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYJqiobxU4REkNbM8GdE_QIBLn0BkTQaW3nxYPFBLQ0bww?e=vgV1Av&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+A continuación, se muestra el Video About the Product donde se expone todo lo avanzado con respecto al producto solucion Ayni, compende Web Applications y primera version de Backend aun no conectados. 
+
+El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EYJqiobxU4REkNbM8GdE_QIBLn0BkTQaW3nxYPFBLQ0bww?e=vgV1Av&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/a17c1ebd-7024-4d8d-8804-2086e6be5b69)
 
+Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint 4. A continuación el link del video:
+
+Link: 
+
 ## 5.5. Video About-the-Team.
 
-A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso. El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=oSKAUf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso. 
+
+El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=oSKAUf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7cbdca92-34b6-4d60-98e4-40dcedb5f8ff)
 
+Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/86388b3b-fb23-4aa4-a9a7-176fb1cb8c26)
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=lRY13P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 
@@ -3124,3 +3131,9 @@ Video Exposición TB1: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211
 Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EXKAGq9BcBtDiATDiP-UENEBDlDpAMtB0vJOJ3woJwUHiQ?e=2o36oi&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
 
 Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=XdW5dX)
+
+Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ER6GLSTzxwJImig4J5OGlcQB8Z5OzDPAh2krK6g2ybHNiw?e=dDBrRb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Video About the Product:
+
+Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=ieANAJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
