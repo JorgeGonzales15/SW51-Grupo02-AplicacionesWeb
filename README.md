@@ -1,4 +1,4 @@
-
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/87d9812f-8f86-4323-ae2f-c5e9a943d0f3)![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/6599fa37-8c8e-425c-8946-1c244de73f44)
 ![UPC_logo_transparente (1)](https://github.com/JorgeGonzales15/SW51-GreatMinds-OpenSource/assets/104078975/2ff342be-dc34-415c-925e-1e7133e49abf)
 
 Universidad Peruana de Ciencias Aplicadas
@@ -2542,6 +2542,25 @@ Repositorio backend:
 | acceptance-test-web | main | 94b09fc | Acceptance_test_25.feature | - | 13/11/2023 |
 | acceptance-test-web | main | 335b592 | Acceptance_test_26.feature | - | 13/11/2023 |
 
+Feature relacionada a Techincal Story #8
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5653bd02-e6d0-4467-b136-1c87ce427aa4)
+
+Feature relacionada a Technical Story #9
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/b08ec6b4-9d29-4256-bbad-40823e751d59)
+
+Feature relacionada a Technical Story #10
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/b7fce745-9ca4-4baa-916d-207e56e1628f)
+
+Steps:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/928ef7af-87b2-4832-86a1-4c0038f0dd74)
+
+De esta manera la prueba resultó exitosa.
+
+
 #### 5.2.4.5. Execution Evidence for Sprint Review.
 
 En el sprint 4 se alcanzó a desarrollar la ultima versión del backend y la ultima versión de la aplicación web "Ayni". Por lo tanto, se muestran nuevas vistas relevantes a funcionalidades importantes para la versión final del producto solución. De la misma manera, se tuvo que realizar la conexión con el backend y el frontend para tener el producto final. A continuación se muestran algunas evidencias:
@@ -2607,8 +2626,10 @@ En esta sección, se documentará los endpoints de la ultima versión de Web Ser
 Si desea realizar pruebas en el frontend con un usuario existente, introducir los valores:
 
 
-
-
+Username: Jorge
+Email: jorge@gmail.com
+Role: Farmer
+Password: web
 
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
@@ -2697,6 +2718,21 @@ Con el archivo XML brindado por el servicio, procedemos a levantar Visual Studio
 De esta manera ya quedaría desplegado la versión final del backend. A continuación el link:
 
 Link: (http://jorgegc-001-site1.btempurl.com/swagger/index.html)
+
+Debido a errores entre el despliegue del front al usar los servicios del APIRestful desplegado en SMARTASPnet. Se optó por desplegar el backend en azure, como primer paso se tiene que crear la cuenta y crear un recurso y una suscripción:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/f2b93bbd-0a47-4ad5-8680-fd3f9661ff02)
+
+Posteriormente, se crea el servicio web:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/270ecfd5-8486-4503-8dc3-972e063f592b)
+
+Y de esta manera quedaria desplegado el backend en Azure:
+
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/4336da27-ed49-4ad4-997d-89d447238ca8)
+
+Link: (https://ayniweb.azurewebsites.net/swagger/index.html)
+
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint.
 
