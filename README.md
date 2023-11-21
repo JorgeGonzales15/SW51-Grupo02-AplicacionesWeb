@@ -1978,7 +1978,8 @@ En esta sección, se definirán las tablas y relaciones necesarias para almacena
 
 En esta sección, se presentará el diagrama de la base de datos, que muestra la estructura y las relaciones entre las tablas. 
 
-![bdf77a01-3757-4125-b25e-b1cbae5f3b65](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/631ad215-92c5-496b-b13a-471b9cb4ebe9)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/0ebe13dc-ae8a-4513-a162-d51870345d71)
+
 
 Link para visualizar el diagrama de base de datos: (https://my.vertabelo.com/doc/lh2wueyLIyZXQviphxQgyZACCtfJVtKs)
 
@@ -2621,12 +2622,30 @@ En esta sección, se documentará los endpoints de la ultima versión de Web Ser
 
 Si desea realizar pruebas en el frontend con un usuario existente, introducir los valores:
 
+Jorge
+jorge@gmail.com
+Farmer
+web
 
-Username: Jorge
-Email: jorge@gmail.com
-Role: Farmer
-Password: web
+JoseD
+josed
+FARMER
+ZarateCastro2003@hotmail.com
 
+TatianaM
+tatianam
+MERCHANT
+tatiana@tatiana.com
+
+PaoloE
+paoloe
+FARMER
+paolo@paolo.com
+
+MiguelH
+miguelh
+MERCHANT
+miguel@miguel.com
 
 | Acciones | Endpoint | Detalles | Enlace | Datos de muestra |
 | - | - | - | - | - |
@@ -2693,9 +2712,9 @@ Y pasamos la carpeta que se encuentra dentro de la carpeta dist generada en nues
 
 De esta manera se desplegó la versión final de los web application y landing page. A continuación los links:
 
-Link de landing page: ()
+Link de landing page: (https://ayni-landing-page-web-es.netlify.app)
 
-Link de web application: ()
+Link de web application: (https://ayni-webapp.netlify.app)
 
 Para la versión final de los web services o backend del proyecto, se realizó el siguiente despliegue:
 
@@ -3078,7 +3097,10 @@ El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint 4. A continuación el link del video:
 
-Link: 
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/bd622dcf-10de-48a7-9eec-b3fa71410a74)
+
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Eb4UOtbN2TpPmHkbOTEsg5EBTVEE1AnHvEgZEN2R62pAOQ?e=kMdwVa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 5.5. Video About-the-Team.
 
@@ -3134,6 +3156,6 @@ Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211
 
 Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ER6GLSTzxwJImig4J5OGlcQB8Z5OzDPAh2krK6g2ybHNiw?e=dDBrRb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Video About the Product:
+Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Eb4UOtbN2TpPmHkbOTEsg5EBTVEE1AnHvEgZEN2R62pAOQ?e=kMdwVa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=ieANAJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
