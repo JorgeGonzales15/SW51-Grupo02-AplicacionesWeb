@@ -2630,7 +2630,7 @@ El producto del desarrollo del presente sprint, está reflejado en el siguiente 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/ed3333e2-9841-4e26-be0a-e0d7b3f17916)
 
 
-Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EdXaelOv9URChjISrYO5tsIBgWsKQ8BCKIRgFvnKujta_w?e=AUQpsX&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
+Link del video: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EUKGm5viF9hPoBor__sFyGIBy66n1E0JLtkFgNkWJAyoeg?e=BrpqxT&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D) 
 
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review.
@@ -2782,7 +2782,7 @@ Repositorio backend:
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d16b9638-e63c-4198-bd29-27d9e5644f24)
 
-Repositorio Frontend: 
+
 
 ## 5.3. Validation Interviews.
 
@@ -3116,23 +3116,8 @@ Finalmente, se realizó una nueva versión del Video About The Product, donde se
 
 ![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/83794c67-3662-41aa-9031-830ecd8b0678)
 
-
-
 Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQ9fozXovltNlC6zr-2_cRgBEy6_SiobIvZJTTdRmfrPBA?e=o1fx7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-## 5.5. Video About-the-Team.
-
-A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso. 
-
-El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=oSKAUf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
-
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7cbdca92-34b6-4d60-98e4-40dcedb5f8ff)
-
-Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
-
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/86388b3b-fb23-4aa4-a9a7-176fb1cb8c26)
-
-Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=lRY13P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Conclusiones
 
@@ -3149,6 +3134,18 @@ Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/E
 - Se desarrollo la primera version de Web Services, donde como principal base tenemos la logica de negocio orientada al producto solucion, se implementaron operaciones de features de mantenimiento, sin embargo, se planificaron en algunos features incluir logica de negocio. Por otro lado, la implementacion fue un poco complicada, debido a que se tenia que usar dependencias e inyecciones.
 
 - En conclusión, el proyecto de desarrollo de la aplicación web, con un frontend en Java Vue y un backend en C#, implementado mediante metodologías ágiles, ha demostrado la eficacia de la colaboración dentro de un equipo multidisciplinario de desarrollo de software. La combinación de tecnologías modernas, enfoques ágiles y la diversidad de habilidades en el equipo permitió alcanzar los objetivos establecidos de manera eficiente. La aplicación resultante no solo cumple con los requisitos funcionales, sino que también refleja la adaptabilidad del equipo frente a los cambios y la capacidad para enfrentar desafíos de manera colaborativa. Este proyecto no solo ha mejorado nuestras habilidades técnicas, sino que también ha fortalecido la importancia de la comunicación, la flexibilidad y la iteración continua en el proceso de desarrollo de software. En resumen, la experiencia adquirida a lo largo de este proyecto destaca la efectividad de la combinación de tecnologías de vanguardia y metodologías ágiles en la creación exitosa de aplicaciones web robustas y funcionales.
+
+- A continuación, se muestra el Video About the Team, donde se ahce una retrospectiva al grupo y se realta las tareas realizadas asimismo con los logros de los outcomes del curso. 
+
+El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=oSKAUf&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZyIsInJlZmVycmFsQXBwUGxhdGZvcm0iOiJXZWIiLCJyZWZlcnJhbE1vZGUiOiJ2aWV3In19)
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/279224976-7cbdca92-34b6-4d60-98e4-40dcedb5f8ff.png)
+
+Finalmente, se realizó una nueva versión del Video About The Team, donde se actualizará la retrospectiva con respecto al Sprint 4 y se adicionará el resumen de tareas del sprint 4. A continuación el link del video:
+
+![image](https://github-production-user-asset-6210df.s3.amazonaws.com/104078975/284408027-86388b3b-fb23-4aa4-a9a7-176fb1cb8c26.png)
+
+Link: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=lRY13P&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
 
 # Referencias
 
@@ -3172,7 +3169,7 @@ Video Exposición TP: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118
 
 Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EbkzzmlLil1Mt0T0Xu1XmhkBoba7XcaDEOFrP2nIWuR3fA?e=XdW5dX)
 
-Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ER6GLSTzxwJImig4J5OGlcQB8Z5OzDPAh2krK6g2ybHNiw?e=dDBrRb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EUULcCtVLjVNg7damz8GNJQB0AgrOHbHwlkiBJHlLVnGYA?e=pcPTlG&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQ9fozXovltNlC6zr-2_cRgBEy6_SiobIvZJTTdRmfrPBA?e=o1fx7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
