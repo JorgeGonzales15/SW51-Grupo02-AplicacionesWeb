@@ -1925,7 +1925,24 @@ Link del prototipo: (https://www.figma.com/proto/tniolYyFGnxJ4QF4BLTZt8/Angular-
 ## 4.6. Domain-Driven Software Architecture.
 ### 4.6.1. Software Architecture Context Diagram.
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7f6db2b7-0de8-43e9-bf16-a78959e95823)
+Diagrama de contexto:
+
+![structurizr-88034-Contexto](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d5df60e9-7a1a-4a66-8299-1b226e42742b)
+
+Diagrama de contenedores:
+
+![structurizr-88034-Contenedores](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/705d9979-1c4b-4b83-85fc-c44c290578c9)
+
+Diagrama de componentes:
+
+![structurizr-88034-Componente3](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/d6607a29-85b5-427b-aed8-68fe78990e54)
+
+![structurizr-88034-Componente4](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/7b70fbfb-94af-43f7-a797-8d3724707dee)
+
+![structurizr-88034-Componente](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/40fa2fb1-747f-4e48-a2aa-8acf43d08c01)
+
+![structurizr-88034-Componente2](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/5960622f-2b98-49a5-a6a3-d9306e5037af)
+
 
 
 ### 4.6.2. Software Architecture Container Diagrams.
@@ -3097,10 +3114,11 @@ El link es el siguiente: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u202
 
 Finalmente, se realizó una nueva versión del Video About The Product, donde se mostrará a totalidad las funcionalidades de la aplicación web como resultado del Sprint 4. A continuación el link del video:
 
-![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/bd622dcf-10de-48a7-9eec-b3fa71410a74)
+![image](https://github.com/upc-2023-GreatMinds-SW51-Web/Informe-Final-Web/assets/104078975/83794c67-3662-41aa-9031-830ecd8b0678)
 
 
-Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Eb4UOtbN2TpPmHkbOTEsg5EBTVEE1AnHvEgZEN2R62pAOQ?e=kMdwVa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQ9fozXovltNlC6zr-2_cRgBEy6_SiobIvZJTTdRmfrPBA?e=o1fx7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 ## 5.5. Video About-the-Team.
 
@@ -3156,6 +3174,6 @@ Video Exposición TB2: (https://upcedupe-my.sharepoint.com/:v:/g/personal/u20211
 
 Video Exposición TF: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ER6GLSTzxwJImig4J5OGlcQB8Z5OzDPAh2krK6g2ybHNiw?e=dDBrRb&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
-Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/Eb4UOtbN2TpPmHkbOTEsg5EBTVEE1AnHvEgZEN2R62pAOQ?e=kMdwVa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
+Video About the Product: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/EQ9fozXovltNlC6zr-2_cRgBEy6_SiobIvZJTTdRmfrPBA?e=o1fx7K&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
 
 Video About the Team: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202118468_upc_edu_pe/ERRTSka2fHdKj9-fK8KUKvwBb5OwFcVHf6QV0F9K_Fbv3g?e=ieANAJ&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D
